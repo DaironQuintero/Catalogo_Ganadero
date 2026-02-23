@@ -1,0 +1,71 @@
+.about-section {
+  padding: 80px 20px;
+  background-color: #f4f7f6;
+  color: #333;
+}
+
+.about-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.subtitle {
+  color: #1a73e8;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.about-text h2 {
+  font-size: 2.5rem;
+  color: #0a1f44;
+  margin: 10px 0 20px;
+}
+
+.about-text p {
+  line-height: 1.8;
+  font-size: 1.1rem;
+  color: #555;
+  max-width: 800px;
+}
+
+.about-stats {
+  display: flex;
+  gap: 40px;
+  margin-top: 30px;
+}
+
+.stat-item h3 {
+  font-size: 2rem;
+  color: #0a1f44;
+  margin: 0;
+}
+
+.about-mission {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.mission-card {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+  border-left: 5px solid #0a1f44;
+}
+
+.mission-card h3 {
+  color: #0a1f44;
+  margin-bottom: 15px;
+}
+
+@media (max-width: 768px) {
+  .about-stats {
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+}

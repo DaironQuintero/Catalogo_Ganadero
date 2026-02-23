@@ -1,0 +1,7 @@
+[
+  { "id": "todos", "name": "Todo", "emoji": "📋" },
+  { "id": "ganaderia", "name": "Ganadería", "emoji": "🐄" },
+  { "id": "mascotas", "name": "Mascotas", "emoji": "🐶" },
+  { "id": "insecticidas", "name": "Insecticidas", "emoji": "🪰" },
+  { "id": "roedores", "name": "Roedores", "emoji": "🐀" }
+]

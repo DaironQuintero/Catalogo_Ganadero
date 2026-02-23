@@ -1,0 +1,285 @@
+/* 1. Animación para el fondo oscuro (aparece suavemente) */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* 2. Animación para la ventanita (pequeño rebote de escala) */
+@keyframes zoomIn {
+  from {
+    opacity: 0;
+    transform: scale(0.8) translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2000;
+  padding: 20px;
+  animation: fadeIn 0.3s ease-out;
+  backdrop-filter: blur(4px);
+}
+
+.modal-content {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  max-width: 800px;
+  width: 100%;
+  position: relative;
+  animation: fadeIn 0.3s ease;
+  animation: zoomIn 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.modal-close {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 30px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #333;
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.modal-close:hover {
+  transform: rotate(90deg) scale(1.2);
+  color: #e74c3c; 
+}
+.modal-body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  align-items: center;
+}
+
+.modal-img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: contain;
+  background: #f8f8f8;
+  border-radius: 10px;
+}
+
+.modal-details h2 {
+  color: #0a1f44;
+  margin-bottom: 10px;
+}
+
+.modal-action-btn {
+  margin-top: 20px;
+  width: 100%;
+  padding: 12px;
+  background: #25d366; /* Color verde WhatsApp */
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .modal-body {
+    grid-template-columns: 1fr;
+  }
+}
+
+.modal-action-btn {
+  background-color: #25d366; /* Verde oficial de WhatsApp */
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  border: none;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  transition: transform 0.2s, background 0.3s;
+  width: 100%;
+}
+
+.modal-action-btn:hover {
+  background-color: #128c7e;
+  transform: scale(1.02);
+}
+.modal-lab-tag {
+  background: #e1ecf4;
+  color: #1a73e8;
+  padding: 4px 12px;
+  border-radius: 15px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.modal-info-section {
+  margin-top: 20px;
+}
+
+.modal-info-section h4 {
+  color: #0a1f44;
+  font-size: 0.95rem;
+  margin-bottom: 5px;
+  border-left: 3px solid #1a73e8;
+  padding-left: 8px;
+}
+
+.modal-info-section p {
+  color: #555;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+/* Mejora el scroll en móviles si el texto es muy largo */
+.modal-content {
+  max-height: 90vh;
+  overflow-y: auto;
+}
+/* Badge del laboratorio */
+.lab-badge {
+  background: #f0f4f8;
+  color: #1a73e8;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.lab-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px; /* Separa el emoji del texto */
+  background: #eef2f7;
+}
+
+/* Grupos de información */
+.info-group {
+  margin-bottom: 20px;
+  text-align: justify;
+  text-align-last: left;
+  hyphens: auto; 
+  line-height: 1.6; 
+  letter-spacing: 0.3px; 
+  color: #333; 
+  font-size: 0.95rem;
+  white-space: pre-wrap; 
+  padding: 5px 2px;
+}
+
+.info-group h4 {
+  color: #0a1f44;
+  font-size: 0.9rem;
+  margin-bottom: 6px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.info-group p {
+  color: #4a5568;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+/* Estilo específico para el uso */
+.usage-text {
+  font-style: italic;
+  border-left: 3px solid #25d366; 
+  padding-left: 10px;
+}
+/* Botón principal: Añadir al Pedido */
+.add-to-cart-btn {
+  width: 100%;
+  background-color: #1a1a1a; 
+  color: white;
+  padding: 16px;
+  border-radius: 12px;
+  font-weight: bold;
+  font-size: 1rem;
+  border: 2px solid #1a1a1a;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+  transition: all 0.3s ease;
+}
+
+.add-to-cart-btn:hover {
+  background-color: #333;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.add-to-cart-btn:active {
+  transform: scale(0.98);
+}
+.add-to-cart-btn.added {
+  background-color: #25d366; /* Cambia a verde al agregar */
+  border-color: #25d366;
+  transform: scale(1.05);
+}
+/* Botón secundario: Consultar WhatsApp (el que ya tenías) */
+.modal-action-btn {
+  width: 100%;
+  background-color: transparent;
+  color: #25d366;
+  padding: 14px;
+  border-radius: 12px;
+  font-weight: 600;
+  border: 2px solid #25d366; 
+  cursor: pointer;
+  margin-top: 20px;
+  transition: all 0.3s ease;
+}
+
+.modal-action-btn:hover {
+  background-color: #25d366;
+  color: white;
+}
+.presentation-selector {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.pres-pill {
+  padding: 8px 15px;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  background: white;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+}
+
+.pres-pill.active {
+  background: #1a1a1a;
+  color: white;
+  border-color: #1a1a1a;
+}

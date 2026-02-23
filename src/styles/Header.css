@@ -1,0 +1,325 @@
+.header-container {
+  max-width: 1200px;
+  margin: 0 auto;    /* Centra el bloque */
+  padding: 0 20px;   /* Evita que toque los bordes del monitor */
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.header {
+  background-color: #0a1f44;
+  color: white;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+  box-sizing: border-box;
+}
+
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px; /* Límite de ancho para PC */
+  margin: 0 auto;    /* Centra el bloque */
+  padding: 10px 20px;
+  gap: 15px;
+  position: relative;
+}
+
+.logo-title {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex: 0 1 auto; /* Permite que se encoja si es necesario */
+}
+
+.logo-img {
+  width: 60px; /* Tamaño controlado */
+  height: auto;
+}
+
+.title-text h1 {
+  font-size: 1.2rem;
+  margin: 0;
+  white-space: normal; /* Permite que el texto baje si es muy largo */
+  line-height: 1.2;
+}
+
+.hamburger {
+  position: absolute;
+  right: 0;
+  font-size: 28px;
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  display: none;
+}
+
+/* NAV */
+.nav {
+  display: flex;
+  justify-content: center; 
+  gap: 30px;
+  margin: 10px 0;
+}
+
+.nav a,
+.dropdown-btn {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+/* DROPDOWN */
+.dropdown {
+  position: relative;
+  padding-bottom: 30px;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(10, 31, 68, 0.95);
+  padding: 15px;
+  border-radius: 8px;
+  display: grid;
+  grid-template-columns: repeat(2, 160px);
+  gap: 8px;
+  max-height: 280px;
+  overflow-y: auto;
+  z-index: 1000;
+  transition: opacity 0.40s ease, transform 0.25s ease;
+}
+
+.dropdown-menu a {
+  padding: 6px 10px;
+  border-radius: 4px;
+}
+.dropdown:hover .dropdown-menu,
+.dropdown-menu:hover {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(0);
+  pointer-events: auto;
+}
+.dropdown-menu a:hover {
+  background: rgba(255,255,255,0.15);
+}
+.search-container {
+  flex: 0 1 400px;
+}
+.category-nav-group {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 0;
+  overflow-x: auto;
+  white-space: nowrap;
+  scrollbar-width: none;
+}
+/* MOBILE */
+@media (max-width: 768px) {
+  .header-top {
+    padding: 10px 15px; /* Menos espacio para ganar ancho */
+    display: flex;
+    flex-wrap: wrap; 
+  }
+  .logo-title {
+    max-width: 80%; /* Deja espacio para la hamburguesa */
+  }
+
+  .title-text h1 {
+    font-size: 0.95rem; /* Achicamos el título para que no se corte */
+  }
+  .hamburger {
+    display: block;
+    position: relative; /* Cambiado de absolute a relative para que no flote */
+    right: 0;
+    margin-left: auto;
+  }
+
+  .nav {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .nav.open {
+    display: flex;
+  }
+
+  .dropdown-menu {
+    position: static;
+    transform: none;
+    grid-template-columns: 1fr;
+    max-height: 200px;
+  }
+}
+/*Buscador*/
+.search-container {
+    order: 3;
+    min-width: 100%;
+    margin: 10px 0 5px 0;
+  }
+
+.search-input {
+  width: 100%;
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  outline: none;
+  font-size: 16px;
+}
+
+.search-input:focus {
+  border-color: #1a73e8;
+  box-shadow: 0 0 5px rgba(26, 115, 232, 0.5);
+}
+.clear-search {
+  position: absolute;
+  right: 15px;
+  background: none;
+  border: none;
+  font-size: 20px;
+  color: #888;
+  cursor: pointer;
+  padding: 0;
+  line-height: 1;
+}
+
+.clear-search:hover {
+  color: #333;
+}
+/*Estilos categorias*/
+.category-nav-group {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start; 
+  padding: 15px 20px;
+  
+  /* CLAVE PARA EL SCROLL */
+  overflow-x: auto; 
+  flex-wrap: nowrap; 
+  width: 100%;
+  box-sizing: border-box;
+  
+  /* Limpieza de barras de scroll */
+  scrollbar-width: none; 
+  -ms-overflow-style: none;
+  -webkit-overflow-scrolling: touch; /* Scroll suave en iPhone */
+}
+.category-nav-group::-webkit-scrollbar {
+  display: none; /* Oculta en Chrome/Safari */
+}
+
+.cat-btn {
+  flex: 0 0 auto; /* Evita que el botón se encoja */
+  padding: 8px 18px;
+  border-radius: 20px;
+  white-space: nowrap; /* El texto nunca se rompe */
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  cursor: pointer;
+}
+
+.cat-btn.active {
+  background: white;
+  color: #0a1f44;
+  font-weight: bold;
+  box-shadow: 0 2px 8px rgba(255,255,255,0.2);
+}
+
+/* --- AJUSTES PARA MÓVILES (768px o menos) --- */
+@media (max-width: 768px) {
+  /* Evita que el header genere scroll lateral */
+  .header {
+    overflow-x: hidden; 
+  }
+
+  .header-top {
+    display: flex;
+    flex-wrap: wrap; /* Permitimos que el buscador baje */
+  }
+
+  .search-container {
+    order: 3; /* Mandamos el buscador abajo */
+    min-width: 100%;
+    margin: 15px 0 5px 0; /* Eliminamos márgenes laterales para que no choque */
+    padding: 0 10px; /* Le damos aire interno para que no toque los bordes */
+    box-sizing: border-box;
+  }
+  .search-input {
+    width: 100%; /* Ahora sí ocupa el ancho con su padding */
+  }
+
+  .nav {
+    display: none;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 15px;
+    padding: 10px 0;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    width: 100%;
+  }
+
+  .nav.open {
+    display: flex;
+  }
+
+  /* REPARACIÓN DE CATEGORÍAS: */
+  .category-nav-group {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start; 
+  padding: 10px 15px;
+  
+  /* --- CLAVE PARA EL DESPLAZAMIENTO --- */
+  overflow-x: auto; /* Permite scroll horizontal */
+  flex-wrap: nowrap; /* Evita que los botones se bajen a la siguiente línea */
+  width: 100%;
+  padding: 10px 5px;
+  
+  /* Ocultar la barra de scroll para que se vea más limpio */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE y Edge */
+  -webkit-overflow-scrolling: touch; /* Scroll suave en iOS */
+}
+/* Ocultar barra de scroll en Chrome, Safari y Opera */
+.category-nav-group::-webkit-scrollbar {
+  display: none;
+}
+
+.cat-btn {
+  flex: 0 0 auto; /* ¡MUY IMPORTANTE!: Evita que el botón se encoja para caber */
+  padding: 8px 16px;
+  border-radius: 20px;
+  white-space: nowrap; /* Evita que el texto del botón se rompa en dos líneas */
+}
+
+  .dropdown-menu {
+    position: static;
+    transform: none;
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
+}
+.cards-container {
+  display: grid;
+  /* Esta línea es la clave: el min(100%) evita el desborde */
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
+  gap: 20px;
+  padding: 15px;
+  width: 100%;
+  box-sizing: border-box;
+}
+

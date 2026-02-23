@@ -1,0 +1,4203 @@
+[
+  {
+    "id": 1,
+    "name": "Keto Clean",
+    "image": "/products/ketoclean-champu.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Champú antimicótico indicado para la limpieza del pelaje y el control de microorganismos de origen fúngico:",
+      "Microsporum gypseum, Trichophyton mentagrophytes, Trichophyton tonsurans, Trichophyton rubrum,",
+      "Trichophyton verrucosum, Malassezia pachydermatis, Epidermophyton floccosum y Candida albicans.",
+      "Disminuye la descamación y el prurito asociados a la dermatitis seborreica."
+    ],
+    "presentations": "120 mL, 250 mL, 500 mL, 2000 mL",
+    "usage": "Administrar en: Caninos, Felinos y equinos.",
+    "category": ["mascotas","ganaderia"]
+  },
+  {
+    "id": 2,
+    "name": "Dermi Clean",
+    "image": "/products/dermiclean_champu.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Champú medicado a base de Gluconato de Clorhexidina 2,5%, indicado",
+      "para el tratamiento de infecciones de la piel ocasionadas por microorganismos ",
+      "Gram-positivos y Gram-negativos como: Streptococcus sp,",
+      "Corynebacterium sp, Escherichia coli, Klebsilla sp y Pseudomonas sp, Candida",
+      "Malassazia y dermatofitos. Indicado en el aseo y la limpieza de animales domésticos."
+    ],
+    "presentations": "120 mL, 250 mL, 500 mL, 2000 mL",
+    "usage": "Administrar en: Caninos, Felinos y equinos.",
+    "category": ["mascotas","ganaderia"]
+  },
+  {
+    "id": 3,
+    "name": "Avenae Clean",
+    "image": "/products/avenaeclean-champu.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Champú cosmético de uso frecuente con extracto de avena al 5%. Hidratante, con acondicionador, ",
+      "PH balanceado, sin sal. Indicación para la limpieza, cuidado de la piel y pelaje.",
+      " Produce un efecto emoliente, hidratante y reparador. Contiene: Cocoamidas que lubrican y protegen",
+      "el pelo, dejándolo suave, brillante, sedosoy fácil de peinar."
+    ],
+    "presentations": "120 mL, 250 mL, 500 mL, 2000 mL",
+    "usage": "Administrar en: Caninos, Felinos y equinos.",
+    "category": ["mascotas"]
+  },
+  {
+    "id": 4,
+    "name": "SeptiDerm E",
+    "image": "/products/septiderm.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antiséptico tópico, indicado para el control de bacterias Grampositivas y Gramnegativas: ",
+      "Staphylococcus spp., S. pseudintermedius, Streptococcus spp., E. coli, P. aeruginosa, Proteus spp, Salmonella spp, ",
+      "Pseudomonas spp., Klebsiella spp. Tiene acción antifúngica: Candida albicans, Malassezia spp. y Dermatofitos",
+      "Es activo en piodermas superficiales. Al 1% está indicado como antiséptico de piel, erosiones, heridas superficiales, quemaduras leves y rasguños. La Vitamina E es un antioxidante natural, que conserva los ácidos grasos esenciales, tópica tiene acción antiinflamatoria y facilitadora de la cicatrización. "
+    ],
+    "presentations": "50 mL, 120 mL, 250 mL, 1000ml, 4000 mL",
+    "usage": "Administrar en: Caninos, Felinos, Equinos, Porcinos, Bovinos y Ovinos.",
+    "category": ["mascotas","ganaderia"]
+  },
+  {
+    "id": 5,
+    "name": "KetoDex",
+    "image": "/products/ketodexg.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Solución de uso tópico indicado en caninos, felinos, bovinos, ovinos, caprinos y porcinos. Para el tratamiento de afecciones cutáneas con acción bactericida, fungicida y antiinflamatoria.",
+      "En afecciones de tipo bacteriano causadas por Staphylococcus spp, Streptococcus spp, Proteus spp, Enterobacter spp, Escherichia coli, Klebsiella spp. ",
+      "y Shigella spp, y en afecciones micóticas causadas por Tricophyton verrucosum, Tricophyton rubrum, Tricophyton mentagrophytes, Epidermophyton floccosum, Mycrosporum canis, Candida albicans. "
+    ],
+    "presentations": "50 mL, 100 mL",
+    "usage": "Administrar en: Caninos, Felinos, Bovinos, Ovinos, Caprinos, Equinos y Porcinos.",
+    "category": ["mascotas","ganaderia"]
+  },
+  {
+    "id": 6,
+    "name": "Floxelin Oral Pets",
+    "image": "/products/floxelin-oral-pets.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antibacteriano de amplio espectro. Indicado para el tratamiento y control de enfermedades infecciosas causadas por bacterias Gram-positivas, Gram-negativas y Mycoplasmas. ",
+      " En caninos y felinos en infecciones causadas por: Escherichia coli, Salmonella sp., Proteus sp., Pasteurella sp., Bordetella sp., Klebsiella sp., Corynebacterium pyogenes,",
+      "Staphylococcus aureus, Streptococcus sp. Infecciones del tracto digestivo, respiratorio, genitourinario y dermatitis."
+    ],
+    "presentations": "30 mL",
+    "usage": "Administrar en: Caninos, Felinos, Porcinos y Aves.",
+    "category": ["mascotas"]
+  },
+  {
+    "id": 7,
+    "name": "Lincocelin 300",
+    "image": "/products/lincocelin300_pets.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antibacteriano de amplio espectro. Tiene especial tropismo hacia la glándula mamaria activo contra bacterias productoras de penicilinasa y en infecciones ",
+      "con pus: Neumonías, dermatitis pustular, tonsilitis, laringitis, metritis y mastitis."
+    ],
+    "presentations": "10 mL",
+    "usage": "Administrar en: Caninos, Felinos, Bovinos, Equinos y Porcinos.",
+    "category": ["mascotas","ganaderia"]
+  },
+  {
+    "id": 8,
+    "name": "Tecnitrim Pets",
+    "image": "/products/tecnitrim-pets.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antibacteriano de amplio espectro, indicado para el tratamiento y control de enfermedades causadas por bacterias Gram-positivas y ",
+      "Gram-negativas: neumonías, bronconeumonías, bronquitis, colisepticemias, actinobacilosis, septicemias y heridas infectadas."
+    ],
+    "presentations": "30 mL",
+    "usage": "Administrar en: Caninos, Felinos, Aves, Porcinos, Equinos y Bovinos(Terneros Lactantes).",
+    "category": ["mascotas"]
+  },
+  {
+    "id": 9,
+    "name": "Metronid",
+    "image": "/products/metronid.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antimicrobiano indicado para el control y tratamiento de trichomoniasis, amebiasis, giardiasis e infecciones producidas por bacterias anaeróbicas: abscesos abdominales, peritonitis, ",
+      "infecciones genitales, periodontitis, otitis media, osteítis, artritis, meningitis, en tejidos necróticos, amebiasis intestinal y hepática, absceso amebiano, uretritis por ",
+      "tricomonas, gastritis y duodenitis. Sumado a corticosteroides se puede usar para tratar gingivitis / estomatitis en felinos."
+    ],
+    "presentations": "5 mL, 15 mL, 50 mL, 100 mL ",
+    "usage": "Indicado para el tratamiento de edemas orgánicos y procesos inflamatorios.",
+    "category": ["mascotas"]
+  },
+  {
+    "id": 10,
+    "name": "Petsantel",
+    "image": "/products/petsantel.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antiparasitario oral de amplio espectro con sabor a tocino. Indicado para el control de parasitismo gastrointestinal en caninos y felinos producido por: Nemátodos: Toxocara canis, T. cati, Toxascaris leonina, Ancylostoma caninum, ",
+      "Uncinaria stenocephala, Trichuris vulpis, Strongyloides stercoralis, Capillaria spp., Spirocerca lupi, Dirofilaria immitis (microfilarias), Oncicola canis, Physaloptera spp. (gusano gástrico). ",
+      "Cestodos: Dipylidium caninum, Echinococcus granulosus, E. Multilocularis, E. vogeli, Spirometra spp., Taenia pisiformis, T. hydatigena y Taenia taeniformis. Protozoos: Giardia canis spp. "
+    ],
+    "presentations": "2 mL, 5 mL, 10 mL, 50 mL, 500 mL ",
+    "usage": "Administrar en: Caninos y Felinos.",
+    "category": ["mascotas"]
+  },
+  {
+    "id": 11,
+    "name": "Provide",
+    "image": "/products/provide-trp14.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Suplemento nutricional con biotina, triptófano, vitamina A, vitamina D3, vitamina E acetato, Tiamina HCl, Riboflavina 5 fosfato sódico, Piridoxina HCl, Nicotinamida, Cianocobalamina, Vitamina C, Fósforo, Calcio, Hierro y Cobre. Indicado en casos de ansiedad, estrés, anemia, pérdida de peso, estados de debilidad y retraso en el crecimiento.",
+      "Como estimulante del apetito, para restablecer la homeostasis en casos de enfermedades infecciosas virales, bacterianas, parasitarias o de diversa etiología: raquitismo, osteomalacia, osteoporosis, infertilidad, anorexia, estado de preñez, retardos en crecimiento, tetanias, alergias, dermatosis y retardos en la dentición. "
+    ],
+    "presentations": "50 mL, 120 mL, 250 mL ",
+    "usage": "Administrar en: Caninos y Felinos. Exclusivo para medicos veterinarios.",
+    "category": ["mascotas"]
+  },
+  {
+    "id": 12,
+    "name": "Floxelin 100 Inyectable",
+    "image": "/products/floxelin100-inyectable.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antimicrobiano de amplio espectro, indicado para el tratamiento y control de enfermedades infecciosas causadas por bacterias Gram-positivas, Gram-negativas y Mycoplasma. ",
+      "En bovinos en casos de mastitis, neumonía, bronconeumonía, neumonía enzoótica y micoplasmosis. En porcinos en salmonelosis, neumonía, bronconeumonía, ",
+      "neumonía enzoótica y rinitis atrófica. Infecciones del tracto digestivo, rinitis atrófica, mastitis, respiratoria, genitourinario."
+    ],
+    "presentations": "10 mL caja x 12 unidades, 50 mL , 100 mL",
+    "usage": "Administrar en: Bovinos, Porcinos y Caninos.",
+    "category": ["mascotas","ganaderia"]
+  },
+  {
+    "id": 13,
+    "name": "Floxelin 100 Oral",
+    "image": "/products/floxelin-oral.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antimicrobiano de amplio espectro, indicado para el tratamiento y control de enfermedades infecciosas  causadas por bacterias Gram-positivas, Gram-negativas y Mycoplasmas.",
+      "Infecciones del tracto digestivo y respiratorio: micoplasmas aviar, sinovitis infecciosa, coriza, pasteurelosis o cólera aviar, colibacilosis aviar y Enfermedad Respiratoria Crónica (ERC).  "
+    ],
+    "presentations": "10 mL caja x 12 goteros, 50 mL, 100 mL, 1000 mL",
+    "usage": "Administrar en: Aves (pollos de engorde y aves de reemplazo), Porcinos, Caninos y Felinos.",
+    "category": ["mascotas","ganaderia"]
+  },
+  {
+    "id": 14,
+    "name": "Tecnitrim Inyectable",
+    "image": "/products/tecnitrim-inyectable.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antibacteriano de amplio espectro, indicado para el tratamiento y control de enfermedades causadas por bacterias Gram-positivas, Gram-negativas: Mastitis, neumonía, ",
+      " bronquitis, vaginitis, metritis, nefritis, cistitis e infecciones digestivas producidas por: Escherichia coli y Salmonella spp. "
+    ],
+    "presentations": "10 mL caja x 12 unidades, 30 mL, 50mL , 100 mL",
+    "usage": "Administrar en: Bovinos, Equinos, Porcinos y Ovinos",
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 15,
+    "name": "Tecnitrim Oral",
+    "image": "/products/tecnitrim.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antibacteriano de amplio espectro, indicado para el tratamiento y control de enfermedades causadas por bacterias Gram-positivas y Gram-negativas: Cori za infecciosa, cólera aviar, colibacilosis, colisepticemias, ",
+      "septicemia, neumonía, broncopneumonías, pasteurelosis, rinitis atrófica, pododermatitis necrótica."
+    ],
+    "presentations": "10 mL caja x 12 goteros, 50 mL, 100 mL, 200 mL , 1000 mL",
+    "usage": "Administrar en: Aves, Porcinos, Terneros lactantes, Equinos, Bovinos, Caninos y Felinos.",
+    "category": ["mascotas","ganaderia"]
+  },
+  {
+    "id": 16,
+    "name": "Dipromid AB",
+    "image": "/products/dipromid-ab.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Hemoparasiticida, indicado para el control y tratamiento de Babesiosis (Fiebre de garrapata o ranilla roja): Babesia bovis, Babesia ",
+      "bigemina, Babesia caballi, Babesia canis, Theileria equi. Anaplasmosis (Ranilla Blanca) causada por Anaplasma marginale. "
+    ],
+    "presentations": "10 mL, 50 mL , 100 mL",
+    "usage": "Administrar en: Bovinos, Equinos y Caninos.",
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 17,
+    "name": "Equantel-IP",
+    "image": "/products/equantel.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antiparasitario oral de amplio espectro para equinos, indicado para el control de parasitosis causadas por:",
+      "Nemátodos, Cestodos y Dípteros."
+    ],
+    "presentations": "Caja x 1 jeringa de 6.42g, Caja x 6 jeringas de 6.42g",
+    "usage": "Administrar en: Equinos.",
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 18,
+    "name": "Rumizol",
+    "image": "/products/rumizol.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antiparasitario oral de amplio espectro, indicado para el control y tratamiento de infestaciones causadas por Nemátodos (gusanos redondos), Cestodos (Tenias) y trematodos (Fasciola Hepática) en bovinos, ovinos y caprinos. ",
+      "Gastrointestinales: Trychostrongylus sp., Strongyloides sp., Ostertagia sp., Bunostomun sp., Chabertia sp., Cooperia sp. Pulmonares: Dictyocaulus viviparus Hepáticos: Fasciola hepática (huevos, larvas y formas adultas). "
+    ],
+    "presentations": " 10 mL caja x 24 unidades, 100 mL, 500 mL, 1000 mL ,2000 mL",
+    "usage": " Administrar en: Bovinos, Ovinos y Caprinos.",
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 19,
+    "name": "Betacort",
+    "image": "/products/betacort.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antiinflamatorio esteroide con actividad glucocorticoide. Indicado en casos de shock anafiláctico, vaca caída, asma de origen alérgico. También se recomienda para tratar afecciones de piel como: eczemas, alopecias, prurito",
+      "inespecífico de los perros y dermatosis alérgicas. En procesos inflamatorios no purulentos debido a traumatismos como: artritis, bursitis, carpitís, tendinitis, sinovitis y espondilitis. "
+    ],
+    "presentations": "5 mL, 10 mL, 20 mL , 50 mL",
+    "usage": "Administrar en: Bovinos, Equinos, Porcinos, Caninos y Felinos.",
+    "category": ["mascotas","ganaderia"]
+  },
+  {
+    "id": 20,
+    "name": "Lincocelin 300",
+    "image": "/products/lincocelin-iny-ganado.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antibacteriano con acción frente a bacterias productoras de penicilinasa, tiene especial tropismo hacia la glándula mamaria, por lo que logra concentraciones activas siete veces mayores en leche que en sangre. ",
+      "Indicado para el control de infecciones en la glándula mamaria, neumonía, enterotoxemia, adenitis equina, gurma, sinovitis, disentería porcina, micoplasmosis aviar."
+    ],
+    "presentations": "10 mL, 20 mL , 50 mL.",
+    "usage": "Administrar en: Bovinos, Ovinos, Equinos, Porcinos, Caninos y Felinos.",
+    "category": ["mascotas","ganaderia"]
+  },
+  {
+    "id": 21,
+    "name": "Lincocelin Secado",
+    "image": "/products/lincocelin-secado.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antimastítico, efectivo para el control de mastitis clínica y subclínicas en vacas en periodo de secado, causadas por bacterias Gram-positivas y Gram-negativas incluyendo aquellas resistentes a la ",
+      "penicilina. Su actividad bactericida persiste durante el periodo seco. De esta forma se controla efectivamente la incidencia de mastitis en la siguiente lactancia."
+    ],
+    "presentations": " 10 mL Caja x 4 unidades, 10 mL Caja x 24 unidades",
+    "usage": " Administrar en: Bovinos.",
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 22,
+    "name": "Lincocelin Lactancia",
+    "image": "/products/lincocelin-lactancia.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Antimastítico, efectivo en mastitis causadas por bacterias Gram-positivas y Gram-negativas, incluyendo aquellas resistentes a la penicilina. Su actividad ",
+      "antiinflamatoria permite una mejor difusión de los microbianos en la glándula mamaria. Indicado para mastitis clínica."
+    ],
+    "presentations": "10 mL Caja x 4 unidades , 10 mL Caja x 24 unidades",
+    "usage": "Administrar en: Bovinos.",
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 23,
+    "name": "Oxitocin",
+    "image": "/products/oxitocin.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Solución oxitócica, indicado para promover las contracciones uterinas, el descenso de la leche y en algunos cuadros clínicos como: inducción del parto, inercia o atonía uterina, ",
+      "involución del útero después de la cesárea, expulsión de secundinas y exudados post-parto, agalactia de la cerda, piometritis, endometritis crónica."
+    ],
+    "presentations": "10 mL , 50 mL.",
+    "usage": "Administrar en hembras de las siguientes especies: Bovinos, Equinos, Porcinos, Caninos y Felinos.",
+    "category": ["mascotas","ganaderia"]
+  },
+  {
+    "id": 24,
+    "name": "Vitade",
+    "image": "/products/vitade.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Solución de vitaminas A y D3. Indicado en hipovitaminosis A y D3 durante la preñez, lactancia y crecimiento. En enfermedades infecciosas o parasitarias, alimentación deficiente, raquitismo, ",
+      "osteomalacia, trastorno del crecimiento, distrofia muscular, anorexia, perdida de peso, descenso en la fertilidad, abortos y estados de estrés."
+    ],
+    "presentations": "10 mL, 50 mL, 100 mL , 250 mL",
+    "usage": "Administrar en: Bovinos, Equinos, Porcinos, Ovinos y Caprinos.",
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 25,
+    "name": "Avipork 25 AC",
+    "image": "/products/avipork.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Suplemento alimenticio con vitaminas, minerales, aminoácidos y Betaína para ser suministrado en el agua de bebida para pollos de",
+      "engorde, gallinas ponedoras, gallinas reproductoras, pavos, patos, codornices, gallos de pelea, aves ornamentales y cerdos de todas las edades y etapas reproductivas. "
+    ],
+    "presentations": "Caja x 10 sobres x 100 g,Caja x 25 x 10g",
+    "usage": "Administrar en: Aves y Porcinos.",
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 26,
+    "name": "Provide B200",
+    "image": "/products/provideb200.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Complejo multivitamínico usado en el tratamiento de las deficiencias de Tiamina, Piridoxina, Riboflavina, Nicotinamida, D-pantenol y Cianocobalamina.",
+      "Indicado en anemias megaloblástica, macrocítica y normocítica ocasionadas por diferentes causas."
+    ],
+    "presentations": "10 mL caja x 12 unidades, 50 mL, 100 mL, 250 mL , 500 mL",
+    "usage": "Administrar en: Bovinos, Equinos, Porcinos, Ovinos, Caprinos, Caninos y Felinos.",
+    "category": ["mascotas","ganaderia"]
+  },
+  {
+    "id": 27,
+    "name": "HairBall",
+    "image": "/products/hairball.png",
+    "laboratory": "Weiss",
+    "description": [
+      "airBall® es un suplemento alimenticio en forma de jalea que contiene Betaglucanos que ayudan a reparar el sistema gastrointestinal dañado, fortalecer el sistema inmune, además de evitar posibles trastornos digestivos. ",
+      " HairBall® contiene Taurina, aminoácido esencial para visión y función cardiaca en gatos. HairBall® es muy palatable y de fácil administración.",
+      "Está indicado para gatos de todas las razas y edades previniendo la formación de bolas de pelo, facilitando el tránsito intestinal para su normal excreción. "
+    ],
+    "presentations": "50 g, 100 g.",
+    "usage": " Indicado en gatos a partir de los 3 meses de edad.",
+    "category": ["mascotas"]
+  },
+  {
+    "id": 28,
+    "name": "Piel y Pelo Gatos",
+    "image": "/products/piel-pelo-gatos.png",
+    "laboratory": "Weiss",
+    "description": [
+      "Piel y Pelo® Gatos es un suplemento alimenticio en jalea con Ácidos grasos Omega 3, 6 y 9, MSM, Fructooligosacáridos, Ácido Hialurónico, Taurina, Zinc, Selenio y Vitaminas, que ayudan a una nutrición ",
+      "avanzada para la piel y el pelo de los gatos, controlando su caída y mejorando su apariencia. Coadyuvante en el tratamiento de enfermedades de la piel y el pelo, es muy palatable y de fácil administración evitando generar situaciones de estrés"
+    ],
+    "presentations": "50 g , 100 g.",
+    "usage": "Está indicado en gatos de todas las razas y edades.",
+    "category": ["mascotas"]
+  },
+  {
+    "id": 29,
+    "name": "Vitasel Solución Inyectable",
+    "image": "/products/vitasel.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Complejo mineral a base de fósforo, selenio, yodo y zinc. "
+    ],
+    "presentations": "500 mL , 250 mL, 100 mL, 50 mL",
+    "usage": [
+      "Administración: Vía intramuscular profunda.\nDosis: 1 mL por cada 20 kg de peso vivo entodas las especies propuestas. Si a criterio del Médico Veterinario se requiere repetir éste tratamiento, se recomienda hacerlo hasta por 5 días de forma consecutiva, cambiando el sitio de cada inyección. "
+    ],
+    "category": ["ganaderia"]
+  },
+   {
+    "id": 30,
+    "name": "CrecEdor Emulción Inyectable",
+    "image": "/products/crecedor.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Asociación de vitaminas, minerales y aminoácidos. Aumenta la producción y favorece la reproducción. Coadyuvante en el tratamiento de enfermedades infecciosas y parasitarias. "
+    ],
+    "presentations": "500 mL , 250 mL, 100 mL, 50 mL",
+    "usage": [
+      "Administración: vía subcutánea\nDosis:BOVINOS:Hasta 50 kg 2.0 mL, entre 51 - 100 kg 3.0 mL. Entre 101 - 200 kg 6.0 mL. Adultos 10.0 mL.",
+      "\nPORCINOS:Hasta 30 kg 2.0 mL, mayores de 30kg 3.0 - 5.0 mL.",
+      "\nOVINOS Y CAPRINOS: Jóvenes 2.0 mL, Adultos3.0 - 5.0 mL.",
+      "\nEsta dosis se puede repetir por 3 días o a criterio del Médico Veterinario."
+    ],
+    "category": ["ganaderia"]
+  },
+   {
+    "id": 31,
+    "name": "Fosfotón",
+    "image": "/products/fosfoton.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Fósforo + Vitamina B12. Tratamiento de problemas reproductivos por deficiencia de fósforo, estados de enfermedad debilidad, inapetencia. ",
+      "Estimula el desarrollo general de los animales y su rendimiento productivo. "
+    ],
+    "presentations": "500 mL , 250 mL, 100 mL, 50 mL",
+    "usage": [
+      "Administración: Vía intramuscular o subcutánea.\nDosis:Bovinos y Equinos:Adultos 15 a 25 mL, Medianos 10 a 15 mL, Terneros y potros 5 a 10ml.",
+      "\nPorcinos: 1 a 10 mL (Según tamaño y peso). Ovinos y caprinos 2.5 a 5 mL, Caninos y gatos:0.5 a 5 mL. ",
+      "\nRepetir dosis durante tres días o criterio del Médico Veterinario."
+    ],
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 32,
+    "name": "Complebet Oral",
+    "image": "/products/complebet-oral.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Solución de vitaminas del Complejo B. Antianémico. Coadyuvante en el tratamiento de todo tipo de enfermedades que cursan con anemia, inapetencia, debilidad. "
+    ],
+    "presentations": "4 Litros , 1000 mL, 100 mL, 12 Goteros x 30 mL",
+    "usage": [
+      "Administración: Vía oral únicamente. Duración del tratamiento 3-5 días o a criterio del médico veterinario.\nDosis: Aves: Adminístrese a razón de 2.5 mL de Complebet Oral por litro de agua de bebida (equivale a 50 gotas por litro de agua). Bovinos y equinos: 10 mL por cada 100 Kg de peso vivo.",
+      "\nOvinos, caprinos y porcinos: 5 mL por cada 20 Kg de peso vivo. ",
+      "\nCaninos: 5 a 10 mL según tamaño.",
+      "\nGatos: 2 a 5 mL según tamaño."
+    ],
+    "category": ["ganaderia"]
+  },
+   {
+    "id": 33,
+    "name": "Porcifer B12",
+    "image": "/products/porciferb12.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Hierro dextran + Vitamina B12. Indicado para la prevención y tratamiento de la anemia en lechones y cerdos adultos. "
+    ],
+    "presentations": "100 mL, 50 mL, Caja 10 und x 10 mL",
+    "usage": [
+      "Administración: Vía intramuscular profunda.\nDosis: Lechones: 1 - 2 mL.Terneros: 5 mL.",
+      "\nO a criterio del Médico Veterinario."
+    ],
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 34,
+    "name": "Complebet",
+    "image": "/products/complebet.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Solución de vitaminas del Complejo B. ANTIANÉMICO, coadyuvante en el tratamiento de enfermedades infecciosas y parasitarias."
+    ],
+    "presentations": "500 mL , 250 mL, 100 mL, 50 mL, Caja 10 und x 10 mL",
+    "usage": [
+      "Administración: Únicamente vía intramuscular.\nDosis:1 mL por cada 50 Kg de peso vivo en: Animales grandes 10 mL, animales medianos 5 a 8 mL, animales pequeños 1 a 3 mL, aplicar diariamente por 5 a 10 días consecutivos."
+    ],
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 35,
+    "name": "Neomil",
+    "image": "/products/neomil.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Formula concentrada de vitaminas del complejo B"
+    ],
+    "presentations": "500 mL, 250mL, 100 mL, 50 mL",
+    "usage": [
+      "Administración: Exclusivamente vía intramuscular profunda.\nDosis: Se recomienda administrar las siguientes dosis en: Bovinos, equinos adultos: 1 mL por cada 100 Kg de peso.",
+      "\nTerneros, potros: 0,5 mL por cada 50 Kg de peso Ovinos, caprinos, porcinos: 0,5 mL por cada 25 Kg de peso.",
+      "\nPerros: De 2 hasta 10 Kg de peso: 0,5 mL Mayor a 10 Kg hasta 50 Kg de peso: 1 mL Variaciones a esta dosificación según criterio del Médico veterinario."
+    ],
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 36,
+    "name": "Fortimax ATP",
+    "image": "/products/fortimax-atp.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "En bovinos, equinos, porcinos, ovinos, caprinos,perros y gatos, coadyuvante en el tratamiento de los estados de deficiencia de los componentes presentes",
+      "en la formulación, asociación de Selenio con vitaminas y ATP. Protector orgánico, activador metabólico. No requiere tiempos de retiro."
+    ],
+    "presentations": "250mL, 100 mL, 50 mL",
+    "usage": [
+      "Administración: Administrar por vía intramuscular o subcutánea.\nDosis: Aplicar 3 mL por cada 50 Kg de peso para las especies indicadas.",
+      "\nEn gatos: 0,5 mL a 1 mL de acuerdo con la edad y el peso",
+      "\nAdministrar en intervalos de 24 a 48 horas, hasta alcanzar mínimo tres aplicaciones o a criterio del médico veterinario."
+    ],
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 37,
+    "name": "Hematop Dipro",
+    "image": "/products/hematop-dipro.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Antihematozoario para el tratamiento y control de babesiosis y anaplasmosis, para bovinos, equinos y perros. "
+    ],
+    "presentations": "100 mL, 10 mL",
+    "usage": [
+      "Dosis y administración: Bovinos, ovinos, caprinos, perros: administración intramuscular o subcutánea.Equinos, mulas, asnos: administración intramuscular",
+      "\nTiempo de retiro: La leche producida durante tratamiento y 96 horas después de finalizado el mismo no debe darse al consumo humano."
+    ],
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 38,
+    "name": "Hemopar B12",
+    "image": "/products/hemopar-b12.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Eficaz contra Babesia, Anaplasma y Tripanosoma (Fiebre de garrapata, ranilla roja, ranilla blanca, renguera, secadera). Además controla la fiebre y estimula la hematopoyesis. ",
+      "\nSolución lista para usar: No requiere mezcla o reconstitución. "
+    ],
+    "presentations": "500mL, 250mL, 100 mL, 30 mL",
+    "usage": [
+      "Administración:Únicamente vía intramuscular profunda.\nDosis: En todas las especies indicadas aplicar 1mL por cada 13 Kg de pesos vivo, o a criterio del Médico Veterinario. En la practica, 1 frasco de 30 mL para un animal de 390 kg de peso vivo."
+    ],
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 39,
+    "name": "Mebequino",
+    "image": "/products/mebequino.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Mebendazol micronizado. ANTIPARASITARIO interno de amplio espectro. Tenicida."
+    ],
+    "presentations": "Jeringa x 20mL",
+    "usage": [
+      "Administración:VÍA ORAL, directamente en la boca del animal.\nDosis: 5 mL por cada 100 Kg de peso vivo. Para tenias, 10mL por cada 100Kg del peso vivo."
+    ],
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 40,
+    "name": "Vermicerdos",
+    "image": "/products/vermicerdos.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Mebendazol micronizado. ANTIPARASITARIO interno de amplio espectro."
+    ],
+    "presentations": " Caja x10 sobres,dispensador x 50 sobres de 5 g",
+    "usage": [
+      "Administración: Por vía oral, mezclado con el alimento de los cerdos\nDosis: Mezclar VERMICERDOS con el alimento a razón, 1 sobre de 5g por cada 50 Kg de peso vivo."
+    ],
+    "category": ["ganaderia"]
+  },
+   {
+    "id": 41,
+    "name": "Equintel",
+    "image": "/products/equintel.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Pamoato de Pirantel. ANTIPARASITARIO  interno específico para EQUINOS."
+    ],
+    "presentations": " Jeringa x 20 mL, 200mL",
+    "usage": [
+      "Administración: ORAL, directamente en la boca del animal.\nDosis: 2.5 mL por cada 50 Kilos de peso vivo."
+    ],
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 42,
+    "name": "Levamisol 15%",
+    "image": "/products/levamisol.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Antiparasitario interno. Acción preventiva y de control contra nemátodos gastrointestinales y  parásitos pulmonares (bronquitis verminosa de ",
+      "los terneros, parásito pulmonar en porcinos). Indicado en bovinos, porcinos, ovinos y caprinos."
+    ],
+    "presentations": " 20mL,50mL,100mL,250mL,500mL ",
+    "usage": [
+      "Administración: Vía intramuscular profunda.\nDosis: 1 mL por cada 30 Kilos de peso vivo."
+    ],
+    "category": ["ganaderia"]
+  },
+   {
+    "id": 43,
+    "name": "Triclafen",
+    "image": "/products/triclafen.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Fenbendazol + Triclabendazol Asociación ANTIPARASITARIA con acción contra nemátodos,tenias y potente acción FASCIOLICIDA."
+    ],
+    "presentations": " 50mL,500mL,1L,2L ",
+    "usage": [
+      "Administración: Vía oral únicamente.\nDosis: Administrar 1 mL de suspensión oral por cada10 Kg de peso vivo. Una sola administración es suficiente, sin embargo, ",
+      "la repetición del tratamiento y el plan de administración del producto queda a criterio del Médico Veterinario."
+    ],
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 44,
+    "name": "Levamisol 3.2%",
+    "image": "/products/levamisol-oral.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Acción preventiva de control contra nemátodos gastrointestinales y parásitos pulmonares (bronquitis verminosa de los terneros, parásito pulmonar en porcinos). ",
+      "Indicado en bovinos, porcinos, ovinos y caprinos."
+    ],
+    "presentations": "Sachet x 30 mL",
+    "usage": [
+      "Administración: Por vía oral, solo o disuelto en un poco de agua, suministrándolo en una sola toma.\nDosis: 1 mL por cada 4 kg de peso vivo. "
+    ],
+    "category": ["ganaderia"]
+  },
+   {
+    "id": 45,
+    "name": "Albendazol 25% Co.",
+    "image": "/products/albendazol.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Albendazol adicionado con cobalto.ANTIPARASITARIO interno de amplio espectro para RUMIANTES: Eficaz en el control",
+      "y tratamiento de parásitos pulmonares,gastrointestinales,  tenias y Fasciola hepática. "
+    ],
+    "presentations": "Jeringa x 10mL,Jeringa x 20mL,100mL,200ml,500mLm,1000mL,2000mL,4000mL",
+    "usage": [
+      "Administración: ORAL, directamente en la boca del animal. INTRARUMINAL en la fosa iliaca izquierda (en animales de más de 150Kg de peso vivo). \nDosis: En bovinos y ovinos, a la dosis de 5 mg por kg de ",
+      "peso vivo (1 ml por cada 50 kilos de peso vivo), actúa eficaz y simultáneamente contra parásitos pulmonares,",
+      "gastrointestinales y tenias.Si hay presencia de  Fasciola hepática (distoma) aplicar  dosis de 10 mg por kg de peso vivo  (2 ml por cada 50 kilos de peso vivo)."
+    ],
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 46,
+    "name": "Febenzol",
+    "image": "/products/febenzol.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Fenbendazol 10%. ANTIPARASITARIO interno de amplio espectro, para RUMIANTES, PORCINOS Y EQUINOS. Efectivo en el control de las fases adultas",
+      ",inmaduras, larvas inhibidas y huevos de los parásitos mas comunes, incluidas las Tenias. "
+    ],
+    "presentations": "100mL,500mL,1L,2L",
+    "usage": [
+      "Administración: Vía Oral directamente en la boca del animal.\nDosis: En bovinos, porcinos, ovinos y caprinos: 1 mL por cada 20 Kg de peso vivo. En equinos 7.5 mL por cada 100 Kg de peso vivo."
+    ],
+    "category": ["ganaderia"]
+  },
+  {
+    "id": 47,
+    "name": "Servimec Gold",
+    "image": "/products/servimec-gold.png",
+    "laboratory": "Servinsumos",
+    "description": [
+      "Ivermectina 3.15%-Antiparasitario interno y externo con Acción Prolongada. Protege contra Nuche por 140 días y contra garrapatas por 75 días. "
+    ],
+    "presentations": "20mL,50mL,200mL,500mL",
+    "usage": [
+      "Administración:Únicamente por vía subcutánea.\nDosis: 1mL por cada 50 Kg de peso vivo."
+    ],
+    "category": ["ganaderia"]
+  },
+ {
+  "id": 48,
+  "name": "Servimec L.A.",
+  "image": "/products/servimec-la.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Ivermectina 1%. Antiparasitario interno y externo con fórmula de larga acción, protección contra reinfestaciones."
+  ],
+  "presentations": "50mL,200mL,500mL",
+  "usage": [
+    "Administración: Únicamente por vía subcutánea.\nDosis Bovinos: 1mL por cada 50 Kg de peso vivo.\nDosis Porcinos: 1mL por cada 33 Kg de peso vivo."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 49,
+  "name": "Dorakill",
+  "image": "/products/dorakill.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Doramectina 1%. Solución inyectable eficaz contra el parasitismo interno y externo en bovinos, ovinos y porcinos."
+  ],
+  "presentations": "50mL,250mL,500mL",
+  "usage": [
+    "Administración: Vía intramuscular o subcutánea.\nDosis Bovinos: 1mL por cada 50 Kg de peso vivo.\nDosis Ovinos (parásitos gastrointestinales y pulmonares): 1mL por cada 50 Kg de peso vivo.\nDosis Ovinos (sarna): 1mL por cada 50 Kg de peso vivo, repetir a los 7 días.\nDosis Porcinos: 1mL por cada 33 Kg de peso vivo por vía intramuscular."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 50,
+  "name": "Servimec",
+  "image": "/products/servimec.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Ivermectina 1%. Solución inyectable indicada en el tratamiento y control integral del parasitismo externo e interno."
+  ],
+  "presentations": "10mL (caja x10),50mL,100mL,200mL,500mL",
+  "usage": [
+    "Administración Bovinos: Únicamente por vía subcutánea.\nAdministración Porcinos: Únicamente por vía subcutánea en la parte superior del cuello.\nDosis Bovinos: 1mL por cada 50 Kg de peso vivo.\nDosis Porcinos: 1mL por cada 33 Kg de peso vivo."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 51,
+  "name": "Iverhorse",
+  "image": "/products/iverhorse.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Ivermectina 1.87%. Antiparasitario interno y externo de amplio espectro para equinos, con sabor a miel."
+  ],
+  "presentations": "Jeringa 6.42g",
+  "usage": [
+    "Administración: Vía oral.\nDosis: 200 mcg por Kg de peso vivo.\nUna jeringa alcanza para tratar un caballo de 600 Kg."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 52,
+  "name": "Ethiokill",
+  "image": "/products/etiokill.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Ethión 83%. Organofosforado garrapaticida, mosquicida y piojicida. Eficaz contra garrapatas, mosca brava, mosca de los cuernos y piojos del ganado."
+  ],
+  "presentations": "30mL,125mL,500mL,1000mL",
+  "usage": [
+    "Administración: Uso externo únicamente por aspersión.\nDosis: Mezclar 15mL por cada 20L de agua y aplicar de 4 a 5L de la mezcla por animal."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 53,
+  "name": "Nuchigan",
+  "image": "/products/nuchigan.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Control de larvas de Dermatobia hominis (nuches), ácaros de la sarna, piojos, moscas, pulgas y parásitos gastrointestinales en múltiples especies."
+  ],
+  "presentations": "Caja sobres x20 de 15g,Caja sobres x50 de 15g",
+  "usage": [
+    "Administración: Vía oral para parasitismo interno y baños por aspersión para parasitismo externo.\nDosis: Según especie y criterio del Médico Veterinario."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 54,
+  "name": "Garrabaño",
+  "image": "/products/garrabano.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Amitraz 12.5%. Garrapaticida eficaz contra garrapatas, piojos y sarnas en bovinos y caninos."
+  ],
+  "presentations": "100mL,500mL,1000mL,Caja x10 de 33mL",
+  "usage": [
+    "Administración: Solo en aspersión en bovinos.\nDosis: 33mL por cada 20L de agua. Bañar cada animal con 4 a 5L de la solución."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 55,
+  "name": "Amprodiar",
+  "image": "/products/amprodiar.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Amprolio 20%. Anticoccidial para tratamiento y control de la diarrea por coccidiosis en bovinos y aves."
+  ],
+  "presentations": "Caja sobres x25 de 25g,Caja sobres x50 de 25g",
+  "usage": [
+    "Administración: Vía oral disuelto en agua de bebida.\nDosis Aves: Un sobre por cada 25L de agua durante 7 días.\nDosis Bovinos, ovinos y caprinos: 5g por cada 100Kg de peso durante 5 días."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 56,
+  "name": "Genzuril",
+  "image": "/products/genzuril.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Toltrazuril + gentamicina. Control de diarreas por coccidiosis y colibacilosis en lechones y terneros."
+  ],
+  "presentations": "100mL,250mL,500mL,1000mL,Jeringa x30mL",
+  "usage": [
+    "Administración: Vía oral directa.\nDosis Lechones: 0.4mL por Kg de peso vivo (3-5 días de edad).\nDosis Terneros: 3 a 4mL por cada 10Kg de peso vivo."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 57,
+  "name": "Diarrevet",
+  "image": "/products/diarrevet.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Sulfaguanidina, caolín, pectina y electrolitos. Antidiarreico con acción bacteriostática intestinal y protector de la mucosa."
+  ],
+  "presentations": "Caja sobres x10 de 10g,Dispensador x50 sobres de 10g",
+  "usage": [
+    "Administración: Disolver en agua o leche y administrar vía oral.\nDosis Inicial: 20g por cada 50Kg de peso vivo.\nDosis de mantenimiento: 10g por cada 50Kg cada 12 horas durante 3 a 4 días."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 58,
+  "name": "A-Servilog",
+  "image": "/products/a-servilog.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Acetonida de triamcinolona. Antiinflamatorio indicado en artritis, sinovitis, tenosinovitis, bursitis y desórdenes alérgicos."
+  ],
+  "presentations": "10mL,20mL,50mL",
+  "usage": [
+    "Administración: Intramuscular o subcutánea según especie.\nDosis Bovinos, ovinos, caprinos y porcinos: 0.2 a 0.4mL por cada 100Kg de peso vivo.\nDosis Equinos: 0.22 a 0.44mL por cada 100Kg de peso vivo.\nDosis Caninos y felinos: 0.10 a 0.20mL por cada 10Kg de peso vivo."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 59,
+  "name": "Profen 15",
+  "image": "/products/profen-15.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Antiinflamatorio para afecciones dolorosas del sistema musculoesquelético y osteoarticular de origen traumático o postquirúrgico."
+  ],
+  "presentations": "10mL,50mL,100mL",
+  "usage": [
+    "Administración: Intramuscular o intravenosa según especie.\nDosis Bovinos y porcinos: 1mL por cada 50Kg de peso vivo.\nDosis Equinos: 1mL por cada 65Kg de peso vivo.\nDosis Caninos y gatos: 0.2mL por cada 15Kg de peso vivo."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 60,
+  "name": "Sanaxin",
+  "image": "/products/sanaxin.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Flunixin meglumina. Analgésico, antiinflamatorio y antipirético no esteroidal indicado en cólico equino, mastitis e inflamaciones."
+  ],
+  "presentations": "10mL,50mL,100mL",
+  "usage": [
+    "Administración: Vía intramuscular profunda o intravenosa.\nDosis Equinos: 1mL por cada 45Kg cada 12 a 24 horas.\nDosis Bovinos y porcinos: 2mL por cada 45Kg cada 24 horas durante 3 días."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 61,
+  "name": "Anflagec",
+  "image": "/products/anflagec.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Antiinflamatorio rubefaciente de uso externo indicado en mastitis, inflamaciones musculares, golpes y traumas."
+  ],
+  "presentations": "100g,250g,500g",
+  "usage": [
+    "Administración: Aplicación tópica externa.\nDosis: Aplicar directamente sobre la zona afectada 2 a 3 veces al día."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 62,
+  "name": "Crecefast",
+  "image": "/products/crecefast.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Zeranol 1%. Promotor de crecimiento que favorece el aprovechamiento del alimento en bovinos."
+  ],
+  "presentations": "50mL,250mL,500mL",
+  "usage": [
+    "Administración: Vía subcutánea.\nDosis: 1mL por cada 50Kg de peso vivo, repetir cada 90 días."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 63,
+  "name": "Boldenona 50",
+  "image": "/products/boldenona-50.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Boldenona. Anabólico promotor de la síntesis de proteína."
+  ],
+  "presentations": "50mL,100mL,250mL,500mL,Caja x10 de 10mL",
+  "usage": [
+    "Administración: Intramuscular profunda.\nDosis: 1mL por cada 90Kg de peso vivo."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 64,
+  "name": "Ceftiser",
+  "image": "/products/ceftiser.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Ceftiofur clorhidrato. Antibiótico eficaz contra bacterias gram positivas y gram negativas para infecciones respiratorias, podales y sistémicas."
+  ],
+  "presentations": "10mL,50mL,100mL",
+  "usage": [
+    "Administración: Intramuscular profunda o subcutánea.\nDosis Bovinos, ovinos y caprinos: 1 a 2mL por cada 50Kg de peso vivo.\nDosis Porcinos: 1mL por cada 13Kg de peso vivo.\nDosis Equinos: 2 a 4mL por cada 50Kg de peso vivo.\nDosis Caninos: 0.5mL por cada 12Kg de peso vivo."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 65,
+  "name": "Benzaproc 7.5",
+  "image": "/products/benzaproc.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Asociación de penicilinas sódica, procaínica y benzatínica. Antibiótico de acción inmediata, persistente y prolongada hasta por 5 días."
+  ],
+  "presentations": "Suspensión reconstituida 24mL",
+  "usage": [
+    "Administración: Intramuscular profunda.\nDosis: 1mL por cada 16.5Kg de peso vivo."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 66,
+  "name": "Tyloser",
+  "image": "/products/tyloser.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Tilosina 200mg. Antibiótico macrólido de amplio espectro indicado en infecciones respiratorias, mastitis, metritis y erisipela."
+  ],
+  "presentations": "50mL,100mL,250mL,Caja x10 de 10mL",
+  "usage": [
+    "Administración: Vía intramuscular.\nDosis: 1mL por cada 20Kg de peso vivo durante 5 días."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 67,
+  "name": "Oxitetraciclina",
+  "image": "/products/oxitetraciclina.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Oxitetraciclina clorhidrato al 5%. Antibiótico de amplio espectro para infecciones respiratorias, urogenitales, intestinales y anaplasmosis."
+  ],
+  "presentations": "50mL,100mL,250mL,500mL,Caja x30 de 10mL",
+  "usage": [
+    "Administración: Intramuscular, subcutánea o intravenosa.\nDosis: 10mL por cada 100Kg de peso vivo durante 5 días.\nDosis animales pequeños: 2mL por cada 10Kg de peso vivo."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 68,
+  "name": "Serviox - 200 L.A",
+  "image": "/products/serviox-200-la.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Oxitetraciclina 200mg de larga acción. Antibiótico de alta concentración eficaz en enfermedades infecciosas agudas."
+  ],
+  "presentations": "50mL,100mL,250mL,500mL",
+  "usage": [
+    "Administración: Intramuscular profunda.\nDosis: 1mL por cada 10Kg de peso vivo, dosis única.\nDosis aves: 0.25mL por Kg en la región posterior del cuello cada 3 a 5 días."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 69,
+  "name": "Ceftofeno",
+  "image": "/products/ceftofeno.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Asociación de ceftiofur y ketoprofeno. Antibiótico y antiinflamatorio eficaz en infecciones del aparato reproductivo, respiratorio y locomotor."
+  ],
+  "presentations": "50mL,100mL,250mL",
+  "usage": [
+    "Administración: Intramuscular.\nDosis: 1mL por cada 50Kg de peso vivo por 3 a 5 días."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 70,
+  "name": "Oxitolac",
+  "image": "/products/oxitolac.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Oxitocina sintética 10 UI. Estimulante de las contracciones uterinas y descenso de la leche."
+  ],
+  "presentations": "10mL,100mL",
+  "usage": [
+    "Administración: Intramuscular, subcutánea o intravenosa.\nDosis Vacas y yeguas: 1 a 4mL.\nDosis Cerdas: 1 a 3mL.\nDosis Perras: 0.2 a 2mL.\nDosis Gatas: 0.2 a 0.5mL."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 71,
+  "name": "Azul de Metileno",
+  "image": "/products/azul-metileno.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Antiséptico de uso externo y control de intoxicaciones por nitratos y nitritos. Indicado para heridas, grietas y pezones."
+  ],
+  "presentations": "25g,50g,100g,250g,Dispensador sobres x30 de 6g",
+  "usage": [
+    "Administración: Uso tópico externo.\nDosis: Aplicar directamente sobre la zona afectada o preparar solución al 2-4%.\nPrevención intoxicaciones: Mezclar 1g por cada Kg de sal."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 72,
+  "name": "Fortipet",
+  "image": "/products/fortipet.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Suplemento nutricional con vitaminas, minerales y ácidos grasos esenciales que favorecen el desarrollo corporal, la resistencia a enfermedades y la salud de piel y pelaje."
+  ],
+  "presentations": "Frasco 120mL con dosificador",
+  "usage": [
+    "Administración: Vía oral.\nDosis Felinos: 1mL por cada 2Kg de peso vivo.\nDosis Caninos: 1mL por cada 5Kg de peso vivo.\nHembras lactantes o preñadas: 5mL por cada 16Kg de peso vivo."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 73,
+  "name": "Complebet Oral",
+  "image": "/products/complebet-oral-pets.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Complejo B con minerales. Antianémico, estimulante del apetito y reconstituyente."
+  ],
+  "presentations": "Frasco 100mL, Gotero 30mL",
+  "usage": [
+    "Administración: Vía oral.\nDosis Caninos: 5 a 10mL.\nDosis Felinos: 2 a 5mL.\nDosis Aves: 2.5mL por litro de agua."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 74,
+  "name": "Vigocal",
+  "image": "/products/vigocal.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Complejo de minerales y vitaminas que favorece el desarrollo muscular y esquelético y ayuda en deficiencias de calcio."
+  ],
+  "presentations": "Frasco 120mL con dosificador",
+  "usage": [
+    "Administración: Vía oral.\nDosis Perros adultos: 30mL por cada 9Kg.\nDosis Cachorros: 15mL por cada 4Kg.\nDosis Gatos: 5 a 10mL por cada 5Kg."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 75,
+  "name": "Droxintab",
+  "image": "/products/droxintab.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Doxiciclina. Antibiótico bacteriostático de amplio espectro eficaz para infecciones en perros y gatos, especialmente ehrlichiosis canina."
+  ],
+  "presentations": "Caja x10 tabletas, Caja x20 tabletas",
+  "usage": [
+    "Administración: Vía oral.\nDosis: 1 tableta por cada 10Kg de peso vivo."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 76,
+  "name": "Ceftiser",
+  "image": "/products/ceftiser-pets.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Cefalosporina de tercera generación de amplio espectro para enfermedades infecciosas."
+  ],
+  "presentations": "Frasco 10mL",
+  "usage": [
+    "Administración: Vía subcutánea.\nDosis: 2 a 4mg por Kg de peso vivo."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 77,
+  "name": "Barkfresh",
+  "image": "/products/barkfresh.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Asociación de espiramicina y metronidazol para enfermedades periodontales e infecciones bucofaríngeas."
+  ],
+  "presentations": "Caja x20 tabletas",
+  "usage": [
+    "Administración: Vía oral.\nDosis: 1 tableta por cada 10Kg de peso vivo durante 5 a 10 días."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 78,
+  "name": "Zerivec",
+  "image": "/products/zerivec.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Marbofloxacina. Antibiótico bactericida para infecciones de piel, tejidos blandos, urinarias y respiratorias."
+  ],
+  "presentations": "Frasco x10 tabletas, Frasco x30 tabletas",
+  "usage": [
+    "Administración: Vía oral.\nDosis: 2.5 a 5mg por Kg de peso vivo cada 24 horas."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 79,
+  "name": "Garrabaño",
+  "image": "/products/garrabano-pets.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Amitraz 12.5%. Garrapaticida para control de garrapatas y sarna en caninos."
+  ],
+  "presentations": "Frasco 33mL",
+  "usage": [
+    "Administración: Baño por enjuague.\nDosis Garrapatas: 2mL por litro de agua.\nDosis Sarna: 4mL por litro de agua."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 80,
+  "name": "Puloff",
+  "image": "/products/puloff.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Antiparasitario externo con Fipronil + Metopreno para pulgas, garrapatas y piojos."
+  ],
+  "presentations": "Pipeta 0.5mL, Pipeta 0.67mL, Pipeta 1.34mL, Pipeta 2.68mL",
+  "usage": [
+    "Administración: Vía tópica.\nDosis Perros: Según peso (0.67 a 2.68mL).\nDosis Gatos: 0.5mL por Kg."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 81,
+  "name": "Pracan",
+  "image": "/products/pracan.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Pirantel + Praziquantel. Antihelmíntico interno para parásitos gastrointestinales."
+  ],
+  "presentations": "Jeringa 2mL, Jeringa 5mL, Jeringa 10mL",
+  "usage": [
+    "Administración: Vía oral.\nDosis: 1mL por cada 5Kg de peso vivo."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 82,
+  "name": "Piracan",
+  "image": "/products/piracan.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Pamoato de pirantel. Antihelmíntico de amplio espectro para animales jóvenes."
+  ],
+  "presentations": "Jeringa 2mL, Jeringa 5mL",
+  "usage": [
+    "Administración: Vía oral.\nDosis: 1mL por cada 5Kg de peso vivo."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 83,
+  "name": "Pracan Gold",
+  "image": "/products/pracan-gold.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Febantel + Pirantel + Praziquantel + Ivermectina. Control de parásitos gastrointestinales, pulmonares y microfilarias."
+  ],
+  "presentations": "Jeringa 2mL, Jeringa 5mL, Jeringa 10mL",
+  "usage": [
+    "Administración: Vía oral.\nDosis: 1mL por cada 5Kg de peso vivo."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 84,
+  "name": "Desparfull",
+  "image": "/products/desparfull.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Febantel + Pirantel + Praziquantel + Ivermectina. Control de nemátodos, céstodos y dirofilariosis."
+  ],
+  "presentations": "Caja x2 tabletas 460mg, Caja x2 tabletas 900mg",
+  "usage": [
+    "Administración: Vía oral.\nDosis: 1 tableta por cada 5Kg de peso vivo."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 85,
+  "name": "Fungyderm Gel",
+  "image": "/products/fungyderm-gel.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Clotrimazol, Neomicina y Betametasona. Acción antimicótica, bactericida y antiinflamatoria."
+  ],
+  "presentations": "Tubo 35g",
+  "usage": [
+    "Administración: Uso tópico.\nDosis: Aplicar sobre el área afectada 2 a 3 veces al día."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 86,
+  "name": "Seralix",
+  "image": "/products/seralix.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Gel para cuidado oral y control del sarro en perros y gatos."
+  ],
+  "presentations": "Frasco 30g, Frasco 120g",
+  "usage": [
+    "Administración: Uso externo.\nDosis: Aplicar dos gotas a cada lado de la boca una vez al día."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 87,
+  "name": "Cicandul",
+  "image": "/products/cicandul.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Clorhexidina, aloe vera, caléndula y eucalipto. Efecto emoliente y suavizante de la piel."
+  ],
+  "presentations": "Tubo 35g, Tubo 100g",
+  "usage": [
+    "Administración: Vía tópica.\nDosis: Aplicar sobre la piel 2 a 3 veces al día."
+  ],
+  "category":[ "mascotas"]
+},
+{
+  "id": 88,
+  "name": "Extaloe Ear",
+  "image": "/products/extaloe-ear.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Solución para limpieza rutinaria de oídos en perros y gatos."
+  ],
+  "presentations": "Frasco 30mL, Frasco 120mL",
+  "usage": [
+    "Administración: Uso externo.\nDosis: Aplicar en el canal auditivo y masajear suavemente."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 89,
+  "name": "Flushy Pet’s",
+  "image": "/products/flushy-pets.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Toallitas húmedas para limpieza y desodorización de perros y gatos."
+  ],
+  "presentations": "Empaque x25 toallitas, Empaque x80 toallitas",
+  "usage": [],
+  "category": ["mascotas"]
+},
+{
+  "id": 90,
+  "name": "Revitalice",
+  "image": "/products/revitalice.png",
+  "laboratory": "Servinsumos",
+  "description": [
+    "Bebida hidratante con electrolitos para recuperación de sales y energía."
+  ],
+  "presentations": "Botella 250mL, Botella 500mL",
+  "usage": [
+    "Administración: Vía oral.\nDosis: A voluntad."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 91,
+  "name": "Inflacor",
+  "image": "/products/inflacor.png",
+  "laboratory": "Chalver",
+  "description": [
+    "INFLACOR® potente antiinflamatorio, antialérgico, gluconeogénico, antishock y efectivo coadyuvante en el tratamiento del síndrome de vaca caída y afecciones alérgicas de la piel y otros órganos."
+  ],
+  "presentations": "10mL",
+  "usage": [
+    "Administración: Se puede aplicar por vía Intramuscular (IM), Intravenosa (IV) o Subcutánea (SC).\nDosis:\nBovinos: 5 - 20 mg (2,5 - 10 mL)\nBovinos (Cetosis): 20 mg (10 mL)\nEquinos: 2,5 - 5 mg (1,0 - 2,5 mL)\nPorcinos: 2,5 - 5 mg (1,0 - 2,5 mL)\nPerros: 0,25 - 1 mg (0,1 - 0,5 mL)\nGatos: 0,25 - 0,5 mg (0,1 - 0,3 mL)"
+  ],
+  "category": ["mascotas","ganaderia"]
+},
+{
+  "id": 92,
+  "name": "Enrovet Aves",
+  "image": "/products/enrovet.png",
+  "laboratory": "Chalver",
+  "description": [
+    "ENROVET AVES TABLETAS 25 mg antibiótico perteneciente al grupo de las fluoroquinolonas con acción bactericida, significativo efecto posantibiótico (EPA), activo tanto en fase estacionaria como en la de crecimiento de la replicación bacteriana y con amplio espectro de acción sobre bacterias Gram negativas, Gram positivas y Micoplasmas que afectan los aparatos respiratorio y digestivo de las aves."
+  ],
+  "presentations": "Sobre x 10, caja x 500",
+  "usage": [
+    "Administración: Vía oral.\nDosis farmacológica: 10 mg/Kg de Enrofloxacina\nDosis práctica: 1 tableta por cada 2,5 kg de peso\nIntervalo: Cada 24 horas\nDuración: De 3 a 5 días"
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 93,
+  "name": "Fulminado",
+  "image": "/products/fulminado.png",
+  "laboratory": "Chalver",
+  "description": [
+    "FULMINADO 20,8% es un repelente e insecticida acaricida y garrapaticida, eficaz en el control de parásitos externos en bovinos."
+  ],
+  "presentations": "caja x 12 fco x 20 mL, fco x 100 mL",
+  "usage": [
+    "Administración: Vía tópica (baño por aspersión).\nDosis / Preparación:\nProporción de mezcla: 1 mL de producto por cada litro de agua.\nAplicación por peso: 1 litro de la solución preparada por cada 100 kg de peso del animal.\nCapacidad de bomba: Una bomba de espalda rinde para un máximo de 5 animales de 400 kg cada uno.\nPreparación: La dilución debe prepararse inmediatamente antes de aplicarla.\nCaducidad de la mezcla: El producto se degrada en 48 horas una vez mezclado.\nEfectividad: El éxito del tratamiento depende de que el baño se realice correctamente."
+  ],
+  "category": ["ganaderia","insecticidas"]
+},
+{
+  "id": 94,
+  "name": "Gusantrol",
+  "image": "/products/gusantrol.png",
+  "laboratory": "Chalver",
+  "description": [
+    "GUSANTROL NF es un antiparasitario de uso externo con acción repelente y cicatrizante, útil en el tratamiento y control de larvas causantes de miasis (gusaneras), infestación de moscas y escabiosis (sarna)."
+  ],
+  "presentations": "caja x 6 tarros x 60 g, tarro x 220 g",
+  "usage": [
+    "Administración: Vía tópica.\nUso:\nAplicar en zonas afectadas por gusaneras, nuches o sarnas.\nHeridas: Útil en heridas y ulceraciones de la piel; ideal para después de castrar, descornar, marcar y sobre el ombligo de los recién nacidos.\nAplicación: Una vez al día utilizando una paleta o espátula.\nFrecuencia: Repetir diariamente hasta lograr la curación completa.\nTiempo de retiro:\nCarne: 14 días.\nLeche: Utilizar después del ordeño."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 95,
+  "name": "Matarraz",
+  "image": "/products/matarraz.png",
+  "laboratory": "Chalver",
+  "description": [
+    "MATARRAZ es un insecticida organofosforado no sistémico a base de Ethion, con acción garrapaticida, mosquicida y piojicida indicado para uso pecuario."
+  ],
+  "presentations": "fco x 30 mL, caja x 12",
+  "usage": [
+    "Administración: Vía tópica (baño por aspersión).\nDosis:\nMezcla: 15 mL por cada 20 L de agua.\nFrecuencia: Repetir el tratamiento cada 7 a 21 días.\nTiempo de retiro:\nLeche: 24 horas.\nCarne: 14 días."
+  ],
+  "category": ["ganaderia","insecticidas"]
+},
+{
+  "id": 96,
+  "name": "Paravet",
+  "image": "/products/paravet.png",
+  "laboratory": "Chalver",
+  "description": [
+    "PARAVET® Polvo es un antiparasitario organofosforado de amplio espectro para el control de parásitos externos e internos en animales."
+  ],
+  "presentations": "sobre x 15 g, caja x 50",
+  "usage": [
+    "Administración: Vía tópica (aspersión) y vía oral.\nDosis:\nNuche / Miasis (Bovinos): Solución al 1% (15 g / 1,5 L de agua). Usar 500 mL por cada 100 kg de peso.\nMoscas, Piojos, Ácaros (Bovinos, Equinos, Porcinos, Ovinos, Caprinos, Aves): Solución al 0,15% (15 g / 10 L de agua).\nPulgas, Piojos, Ácaros (Perros): Solución al 0,1% (15 g / 15 L de agua).\nParásitos gastrointestinales (Bovinos, Equinos, Porcinos, Ovinos, Caprinos): Solución al 10% (15 g / 150 mL de agua). Usar 1 mL por cada 2 kg de peso (vía oral)."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 97,
+  "name": "Paredón",
+  "image": "/products/paredon.png",
+  "laboratory": "Chalver",
+  "description": [
+    "PAREDÓN® 15% es un insecticida piretroide eficaz en el control de parásitos externos como moscas y garrapatas que afectan a los bovinos."
+  ],
+  "presentations": "fco x 20 mL, caja x 12, fco x 120 mL",
+  "usage": [
+    "Administración: Vía tópica (baño por aspersión).\nDosis:\nAnimales: Mezclar 20 mL por cada 20 L de agua.\nRendimiento: Una bomba de espalda alcanza para un máximo de 5 animales de 400 kg.\nInstalaciones: Mezclar 6 mL por cada litro de agua para cubrir un área de 20 m².\nFrecuencia: Repetir cada 7 a 21 días.\nTiempo de retiro:\nLeche: 24 horas.\nCarne: 2 días."
+  ],
+  "category": ["ganaderia","insecticidas"]
+},
+{
+  "id": 98,
+  "name": "Sinpulgar",
+  "image": "/products/sinpulgar.png",
+  "laboratory": "Chalver",
+  "description": [
+    "SINPULGAR® es un inhibidor del desarrollo de los insectos de tipo no insecticida para el tratamiento preventivo de infestaciones por pulgas en perros y gatos."
+  ],
+  "presentations": "caja x 6 tabletas x 205,9 mg, caja x 6 tabletas x 409,8 mg",
+  "usage": [
+    "Administración: Vía oral, con o después de una comida.\nDosis:\nPerros (< 20 kg): 1 tableta de 205,9 mg cada 30 días.\nPerros (20 - 40 kg): 1 tableta de 409,8 mg cada 30 días.\nGatos (< 7 kg): 1 tableta de 205,9 mg cada 30 días.\nGatos (7 - 14 kg): 1 tableta de 409,8 mg cada 30 días."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 99,
+  "name": "Cutamycon Loción",
+  "image": "/products/cutamycon-locion.png",
+  "laboratory": "Chalver",
+  "description": [
+    "CUTAMYCON LOCIÓN posee la acción combinada de tres principios activos para el tratamiento de afecciones en la piel causadas por hongos, bacterias, inflamación y alergias."
+  ],
+  "presentations": "fco x 50 mL",
+  "usage": [
+    "Administración: Vía tópica.\nUso:\nAplicar directamente en el área afectada.\nFrecuencia: De 2 a 3 veces al día.\nDuración: Continuar varios días después de que los síntomas desaparezcan."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 100,
+  "name": "Cutamycon Crema",
+  "image": "/products/cutamycon-crema.png",
+  "laboratory": "Chalver",
+  "description": [
+    "CUTAMYCON® VF crema posee acción combinada para el tratamiento de afecciones cutáneas causadas por hongos, bacterias, inflamación y alergias."
+  ],
+  "presentations": "tubo x 35 g",
+  "usage": [
+    "Administración: Vía tópica.\nUso:\nAplicar uniformemente en el área afectada.\nFrecuencia: De 3 a 4 veces al día.\nDuración: Continuar varios días después de la resolución de los síntomas."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 101,
+  "name": "Minaviar",
+  "image": "/products/minaviar.png",
+  "laboratory": "Chalver",
+  "description": [
+    "MINAVIAR® ANTIESTRÉS es un complejo vitamínico para aves que suple deficiencias ocasionadas por condiciones de estrés ambiental, manejo, nutrición o enfermedades."
+  ],
+  "presentations": "sobre x 25 g, caja x 30",
+  "usage": [
+    "Administración: Vía oral (en agua de bebida).\nDosis:\n100 g del producto por cada 100 L de agua."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 102,
+  "name": "Ration",
+  "image": "/products/ration.png",
+  "laboratory": "Chalver",
+  "description": [
+    "RATION® Pellets es un rodenticida de última generación eficaz en el control de roedores, incluso en colonias resistentes."
+  ],
+  "presentations": "sobre x 20 g, caja x 24 sobres",
+  "usage": [
+    "Uso principal: Control de roedores.\nAplicación:\nColocar en los sitios donde se evidencie presencia de roedores.\nInfestaciones severas: Repetir una vez por semana hasta reducir la infestación.\nCantidad por punto: 20 a 50 g.\nDistancia:\nRatas: Cada 5 a 10 m.\nRatones: Cada 2 a 5 m."
+  ],
+  "category": ["roedores"]
+},
+{
+  "id": 103,
+  "name": "Avicur Polvo",
+  "image": "/products/avicur.png",
+  "laboratory": "Aurofarma",
+  "description": [
+    "Antiparasitario oral en polvo indicado en aves y porcinos para el tratamiento del parasitismo gastrointestinal y pulmonar."
+  ],
+  "presentations": "sobre x 20 g, caja x 50, saco x 12,5 kg",
+  "usage": [
+    "Administración: Vía oral (en agua de bebida o alimento).\nDosis:\nAves:\nAgua de bebida: 2,5 g por litro durante 5 días.\nAlimento: 1,5 kg por tonelada durante 7 días.\nPorcinos:\n1 g por cada 5 kg de peso durante 5 días (equivalente a 250 g por tonelada de alimento).\nPosee tiempo de retiro."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 104,
+  "name": "Coccidiol",
+  "image": "/products/coccidiol.png",
+  "laboratory": "Aurofarma",
+  "description": [
+    "Anticoccidial en polvo soluble indicado en aves, bovinos y ovinos para el control y tratamiento de la coccidiosis causada por Eimeria spp."
+  ],
+  "presentations": "sobre x 20 g, caja x 50",
+  "usage": [
+    "Administración: Vía oral (en agua de bebida).\nDosis:\nBovinos y Ovinos: 1 g por cada 20 kg de peso.\nAves: 1 g por litro de agua durante 7 días.\nPosee tiempo de retiro."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 105,
+  "name": "Porcix",
+  "image": "/products/porcix.png",
+  "laboratory": "Aurofarma",
+  "description": [
+    "Antiparasitario oral granulado indicado en porcinos para el tratamiento y control de nemátodos gastrointestinales."
+  ],
+  "presentations": "sobre x 20 g, caja x 50",
+  "usage": [
+    "Administración: Vía oral (mezclado con alimento o agua).\nDosis:\n1 g por cada 5 kg de peso vivo.\nLechones: Tratar a las 5 semanas de nacidos.\nReproductores: Desparasitar 3 a 4 veces al año.\nCerdas: Antes del cubrimiento y repetir 15 días después del parto.\nPosee tiempo de retiro."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 106,
+  "name": "Rafoxanide",
+  "image": "/products/rafoxanide.png",
+  "laboratory": "Aurofarma",
+  "description": [
+    "Antiparasitario en suspensión oral eficaz contra fasciola hepática y nemátodos gastrointestinales en bovinos y miasis nasales en ovinos."
+  ],
+  "presentations": "jeringa x 30 mL, fco x 120 mL, fco x 1 L",
+  "usage": [
+    "Administración: Vía oral.\nDosis:\n1 mL por cada 4 kg de peso vivo.\nRepetir a las 4 a 6 semanas."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 107,
+  "name": "Aurovitel",
+  "image": "/products/aurovitel.png",
+  "laboratory": "Aurofarma",
+  "description": [
+    "Multivitamínico en polvo soluble con electrolitos indicado en aves para el tratamiento del estrés por enfermedad, vacunación, transporte y deshidratación."
+  ],
+  "presentations": "sobre x 10 g",
+  "usage": [
+    "Administración: Vía oral (en agua de bebida).\nDosis:\n1 g por cada 10 litros de agua durante 3 días."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 108,
+  "name": "Meloxidol",
+  "image": "/products/meloxidol.png",
+  "laboratory": "Aurofarma",
+  "description": [
+    "Solución inyectable analgésica y antiinflamatoria indicada en bovinos, equinos y porcinos para trastornos músculo esqueléticos y dolor postoperatorio."
+  ],
+  "presentations": "fco x 50 mL",
+  "usage": [
+    "Administración: Vía inyectable.\nDosis:\nBovinos: 2,5 mL por 100 kg vía SC o IV cada 24 horas durante 3 a 5 días.\nPorcinos: 2 mL por 100 kg vía IM cada 24 horas.\nEquinos: 3 mL por 100 kg vía IV cada 24 horas durante 3 días."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 109,
+  "name": "Veter-Flucina",
+  "image": "/products/veterflucina.png",
+  "laboratory": "Veterland",
+  "description": [
+    "Asociación de 2 antibióticos bactericidas y de un antiinflamatorio con acción antitóxica y anti-estrés para el tratamiento de enfermedades infecciosas en bovinos, equinos, porcinos, ovinos, caprinos y perros."
+  ],
+  "presentations": "fco x 20 mL, fco x 30 mL",
+  "usage": [
+    "Administración: Vía intramuscular profunda.\nDosis:\nBovinos, equinos, porcinos, ovinos y caprinos: 5 mL por 100 kg de peso vivo.\nPerros: 1 a 2 mL por 5 kg de peso vivo durante 3 a 5 días.\nTiempo de retiro:\nCarne: 30 días.\nLeche: 72 horas."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 110,
+  "name": "Pentriland",
+  "image": "/products/pentriland.png",
+  "laboratory": "Veterland",
+  "description": [
+    "Antibiótico bactericida de altos niveles sanguíneos y tisulares, de rápida y larga acción, indicado para el tratamiento de enfermedades infecciosas en bovinos, equinos, porcinos y perros."
+  ],
+  "presentations": "fco x 3.75 MIU, fco x7.5 MIU, fco x 10 MIU",
+  "usage": [
+    "Administración: Vía intramuscular profunda.\nDosis:\nBovinos, equinos y porcinos: 1 a 2 mL por 15 kg de peso vivo.\nPerros: 1 a 2 mL por 15 kg de peso vivo.\nTiempo de retiro:\nCarne: 30 días.\nLeche: 6 días."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 111,
+  "name": "Mixiland",
+  "image": "/products/mixiland.png",
+  "laboratory": "Veterland",
+  "description": [
+    "Antibiótico bactericida de amplio espectro indicado para el tratamiento de enfermedades infecciosas en bovinos, equinos, caprinos, porcinos, ovinos, aves y perros."
+  ],
+  "presentations": "fco x 8+8",
+  "usage": [
+    "Administración: Vía intramuscular profunda.\nDosis:\nBovinos, equinos, porcinos, ovinos y caprinos: 3 mL por 50 a 100 kg de peso vivo.\nPerros: 1 a 2 mL por 15 kg de peso vivo.\nAves: 1 mL por 1 kg de peso vivo, diario por 3 a 5 días.\nTiempo de retiro:\nCarne: 30 días.\nLeche: 72 horas."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 112,
+  "name": "Neotetramiland",
+  "image": "/products/neotetramiland.png",
+  "laboratory": "Veterland",
+  "description": [
+    "Combinación antibiótica de amplio espectro indicada para el tratamiento de enfermedades respiratorias y digestivas en aves y porcinos."
+  ],
+  "presentations": "caja x 50 sobres x 10 g, sobre x 1 kg",
+  "usage": [
+    "Administración: Vía oral en agua de bebida.\nDosis:\nAves: 10 g por 10 L de agua.\nPorcinos: 10 g por 30 L de agua.\nDuración: Administrar diariamente por 3 a 5 días.\nTiempo de retiro:\nAves: 5 días (no administrar en aves en producción de huevos para consumo humano).\nCerdos: 15 días."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 113,
+  "name": "Streptoland Oral",
+  "image": "/products/streptoland.png",
+  "laboratory": "Veterland",
+  "description": [
+    "Mezcla antibiótica con sustancias protectoras y adsorbentes del tracto gastrointestinal que actúa como rehidratante y suavizante de la mucosa intestinal en animales."
+  ],
+  "presentations": "caja x 10 sobres x 20 g",
+  "usage": [
+    "Administración: Vía oral.\nDosis: 20 g por 50 a 80 kg de peso.\nDuración: Administrar diariamente por 2 a 3 días.\nTiempo de retiro:\nCarne: 2 días.\nPrecaución: No administrar a gatos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 114,
+  "name": "Streptoland Cocci",
+  "image": "/products/streptoland-cocci.png",
+  "laboratory": "Veterland",
+  "description": [
+    "Polvo oral anticoccidial con protectores y suavizantes de la mucosa intestinal para el tratamiento de coccidiosis y protección intestinal en animales."
+  ],
+  "presentations": "caja x 10 sobres x 20 g, sobre x 100 g",
+  "usage": [
+    "Administración: Vía oral.\nDosis:\nTerneros: 1 g por cada 4 kg de peso o 1 sobre de 20 g por cada 80 kg.\nPorcinos y corderos: 1 g por cada 3 kg de peso o 1 sobre de 20 g por cada 60 kg.\nTiempo de retiro: 8 a 21 días.\nCerdos y lechones: 70 días.\nPrecaución: No administrar a gallinas ponedoras."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 115,
+  "name": "Trevesec S.I",
+  "image": "/products/trevesec.png",
+  "laboratory": "Veterland",
+  "description": [
+    "Antiparasitario, antibiótico y antipirético indicado para el tratamiento de parásitos hemáticos y anaplasmosis en bovinos, equinos y perros."
+  ],
+  "presentations": "fco x 30 mL, fco x 50 mL, fco x 100 mL, fco x 250 mL, fco x 500 mL",
+  "usage": [
+    "Administración: Vía intramuscular.\nDosis:\nBovinos y equinos: 1 mL por cada 13 kg de peso.\nNota: En equinos susceptibles con signos tipo cólico, fraccionar la dosis en 2 o 3 aplicaciones durante el día.\nTiempo de retiro:\nCarne: 22 días.\nLeche: 6 días."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 116,
+  "name": "Compleland B12 Inyectable",
+  "image": "/products/compleland-b12-inyectable.png",
+  "laboratory": "Veterland",
+  "description": [
+    "Complejo vitamínico inyectable indicado para el tratamiento de trastornos orgánicos agudos o crónicos ocasionados por deficiencias de vitaminas del complejo B en animales."
+  ],
+  "presentations": "fco x 20 mL, fco x 50 mL, fco x 100 mL, fco x 250 mL, fco x 500 mL",
+  "usage": [
+    "Administración: Vía intramuscular o subcutánea.\nDosis:\nBovinos y equinos adultos: 5 a 8 mL.\nTerneros, potros, porcinos, ovinos y perros: 2 a 4 mL diarios durante 3 a 5 días."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 117,
+  "name": "Fosfoland A+B12",
+  "image": "/products/fosfoland.png",
+  "laboratory": "Veterland",
+  "description": [
+    "Solución inyectable indicada para el tratamiento de trastornos orgánicos agudos o crónicos ocasionados por deficiencias de fósforo, vitamina A y B12 en animales."
+  ],
+  "presentations": "fco x 20 mL, fco x 50 mL, fco x 100 mL, fco x 250 mL, fco x 500 mL",
+  "usage": [
+    "Administración: Vía intramuscular.\nDosis:\nBovinos y equinos adultos: 10 mL.\nTerneros y potros: 5 mL.\nPorcinos y ovinos adultos: 2 a 3 mL por cada 20 kg de peso.\nLechones y corderos: 0,5 a 1 mL por cada 5 kg de peso.\nPerros: Según tamaño, repetir 3 veces con intervalos de días."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 118,
+  "name": "Calfoland",
+  "image": "/products/calfoland.png",
+  "laboratory": "Veterland",
+  "description": [
+    "Solución estéril inyectable con calcio, magnesio, fósforo y dextrosa para la prevención y tratamiento de fiebre de leche, descalcificación y trastornos metabólicos."
+  ],
+  "presentations": "fco x 500 mL",
+  "usage": [
+    "Administración: Vía intravenosa lenta o subcutánea.\nDosis:\nBovinos y equinos: 100 a 150 mL por cada 100 kg de peso.\nOvinos y porcinos: 10 a 15 mL por cada 10 kg de peso."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 119,
+  "name": "AminoCompleland ATP-B15",
+  "image": "/products/aminocompleland-atp.png",
+  "laboratory": "Veterland",
+  "description": [
+    "Suplemento multivitamínico promotor de crecimiento, coadyuvante de procesos metabólicos y energizante para múltiples especies animales."
+  ],
+  "presentations": "caja x 15 goteros x 20 mL, fco x 50 mL, fco x 100 mL, fco x 200 mL, fco x 500 mL, fco x 1000 mL, fco x 2000 mL, fco x 4000 mL",
+  "usage": [
+    "Administración: Vía oral.\nDosis:\nPerros y gatos: 2 mL por cada 10 kg de peso.\nBovinos: 20 mL por cada 150 kg de peso.\nEquinos: 20 mL por cada 150 kg de peso.\nPorcinos: Preinicio e iniciación 2 mL por cada 10 kg de peso; levante, ceba y cerdas lactantes 10 mL por cada 100 kg de peso.\nOvinos y caprinos: 5 mL por cada 45 kg de peso; corderos 2 mL por cada 10 kg de peso.\nAves: 1 mL por 5 litros de agua; pollitos de un día 1 mL por 2 litros de agua; aves ornamentales 15 a 20 mL por 1 litro de agua. Renovar el agua diariamente."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 120,
+  "name": "Compleland B12 Oral",
+  "image": "/products/compleland-b12-oral.png",
+  "laboratory": "Veterland",
+  "description": [
+    "Solución oral estimulante del apetito y del metabolismo con acción tonificante y neurotónica, mejora la conversión alimenticia, promueve el consumo de agua y ayuda a combatir el estrés en animales domésticos."
+  ],
+  "presentations": "caja x 12 fco x 100 mL, fco x 1000 mL, garrafa x 4 L",
+  "usage": [
+    "Administración: Vía oral.\nDosis:\nEquinos y bovinos: 20 mL por cada 100 kg de peso.\nGatos: 2 a 5 mL por día.\nPerros razas pequeñas: Cachorros 2 a 5 mL, adultos 5 a 10 mL.\nPerros razas grandes: Cachorros 5 a 10 mL, adultos 10 a 15 mL.\nAplicar dosis diaria por 3 a 5 días.\nAves de corral: Engorde 1 L en 400 L de agua; ponedoras 1 L en 350 L de agua (por encima de 20°C en 500 L de agua)."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 121,
+  "name": "Calfoland A.T.P",
+  "image": "/products/calfoland-atp.png",
+  "laboratory": "Veterland",
+  "description": [
+    "Suplemento alimenticio con Calcio, Magnesio y Adenosín Trifosfato para bovinos, bufalinos, ovinos y caprinos, especialmente hembras en producción."
+  ],
+  "presentations": "botella x 400 mL",
+  "usage": [
+    "Administración: Vía oral.\nDosis: Según la disposición de la tabla del producto.\nTiempo de retiro: No posee."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 122,
+  "name": "Mamiland",
+  "image": "/products/mamiland.png",
+  "laboratory": "Veterland",
+  "description": [
+    "Pomada antiséptica, antiflogística, anestésica, astringente y cicatrizante para el tratamiento de heridas de la piel, laceraciones, raspaduras, inflamaciones externas y lesiones de la ubre y pezones en bovinos, equinos, porcinos, ovinos, caprinos y perros."
+  ],
+  "presentations": "pote x 60 g, pote x 100 g, pote x 220 g",
+  "usage": [
+    "Administración: Vía tópica.\nAplicar directamente sobre la zona afectada según indicación."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 123,
+  "name": "Alernex",
+  "image": "/products/alernex.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Antialérgico oral de uso diario a base de clorfeniramina indicado para perros y gatos, utilizado en el tratamiento de reacciones alérgicas y para el control de signos clínicos como prurito y rascado compulsivo."
+  ],
+  "presentations": "caja x 10 tabletas, caja x 30 tabletas",
+  "usage": [
+    "Administrar junto con la comida y bajo supervisión de un médico veterinario.\nPerros (>5 kg): 1 tableta cada 8 a 12 horas.\nGatos: 1/2 tableta (2.5 mg) cada 12 horas."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 124,
+  "name": "Predni-Zoo 5/20",
+  "image": "/products/prednizoo.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Antiinflamatorio y antialérgico a base de prednisolona en tabletas masticables, indicado para el tratamiento de patologías de origen no infeccioso y alergias en animales."
+  ],
+  "presentations": "caja x 10 tabletas por 5 mg, caja x 30 tabletas por 5 mg, caja x 10 tabletas por 20 mg, caja x 30 tabletas por 20 mg",
+  "usage": [
+    "Administración: Según indicación del médico veterinario.\nEn perros se recomienda administrar por la mañana para alinearse con su ciclo hormonal natural.\nEn tratamientos prolongados la suspensión debe ser gradual y supervisada, nunca abrupta."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 125,
+  "name": "Alfa 3",
+  "image": "/products/alfa-3.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Crema tópica de acción múltiple, cicatrizante, desinfectante, secante, antiséptica y repelente de insectos."
+  ],
+  "presentations": "tubo colapsible x 30 mL, frasco plástico x 250 mL",
+  "usage": [
+    "Administración: Vía tópica.\nAplicar una capa uniforme sobre la zona afectada de 3 a 5 veces al día por al menos 7 días.\nImportante: Aunque es segura para perros y ganado, no se recomienda su uso en gatos según las indicaciones del fabricante."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 126,
+  "name": "Atropina Zoo",
+  "image": "/products/atropina-zoo.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Preanestésico y anticolinérgico. Solución inyectable de atropina 1 mg/mL con acción antiespasmódica y antisecretoria. Antídoto en intoxicaciones por organofosforados y carbamatos."
+  ],
+  "presentations": "frasco x 10 mL, frasco x 50 mL",
+  "usage": [
+    "Administración: Vía subcutánea (SC), intramuscular (IM) o intravenosa (IV) según la urgencia.\nDosis general (antiespasmódico/preanestésico): 0.044 mg por kg de peso vivo.\nDosis en intoxicaciones: 0.2 a 0.5 mg/kg, pudiendo repetirse según la respuesta del paciente."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 127,
+  "name": "Colirio Zoo",
+  "image": "/products/colirio-zoo.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Antibiótico y antiinflamatorio para infecciones oculares y óticas. Contiene neomicina, prednisolona y clorobutanol en solución oftálmica y ótica para el tratamiento de infecciones en ojos y oídos en todas las especies."
+  ],
+  "presentations": "frasco x 10 mL, caja x 12 frascos",
+  "usage": [
+    "En los ojos: Aplicar de 1 a 3 gotas cada 3 a 6 horas, dependiendo de la gravedad y la indicación médica.\nEn los oídos: Aplicar 10 gotas cada 6 horas por un mínimo de 8 días, previa limpieza del canal auditivo."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 128,
+  "name": "Electro Zoo A",
+  "image": "/products/electrozoo-a.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Suero oral para rehidratación de terneros, potros y lechones. Contiene dextrosa, citrato de sodio y cloruro de potasio para el manejo de la deshidratación y pérdida de minerales causada por diarreas."
+  ],
+  "presentations": "caja x 10 sobres de 38.7 g",
+  "usage": [
+    "Preparación: Disolver el contenido de un sobre en 2 litros de agua limpia.\nFrecuencia: Administrar de 3 a 5 veces al día mediante balde, botella o sonda hasta que los signos de deshidratación desaparezcan."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 129,
+  "name": "Electro Zoo B",
+  "image": "/products/electrozoo-b.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Suero oral para rehidratación de bovinos, equinos y cerdos. Contiene cloruro de sodio, bicarbonato de sodio y cloruro de potasio para el manejo de la deshidratación y pérdida de minerales por diarreas en animales adultos."
+  ],
+  "presentations": "caja x 10 sobres de 85 g",
+  "usage": [
+    "Preparación: Disolver el contenido del sobre (102.5 g) en 10 litros de agua potable.\nUso: Ofrecer a libre voluntad o administrar mediante sonda esofágica si el animal no puede beber por sí solo."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 128,
+  "name": "Electro Zoo C",
+  "image": "/products/electrozoo-c.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Suero oral para rehidratación de perros y gatos. Contiene dextrosa, vitaminas A, B, C, D, K, sodio, cloro y potasio en polvo soluble en agua.",
+    "Indicado para el manejo de deshidratación y pérdida de minerales por diarrea, vómito, altas temperaturas y ejercicio intenso."
+  ],
+  "presentations": "Caja x 10 sobres de 85 g",
+  "usage": [
+    "Preparación:\nDisolver el contenido de un sobre (19.5 g) en 1 litro de agua potable.\n\nAdministración:\nVía oral a una dosis de 50 mL por cada kg de peso del animal, repartido en varias tomas durante el día hasta que los signos de deshidratación desaparezcan."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 129,
+  "name": "Estro Zoo",
+  "image": "/products/estro-zoo.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Solución inyectable de Benzoato de estradiol al 0,25% para terapia hormonal.",
+    "Indicada para inseminación artificial a tiempo fijo (IATF), estimulación uterina, retención de placenta y tratamiento de piómetra."
+  ],
+  "presentations": "caja x 12 frascos x 5 mL, frasco x 20 mL, frasco x 100 mL",
+  "usage": [
+    "Administración:\nVía intramuscular (IM). La dosis varía según el objetivo terapéutico o de sincronización.\n\nBovinos (vacas):\n5 a 10 mL (general); 1 a 3 mL en protocolos de sincronización.\n\nEquinos (yeguas):\n1 mg total (aprox. 0.4 mL); para defensas uterinas 0.4 a 0.8 mL por 3 a 5 días.\n\nPorcinos y ovinos:\n0.5 mL por cada 50 kg de peso vivo."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 130,
+  "name": "Linimento Blanco",
+  "image": "/products/linimento-blanco.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Loción tópica para músculos agotados con acción coadyuvante en contracturas y fatiga muscular.",
+    "Indicada para el tratamiento de contracturas, fatiga muscular y como apoyo en síndrome de vaca caída en animales."
+  ],
+  "presentations": "frasco aplicador x 500 mL",
+  "usage": [
+    "Administración:\nVía tópica.\n\nModo de uso:\nAplicar una cantidad generosa sobre la zona afectada y realizar un masaje enérgico hasta que el producto desaparezca por completo.\n\nFrecuencia:\nPuede repetirse el tratamiento si es necesario. En equinos de trabajo, aplicar antes y después de la actividad física."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 131,
+  "name": "PI Perracina",
+  "image": "/products/pi-perracina.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Antihelmíntico especial para perros y gatos a base de piperazina.",
+    "Indicado para el tratamiento de infecciones causadas por parásitos redondos tipo áscaridos y anquilostomas."
+  ],
+  "presentations": "caja x 320 tabletas (32 sobres x 10 tabletas)",
+  "usage": [
+    "Administración:\nVía oral, mezclado con el alimento o el agua de bebida.\n\nDosificación:\nPerros y gatos: 125 mg por kg de peso (aprox. 1 g de polvo por cada 4 kg).\nCerdos: 2.5 g por cada 10 kg de peso.\nAves (pollos/gallinas): 50 g para 50 aves de 1 kg cada una.\nEquinos: 20 a 30 g por cada 100 kg de peso."
+  ],
+  "category": ["mascotas", "ganaderia"]
+},
+{
+  "id": 132,
+  "name": "Pomada Alfa",
+  "image": "/products/pomada-alfa.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Pomada analgésica, antiflogística y antiinflamatoria a base de mentol, salicilato de metilo y trementina.",
+    "Indicada para el tratamiento del dolor e inflamación de músculos, articulaciones, tendones y glándula mamaria."
+  ],
+  "presentations": "tubo x 60 g, frasco x 220 g, frasco x 350 g",
+  "usage": [
+    "Administración:\nVía tópica.\n\nModo de uso:\nAplicar una cantidad generosa sobre las partes afectadas y masajear suavemente hasta su completa absorción.\nRepetir hasta tres veces al día hasta la recuperación total."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 133,
+  "name": "Tranquilan Gotas",
+  "image": "/products/tranquilan-gotas.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Tranquilizante para caninos y felinos a base de Acepromacina con sabor a durazno.",
+    "Indicado para el control y manejo de animales en exámenes clínicos, tratamientos y transporte.",
+    "Actúa como preanestésico para mejorar la seguridad en cirugías y como antiemético para prevenir el mareo en viajes."
+  ],
+  "presentations": "Frasco gotero x 10 mL",
+  "usage": [
+    "Administración:\nVía Oral.\n\nModo de uso:\nUtilizar para controlar animales indóciles, nerviosos o agresivos.\nFacilita la toma de muestras, vendajes y procedimientos odontológicos.\nAyuda en situaciones de estrés como ruidos fuertes (fuegos artificiales) o visitas al veterinario."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 134,
+  "name": "Tranquilan Inyectable",
+  "image": "/products/tranquilan-iny.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Solución inyectable tranquilizante y pre-anestésico a base de Acepromazina 0,1%.",
+    "Indicado para la anestesia, el control y/o manejo de animales en exámenes clínicos, tratamientos y transporte.\n\nNOTA: Producto fiscalizado: Adquisición limitada a compradores con permiso especial y resolución del Estado."
+  ],
+  "presentations": "Caja por 5 frascos x 10 mL",
+  "usage": [
+    "Administración:\nVía Intramuscular (IM) o Intravenosa (IV).\n\nEspecies:\nPerros, gatos, bovinos, equinos, porcinos, ovinos y caprinos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 135,
+  "name": "Tranquilan Tabletas",
+  "image": "/products/tranquilan-tabs.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Tranquilizante a base de Acepromacina indicado para perros y gatos.",
+    "Utilizado para el control y manejo de animales durante exámenes clínicos, tratamientos y transporte.\n\nNOTA: Producto fiscalizado: Adquisición limitada a compradores con permiso especial y resolución del Estado."
+  ],
+  "presentations": "Caja x 20 tabletas (2 sobres x 10 tabletas de 10 mg.)",
+  "usage": [
+    "Administración:\nVía Oral.\n\nDosis:\nCaninos (Perros): 0.5 a 2 mg/kg (1 tableta por cada 10 kg de peso).\nFelinos (Gatos): 1 a 2 mg/kg (1/2 tableta por cada 5 kg de peso).\n\nNota: La dosis debe ser ajustada por un médico veterinario según el peso y el nivel de tranquilización deseado."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 136,
+  "name": "Zoo Hemostat",
+  "image": "/products/zoo-hemostat.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Solución antihemorrágica a base de Vitamina K (20 mg/mL) y Vitamina C (10 mg/mL).",
+    "Útil en el tratamiento de hematuria enzoótica y en la prevención de hemorragias internas y externas causadas por cirugías (cesárea, castración) o heridas abiertas."
+  ],
+  "presentations": "Caja x 12 frascos de 10 mL y 20 mL; Frascos individuales de 10 mL, 20 mL y 50 mL",
+  "usage": [
+    "Administración:\nVía Subcutánea (SC) o Intramuscular (IM).\n\nDosis:\nPerros y gatos: 1 mL por cada 20 kg de peso.\nAnimales de granja: Dosis proporcionales.\n\nFrecuencia: Aplicar diariamente durante al menos 3 días consecutivos o según criterio del médico veterinario."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 137,
+  "name": "Fextran B12",
+  "image": "/products/fextran.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Solución inyectable a base de hierro y vitamina B12.",
+    "Indicada para el tratamiento de anemias en terneros, lechones y corderos."
+  ],
+  "presentations": "Frasco x 20 mL, frasco x 50 mL, frasco x 100 mL",
+  "usage": [
+    "Administración:\nVía intramuscular profunda exclusivamente.\n\nDosis:\nLechones (3 a 10 días de nacidos): 1 mL como dosis única.\nTerneros (hasta 2 meses): 2 a 5 mL según el peso; puede repetirse a los 8 o 10 días.\nCorderos: Indicado para el tratamiento de anemias nutricionales."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 138,
+  "name": "Kedex",
+  "image": "/products/kedex.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Antibiótico de amplio espectro a base de Espiramicina (13 millones UI).",
+    "Macrólido indicado para el tratamiento y control de mastitis, metritis, neumonías y pododermatitis.",
+    "Polvo para reconstituir con amplio alcance en diversas especies domésticas."
+  ],
+  "presentations": "Frasco x 13 M de UI, con 25 mL de diluyente",
+  "usage": [
+    "Administración:\nVía Intramuscular profunda.\n\nDosis (Inyectable):\nBovinos adultos: 1 mL por cada 16 a 20 kg de peso vivo.\nTerneros, ovinos, porcinos y caninos: 1 mL por cada 7 a 10 kg de peso vivo.\nAves: Reconstituir en 100 mL de agua destilada y aplicar 0.5 mL por kg de peso."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 139,
+  "name": "Diciclin 50-100-200",
+  "image": "/products/diciclin.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Antibiótico oral de amplio espectro a base de Doxiciclina (50, 100 y 200 mg).",
+    "Indicado para el tratamiento de Erliquiosis y otras infecciones bacterianas: bucodentarias, respiratorias, gastrointestinales, genitourinarias y dermatológicas en perros y gatos."
+  ],
+  "presentations": "Cajas x 10 tabletas; Diciclin 200: Caja x 30 tabletas",
+  "usage": [
+    "Administración:\nVía Oral.\n\nDosis:\nLa dosis estándar recomendada es de 10 mg por cada kg de peso corporal.\nFrecuencia: Administrar cada 12 a 24 horas."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 140,
+  "name": "Iver Zoo 3.5",
+  "image": "/products/iverzoo.png",
+  "laboratory": "Zoo",
+  "description": [
+    "Solución inyectable endectocida de alta concentración a base de Ivermectina (35 mg/mL).",
+    "Indicado para el tratamiento y control de gusanos nemátodos, insectos, piojos picadores, larvas de mosca, ácaros y garrapatas.",
+    "Producto formulado exclusivamente para bovinos y bufalinos."
+  ],
+  "presentations": "Frasco x 50 mL, frasco x 500 mL",
+  "usage": [
+    "Administración:\nVía estrictamente subcutánea.\n\nAdvertencias:\nNo debe usarse en otras especies sin consultar a un profesional.\nSe debe respetar un período de retiro antes de destinar la carne de los animales tratados para consumo humano."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 141,
+  "name": "Jeringas Lhaura Flex",
+  "image": "/products/jeringa-lhauraflex.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Jeringas de uso veterinario reutilizables, ergonómicas y resistentes a diversos medicamentos.",
+    "Diseñadas para una larga vida útil mediante el mantenimiento preventivo y disponibilidad de repuestos.",
+    "Todas las piezas (pistones, cilindros, empaques luer lock) se venden por separado para facilitar su reparación."
+  ],
+  "presentations": "10 mL , 20 mL",
+  "usage": [
+    "Mantenimiento y Cuidado:\nLubricación: Utilizar aceite a base de silicona (como Tensilato Ref. 11025) después de cada limpieza para proteger empaques y pistón.\n\nSustancias Prohibidas:\nNo exponer a cetonas, acetonas, líquidos de frenos, amoníaco o compuestos con etanol, ya que degradan el material."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 142,
+  "name": "Mango Bisturí Metálico",
+  "image": "/products/mango-bisturi-metal.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Instrumento de grado veterinario fabricado en acero inoxidable.",
+    "Diseñado para el acople seguro de hojas intercambiables en procedimientos quirúrgicos y de disección."
+  ],
+  "presentations": "No aplica",
+  "usage": [
+    "Uso:\nEmpleado principalmente en cirugía mayor y menor veterinaria para realizar incisiones limpias y controladas en tejidos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 143,
+  "name": "Trócar Sencillo",
+  "image": "/products/trocar-sencillo.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Instrumento veterinario esencial diseñado para realizar punciones seguras en cavidades corporales.",
+    "Utilizado principalmente en rumiantes para liberar gases o líquidos de forma controlada."
+  ],
+  "presentations": "No aplica",
+  "usage": [
+    "Tratamiento de Timpanismo: Permite la expulsión rápida de gases acumulados en el rumen para evitar la asfixia.",
+    "Drenaje de Líquidos: Útil en casos de ascitis o hidrotórax, facilitando la salida de fluidos.",
+    "\n\nAcceso Quirúrgico: Sirve como puerto de entrada para introducir otros instrumentos en procedimientos mínimamente invasivos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 144,
+  "name": "Argolla Nariguera",
+  "image": "/products/argolla-nariguera.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Instrumento diseñado para el manejo, control y sujeción de bovinos (especialmente toros) y otros animales de granja.",
+    "Fabricada en diversos modelos para garantizar la resistencia y eficacia en el control del animal."
+  ],
+  "presentations": "bronce , aluminio",
+  "usage": [
+    "Recomendación de manejo:\nLa nariz del bovino es extremadamente sensible. Se aconseja no tirar con fuerza excesiva de la argolla para evitar que el animal lo interprete como un castigo, facilitando así su manejo futuro."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 145,
+  "name": "Biberón para terneros",
+  "image": "/products/biberon-ternero.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Diseñado para la alimentación controlada e higiénica de crías bovinas con leche o sustitutos lácteos.",
+    "Equipo esencial para garantizar la correcta nutrición y salud del ternero durante su etapa de crecimiento."
+  ],
+  "presentations": "biberon completo",
+  "usage": [
+    "Higiene: Lavar con agua y desinfectante suave inmediatamente después de cada uso para evitar bacterias.",
+    "\n\nPreparación: Mezclar el sustituto lácteo entre 38-40°C para asegurar una disolución óptima.",
+    "\n\nPosición: Alimentar con el cuello del ternero ligeramente extendido, simulando la posición natural de amamantamiento."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 146,
+  "name": "Bandeja Mastitis",
+  "image": "/products/bandeja-mastitis.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Herramienta de diagnóstico veterinario fundamental para realizar la Prueba de California (CMT).",
+    "Permite la detección rápida de mastitis clínica y subclínica en vacunos, bovinos y caprinos."
+  ],
+  "presentations": "No aplica",
+  "usage": [
+    "Recomendación de uso:\nLavar y desinfectar la bandeja con agua y un jabón suave antes y después de cada uso para evitar contaminaciones cruzadas entre animales y garantizar resultados precisos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 147,
+  "name": "Destetador",
+  "image": "/products/destetador.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Dispositivo veterinario diseñado para colocarse en la nariz del ternero e impedir el amamantamiento.",
+    "Facilita una separación gradual y reduce el estrés tanto en la cría como en la madre durante el proceso de destete."
+  ],
+  "presentations": "con resorte , sin resorte , 7 puntas",
+  "usage": [
+    "Mantenimiento y Ecología:\nLavar las piezas regularmente para eliminar materia orgánica y asegurar la salud animal.\nNo desechar los componentes plásticos en espacios naturales; los materiales son reciclables."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 148,
+  "name": "Lazos Ganaderos",
+  "image": "/products/lazos-ganaderos.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Cuerdas técnicas diseñadas para la sujeción, manejo y transporte de ganado.",
+    "Fabricadas con fibras resistentes para garantizar la seguridad durante el manejo de animales de gran tamaño."
+  ],
+  "presentations": "10mm x 20mt , 10mm x 25mt",
+  "usage": [
+    "Almacenamiento: Mantener en lugares frescos, lejos de fuentes de calor o sustancias inflamables.",
+    "\n\nProtección Solar: Evitar exposiciones prolongadas a la luz directa del sol cuando no estén en uso.",
+    "\n\nSeguridad: Revisar periódicamente que no presenten deshilachados que comprometan la seguridad en el manejo de animales grandes."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 149,
+  "name": "Aretes Plásticos",
+  "image": "/products/aretes-plasticos.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Dispositivos de identificación animal fabricados en poliuretano de alta flexibilidad y resistencia (conocidos como orejeras o chapetas).",
+    "Material diseñado para soportar condiciones de campo sin causar irritación excesiva en el animal."
+  ],
+  "presentations": "grande , mediano , pequeño",
+  "usage": [
+    "Gestión y Codificación por Colores:\nAmarillo: Identificación general o procedencia.\nVerde: Manejo sanitario o reproductivo.\nRojo: Alertas, tratamientos médicos o controles especiales.\nAzul: Clasificación por lotes, edad o rotación de potreros.\nBlanco: Marcaje neutro para numeración correlativa."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 150,
+  "name": "Pinza Tflex",
+  "image": "/products/pinza-tflex.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Herramienta profesional diseñada para la aplicación de aretes plásticos de identificación en ganado (vacunos, caprinos, ovinos y porcinos).",
+    "Diseño ergonómico y robusto que permite un marcaje rápido y preciso, minimizando el estrés para el animal."
+  ],
+  "presentations": "No aplica",
+  "usage": [
+    "Desinfección: Lavar con agua y jabón, y aplicar un desinfectante químico en cada aplicación para eliminar materia orgánica.",
+    "\n\nLubricación: Es indispensable lubricar la pinza periódicamente para mantener la fluidez del mecanismo.",
+    "\n\nPosicionamiento: El arete debe colocarse en el centro de la oreja. En zonas endémicas, se recomienda aplicar repelente tras la perforación."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 151,
+  "name": "Lápiz Marcador",
+  "image": "/products/lapiz-marcador.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Crayón de cera no permanente utilizado para identificar animales de forma rápida.",
+    "Ideal para uso durante pesajes, tratamientos médicos, subastas o movimientos de hato."
+  ],
+  "presentations": "azul , rojo , verde",
+  "usage": [
+    "Almacenamiento:\nMantener el producto a temperatura ambiente en áreas secas y ventiladas.\n\nPrecauciones:\nEvitar la exposición directa a la luz solar o fuentes de calor para prevenir que la cera se derrita o la tinta se seque."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 152,
+  "name": "Manga Obstétrica tipo T",
+  "image": "/products/manga-obstetrica-tipoT.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Guante de protección de longitud extendida diseñado para procedimientos veterinarios que requieren alta sensibilidad y barrera sanitaria.",
+    "Indispensable para mantener la asepsia durante intervenciones profundas en clínica y producción pecuaria."
+  ],
+  "presentations": "50 und",
+  "usage": [
+    "Aplicaciones Principales:\nReproducción: Inseminación artificial y chequeo reproductivo.\nDiagnóstico: Palpación rectal y exámenes gastrointestinales en ganado.\nHigiene: Labores de limpieza diaria y manejo de muestras en laboratorio."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 153,
+  "name": "Venoclisis Macrogoteo",
+  "image": "/products/venoclisis-macrogoteo.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Dispositivo médico desechable diseñado para la administración intravenosa de líquidos, medicamentos o sangre en el sector veterinario.",
+    "Garantiza un flujo constante y seguro para tratamientos que requieren volúmenes de infusión considerables."
+  ],
+  "presentations": "Individual, Bolsa x 25 und",
+  "usage": [
+    "Terapia de Fluidos: Ideal para rehidratación rápida o mantenimiento en animales que requieren volúmenes elevados de infusión.",
+    "Transfusiones: Su diseño permite el paso de componentes sanguíneos según la necesidad clínica.",
+    "Emergencias: Útil en cuadros de hipovolemia donde se necesita restaurar la presión arterial rápidamente."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 154,
+  "name": "Matiz",
+  "image": "/products/matiz.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Sogas de polipropileno de alta resistencia diseñadas para el sector ganadero, agrícola e industrial.",
+    "Su durabilidad la hace apta para múltiples aplicaciones como agricultura, pesca (mallas), construcción y camping."
+  ],
+  "presentations": "6mm , 8mm , 9mm , 10mm , 12mm , 14mm",
+  "usage": [
+    "Uso Versátil:\nIdeal para la sujeción de animales en ganadería y lechería, así como para trabajos de carga y amarre en entornos industriales y de campo."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 155,
+  "name": "Bebederos para aves",
+  "image": "/products/bebederos-aves.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Sistemas de hidratación que incluyen modelos automáticos de campana y manuales de volteo.",
+    "Diseñados para proporcionar un suministro de agua constante e higiénico en explotaciones avícolas."
+  ],
+  "presentations": "1 L , 2 L , 5 L",
+  "usage": [
+    "Recomendaciones de manejo:\nLimpieza: Lavar diariamente con agua y un desinfectante suave para prevenir enfermedades.\n\nInstalación: Nivelar la altura del equipo conforme al crecimiento de las aves para asegurar un acceso cómodo y evitar desperdicios."
+  ],
+  "category": ["avicultura"]
+},
+{
+  "id": 156,
+  "name": "Comederos para aves",
+  "image": "/products/comederos-aves.png",
+  "laboratory": "Lhaura",
+  "description": [
+    "Fabricados en polietileno de alta densidad (HDPE) y diseñados para maximizar la eficiencia alimentaria.",
+    "Cuentan con sistemas de caída por gravedad y bases especiales que reducen significativamente el desperdicio de alimento."
+  ],
+  "presentations": "3kg , 7kg , 12kg , 18kg",
+  "usage": [
+    "Instalación: Deben ubicarse en zonas techadas y secas para evitar la degradación del concentrado por humedad.",
+    "\n\nMantenimiento: Se recomienda lavar diariamente con agua y un desinfectante suave para eliminar materia orgánica.",
+    "\n\nAjuste: La altura debe nivelarse periódicamente de acuerdo al tamaño de las aves para evitar la contaminación del alimento."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 157,
+  "name": "Benzilbest",
+  "image": "/products/benzilbest.png",
+  "laboratory": "Call Best",
+  "description": [
+    "Antibiótico bactericida (Penicilina Benzatínica) de larga acción que actúa hasta por 7 días con una sola aplicación.",
+    "Cada 1 mL de producto reconstituido contiene 300.000 U.I. de Penicilina G Benzatínica."
+  ],
+  "presentations": "3 MIU , 6 MIU , 9 MIU",
+  "usage": [
+    "Dosificación: 7.000 a 22.000 U.I./k.p.v. vía intramuscular única.",
+    "\nEspecies mayores: 1 a 2 mL por cada 40 kg o 2.5 a 5 mL por cada 100 kg. 3 MIU (10mL) para 136-300kg; 6 MIU (20mL) para 273-600kg; 9 MIU (30mL) para 409-900kg.",
+    "\nEspecies menores (Perros, Ovinos, Porcinos): 1 a 2 mL por cada 40 kg.",
+    "nTiempo de retiro: Carne 30 días. Leche 6 días."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 158,
+  "name": "Oxibest 200 L.A.",
+  "image": "/products/oxibest200.png",
+  "laboratory": "Call Best",
+  "description": [
+    "Antibiótico de amplio espectro y larga acción a base de Oxitetraciclina.",
+    "Indicado para el tratamiento de anaplasmosis y enfermedades infecciosas causadas por una amplia gama de gérmenes Gram-positivos y Gram-negativos."
+  ],
+  "presentations": "50 mL , 250 mL",
+  "usage": [
+    "Dosis General (Bovinos, Equinos, Porcinos, Ovinos, Caprinos, Perros y Gatos): 1 mL por cada 10 kg de peso (Vía Intramuscular profunda, dosis única).",
+    "\nAves: 0.25 mL por kg de peso (Vía Subcutánea en la región posterior del cuello, dosis única).",
+    "\nLechones (<10 kg): 1 mL por Vía Subcutánea detrás de la oreja.",
+    "\nTiempo de retiro: Carne 21 días. Leche 6 días."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 159,
+  "name": "Oxibest 50",
+  "image": "/products/oxibest50.png",
+  "laboratory": "Call Best",
+  "description": [
+    "Antibiótico de amplio espectro a base de Oxitetraciclina para el tratamiento de Anaplasmosis y diversas enfermedades infecciosas.",
+    "Indicado en una amplia gama de patologías como Carbón bacteridiano, Tétano, Septicemia hemorrágica e infecciones cutáneas y uterinas."
+  ],
+  "presentations": "500 mL",
+  "usage": [
+    "Anaplasmosis: 2 mL por cada 10 kg de peso (20 mL por 100 kg) durante 3 a 4 días.",
+    "\nOtras infecciones: Animales >100 kg: 10 mL por cada 100 kg. Animales <100 kg y especies menores: 2 mL por cada 10 kg. Repetir 3 a 4 días.",
+    "\nVía: Intramuscular, Subcutánea e Intrauterina.",
+    "\nLavados uterinos/vaginales: Disolver 30-40 mL en 100 mL de agua destilada o solución salina. Repetir cada 24-48 horas (3 veces).",
+    "\nTiempo de retiro: Carne 21 días. Leche 6 días."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 160,
+  "name": "Pomada Betabest",
+  "image": "/products/pomada-betabest.png",
+  "laboratory": "Call Best",
+  "description": [
+    "Pomada antiflogística, antiinflamatoria y analgésica para procesos osteoarticulares, tendinosos y musculares.",
+    "Ideal para el tratamiento de inflamaciones no infecciosas por golpes, contusiones y afecciones de la glándula mamaria, incluyendo vacas de primer parto."
+  ],
+  "presentations": "60g , 220g , 400g",
+  "usage": [
+    "Aplicación: Aplicar externamente sobre las zonas afectadas realizando masajes para facilitar la penetración.",
+    "\nFrecuencia: Aplicar diariamente, preferiblemente 3 veces al día, hasta que desaparezcan el dolor y la inflamación.",
+    "\nEspecies: Bovinos, equinos, porcinos, ovinos, caprinos, perros y gatos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 161,
+  "name": "Nexabest Ungüento",
+  "image": "/products/nexabest.png",
+  "laboratory": "Call Best",
+  "description": [
+    "Ungüento indicado para el control de nuche (Dermatobia hominis) y miasis (gusaneras) en heridas quirúrgicas o accidentales.",
+    "Posee acción antiséptica, coadyuvante en procesos de cicatrización y funciona como repelente de moscas."
+  ],
+  "presentations": "60g , 220g , 400g",
+  "usage": [
+    "Aplicación: Aplicar directamente en las heridas o sobre el parásito. En ovejas, aplicar en las fosas nasales.",
+    "\nFrecuencia: Mantener la aplicación diaria hasta la curación total o muerte de los parásitos.",
+    "\nClasificación Toxicológica: CATEGORÍA I (Extremadamente Tóxico, Peligro - Veneno).",
+    "\nEspecies: Bovinos, equinos, porcinos, ovinos y gatos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 162,
+  "name": "Tenibest",
+  "image": "/products/tenibest.png",
+  "laboratory": "Call Best",
+  "description": [
+    "Asociación de antihelmíntico y tenicida de amplio espectro diseñada para una rápida distribución en el organismo.",
+    "Combate con eficacia el parasitismo gastrointestinal y pulmonar en formas adultas y larvarias en perros."
+  ],
+  "presentations": "fco x 120 mL",
+  "usage": [
+    "Dosis: 1 mL por cada 5 kg de peso vivo (equivale a Albendazole 30mg/kg y Praziquantel 2.5mg/kg).",
+    "Administración: Vía oral, preferiblemente en la mañana antes de recibir alimento.",
+    "Frecuencia: En trichuriasis severas, repetir la medicación a las 24 horas.",
+    "Precauciones: No administrar en animales gestantes debido a efectos teratogénicos y embriotóxicos."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 163,
+  "name": "Dermobest Spray",
+  "image": "/products/dermobest-spray.png",
+  "laboratory": "Call Best",
+  "description": [
+    "Solución tópica integral con acción antiinflamatoria, antibacteriana, antimicótica y anestésica local.",
+    "Indicado para el tratamiento de afecciones cutáneas en una amplia variedad de especies, incluyendo conejos y gallos."
+  ],
+  "presentations": "30 mL , 60 mL , 120 mL , 250 mL",
+  "usage": [
+    "Infecciones Micóticas: Aplicar 2 veces al día durante 5 a 7 días.",
+    "\nInfecciones Bacterianas: Aplicar 2 veces al día durante 5 días.",
+    "\nInstrucciones: Realizar una limpieza previa de la zona afectada antes de aplicar el producto.",
+    "\nEspecies: Bovinos, equinos, porcinos, ovinos, caprinos, perros, gatos, conejos y gallos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 164,
+  "name": "Rataquill",
+  "image": "/products/ratakill.png",
+  "laboratory": "Otros",
+  "description": [
+    "Cebo rodenticida peletizado a base de Brodifacouma, un anticoagulante de segunda generación.",
+    "Contiene atrayentes alimenticios especiales que garantizan una alta aceptabilidad por parte de ratas y ratones."
+  ],
+  "presentations": "sobre x 10g",
+  "usage": [
+    "Aplicación: Colocar directamente del sobre en cantidades de 5 a 10 gramos por punto.",
+    "\nDistribución: Disponer los cebos a intervalos de 5 a 10 metros en áreas de tránsito, presencia o anidación.",
+    "\nRecomendación: Para infestaciones localizadas, se sugiere utilizar porciones de 30 a 50 gramos por sitio para asegurar el consumo total.",
+    "\n\nNota: Cebo listo para usar, no requiere mezcla previa."
+  ],
+  "category": ["roedores"]
+},
+{
+  "id": 165,
+  "name": "Atropina",
+  "image": "/products/atropina.png",
+  "laboratory": "Erma",
+  "description": [
+    "Agente parasimpaticolítico y antiespasmódico que actúa disminuyendo o anulando los espasmos del músculo liso.",
+    "Funciona como acelerador cardíaco, disminuye secreciones durante la anestesia y actúa como antídoto específico contra intoxicaciones por organofosforados o arsenicales."
+  ],
+  "presentations": "10 mL , 50 mL",
+  "usage": [
+    "Dosis: En todas las especies aplicar 0,044 mg por kg de peso vivo.",
+    "\n\nVía de Administración: Intravenosa, Intramuscular o Subcutánea.",
+    "\n\nIndicaciones: Útil en exploraciones oftalmológicas, pre-anestesia y como antídoto de eserina, pilocarpina y morfina.",
+    "\n\nEspecies: Bovinos, equinos, porcinos, caninos y gatos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 166,
+  "name": "Boldenona",
+  "image": "/products/boldenona.png",
+  "laboratory": "Erma",
+  "description": [
+    "Agente anabólico coadyuvante para promover la síntesis proteica en enfermedades de tipo consuntivo o debilitantes.",
+    "Produce retención de nitrógeno, calcio, fósforo y potasio, contribuyendo al desarrollo de masa muscular y un mejor crecimiento óseo en estados de debilidad, raquitismo o fracturas."
+  ],
+  "presentations": "50 mL",
+  "usage": [
+    "Bovinos, equinos, ovinos y porcinos: 0.5 mL por cada 45 kg de peso vivo, cada 2-4 semanas.",
+    "\n\nCaninos: 0.25 mL por cada 5 kg de peso vivo, cada 2-4 semanas.",
+    "\n\nVía de Aplicación: Intramuscular profunda.",
+    "\n\nEspecies: Bovinos, equinos, porcinos, ovinos, caprinos y caninos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 167,
+  "name": "Canapet",
+  "image": "/products/canapet.png",
+  "laboratory": "Erma",
+  "description": [
+    "Suplemento vitamínico mineral especialmente formulado para animales convalecientes, anoréxicos y débiles.",
+    "Ideal para equilibrar la dieta en etapas críticas y mejorar el estado nutricional general."
+  ],
+  "presentations": "300 g",
+  "usage": [
+    "Modo de empleo: Suministrar mezclado con la comida.",
+    "\n\nCaninos: Cachorros (5g por cada 3kg); Hembras (7.5g por cada 2kg); Adultos (15g por cada 15kg).",
+    "\n\nFelinos: Jóvenes (2.5g por kg); Adultos (5g por cada 5kg).",
+    "\n\nAves: Canarios y pericos (5g para 40 aves); Palomas y loros (5g para 20 aves).",
+    "\n\nEspecies: Perros, gatos, aves ornamentales y aves de pastoreo."
+  ],
+  "category": ["mascotas", "ganaderia"]
+},
+{
+  "id": 168,
+  "name": "Dermapel",
+  "image": "/products/dermapel.png",
+  "laboratory": "Erma",
+  "description": [
+    "Suplemento alimenticio que aporta vitaminas, ácidos grasos esenciales y Zinc para la salud de la piel y el pelaje.",
+    "Formulado específicamente para perros y gatos que requieren un refuerzo nutricional para mejorar su barrera cutánea."
+  ],
+  "presentations": "300 g",
+  "usage": [
+    "Instrucciones: Suministrar diariamente por vía oral mezclado con el alimento.",
+    "Perros: >25 kg (30 g diarios); 10-25 kg (20 g diarios); <10 kg (10 g diarios).",
+    "Gatos: Hasta 5 kg de peso (5 g diarios).",
+    "Nota: Una cucharada sopera equivale aproximadamente a 10 g. La dosis puede ajustarse según criterio profesional."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 169,
+  "name": "Dexametasona",
+  "image": "/products/dexametasona.png",
+  "laboratory": "Erma",
+  "description": [
+    "Glucocorticoide indicado para el tratamiento de condiciones inflamatorias no infecciosas de las articulaciones y tejidos relacionados.",
+    "\nFunciona como coadyuvante en procesos alérgicos e inflamatorios de origen no infeccioso en diversas especies."
+  ],
+  "presentations": "20 mL",
+  "usage": [
+    "Bovinos: 2.5 a 10 mL vía intramuscular o intravenosa.",
+    "\n\nEquinos: 1.5 a 2.5 mL vía intramuscular o intravenosa.",
+    "\n\nCaninos: 0.1 a 0.5 mL vía intramuscular o intravenosa.",
+    "\n\nFelinos: 0.1 a 0.3 mL vía intramuscular o intravenosa.",
+    "\n\nNota: La dosis debe individualizarse según la severidad de la afección y la tolerancia del animal, bajo criterio del médico veterinario."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 170,
+  "name": "Dextromin B",
+  "image": "/products/dextromin-b.png",
+  "laboratory": "Erma",
+  "description": [
+    "Reactivante del metabolismo celular que contribuye a prevenir y eliminar estados de anemia.",
+    "\nCoadyuvante en el tratamiento de anaplasmosis y babesiellosis; indicado en terapia de glucosa y shocks hipoglicémicos."
+  ],
+  "presentations": "500 mL",
+  "usage": [
+    "Bovinos y equinos adultos: 500 a 2.000 mL por día.",
+    "\n\nTerneros, potros y perros: 10 mL por kg de peso por día.",
+    "\n\nVía de Aplicación: Intravenosa, subcutánea o intramuscular.",
+    "\n\nNota: Las dosis pueden variar según el criterio del Médico Veterinario."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 171,
+  "name": "Dextromin RB 12",
+  "image": "/products/dextromin-rb12.png",
+  "laboratory": "Erma",
+  "description": [
+    "Coadyuvante integral en el tratamiento de hipoglicemia, deshidratación y deficiencias vitamínico-minerales.",
+    "\nIndicado como apoyo en la recuperación de enfermedades infecciosas y parasitarias en diversas especies."
+  ],
+  "presentations": " 500 mL",
+  "usage": [
+    "Instrucciones de Mezcla: Mezclar el contenido del frasco de 40 mL (vitaminas y aminoácidos) con la bolsa de 460 mL (dextrosa y electrólitos) antes de su aplicación.",
+    "\n\nBovinos y equinos adultos: 1.000 a 2.000 mL por 3 a 5 días seguidos (Vía Intravenosa).",
+    "\n\nPorcinos, ovinos, caninos y gatos: 10 mL/kg de peso vivo por 3 a 5 días seguidos (Vía Intravenosa).",
+    "\n\nEspecies: Bovinos, equinos, porcinos, ovinos, caninos y gatos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 172,
+  "name": "Distrosel",
+  "image": "/products/distrosel.png",
+  "laboratory": "Erma",
+  "description": [
+    "Antiparasitario oral de amplio espectro para equinos a base de Ivermectina.",
+    "\nControla eficazmente estados adultos y larvarios de grandes y pequeños estróngilos, Oxyuris y Parascaris equorum, incluyendo estadios arteriales y tisulares."
+  ],
+  "presentations": "20 g",
+  "usage": [
+    "Dosis: 200 mcg de Ivermectina por kg de peso vivo.",
+    "\n\nAdministración: Cada jeringa contiene pasta suficiente para tratar 600 kg de peso vivo.",
+    "\n\nVía de aplicación: Oral exclusivamente.",
+    "\n\nEspecies: Equinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 173,
+  "name": "Equiet",
+  "image": "/products/equiet.png",
+  "laboratory": "Erma",
+  "description": [
+    "NOTA:\nProducto fiscalizado: Adquisición limitada a compradores con permiso especial y resolución del Estado.",
+    "\n\nSedante a base de Xilazina con propiedades de analgesia y relajación muscular para equinos.",
+    "\nIndicado para procedimientos diagnósticos (exámenes rectales, vaginales u oftálmicos), ortopédicos, dentales y cirugías menores o como preanestésico en cirugías mayores."
+  ],
+  "presentations": "50 mL",
+  "usage": [
+    "Vía Intravenosa: 0.5 mL por cada 50 kg de peso corporal (1.1 mg/kg).",
+    "\n\nVía Intramuscular: 1 mL por cada 50 kg de peso corporal (2.2 mg/kg).",
+    "\n\nUsos: Manejo de animales ariscos, sutura de laceraciones, radiografía y como coadyuvante en anestesia general o local.",
+    "\n\nEspecies: Equinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 174,
+  "name": "Ermafos",
+  "image": "/products/ermafos.png",
+  "laboratory": "Erma",
+  "description": [
+    "Indicado para el tratamiento de deficiencias de calcio, fósforo y magnesio en grandes especies.",
+    "Eficaz en casos de acetonemia, fiebre de leche (hipocalcemia) y eclampsia en bovinos y equinos."
+  ],
+  "presentations": "500 mL",
+  "usage": [
+    "Dosis: Aplicar 100 mL por cada 100 kg de peso vivo.",
+    "\n\nVía de Administración: Intravenosa.",
+    "\n\nNota: La frecuencia y duración del tratamiento quedan a criterio del médico veterinario.",
+    "\n\nEspecies: Bovinos y equinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 175,
+  "name": "Ermasid",
+  "image": "/products/ermasid.png",
+  "laboratory": "Erma",
+  "description": [
+    "Coadyuvante en el control y tratamiento de diarreas y enteritis no específicas.",
+    "\nActúa eficazmente en procesos digestivos inflamatorios en animales jóvenes y mascotas."
+  ],
+  "presentations": "120 mL",
+  "usage": [
+    "Dosis General: Vía oral, 20 mg de activo por kg de peso, 3 veces al día.",
+    "\n\nPerros: 20 mL por cada 15 kg de peso, tres veces al día.",
+    "\n\nPotros y Terneros (85-220 kg): Administrar de 100 a 250 mL repartidos en tres tomas al día.",
+    "\n\nAdministración: Usar jeringa plástica o sonda, evitando la aspiración pulmonar.",
+    "\n\nEspecies: Perros, terneros, cerdos y potros."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 176,
+  "name": "Espiramicina",
+  "image": "/products/espiramicina.png",
+  "laboratory": "Erma",
+  "description": [
+    "Antibiótico macrólido indicado para el tratamiento de infecciones ocasionadas por Streptococcus sp., Corynebacterium sp. y Mycoplasma sp.",
+    "\nEficaz en procesos respiratorios y sistémicos en diversas especies, incluyendo aves de engorde y reemplazo."
+  ],
+  "presentations": "50 mL",
+  "usage": [
+    "Bovinos: 1 mL por cada 20 kg de peso.",
+    "\n\nTerneros, porcinos, ovinos y caninos: 1 mL por cada 8 kg de peso. En casos graves repetir a las 24 o 36 horas.",
+    "\n\nAves: Diluir 50 mL en 400 mL de agua estéril; aplicar 1 mL de la mezcla por kg de peso. Repetir a los 8 días.",
+    "\n\nVía de Administración: Intramuscular. En aves también se puede aplicar vía subcutánea.",
+    "\n\nEspecies: Bovinos, porcinos, ovinos, caninos y aves (pollos de engorde y pollas de reemplazo)."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 177,
+  "name": "Fencob",
+  "image": "/products/fencob.png",
+  "laboratory": "Erma",
+  "description": [
+    "Antiparasitario de amplio espectro para el control y tratamiento de parásitos gastrointestinales y pulmonares.",
+    "\nEficaz contra estados adultos, larvarios y huevos en bovinos, ovinos, caprinos, porcinos y equinos."
+  ],
+  "presentations": "Jeringa x 12 mL",
+  "usage": [
+    "Bovinos, ovinos, caprinos y porcinos: 5 mg/kg (en la práctica 1 mL por cada 50 kg).",
+    "\n\nEquinos: 7.5 mg/kg (en la práctica 3 mL por cada 100 kg de peso).",
+    "\n\nAdministración: Vía oral.",
+    "\n\nNota: La frecuencia y duración del tratamiento dependen del criterio del Médico Veterinario.",
+    "\n\nEspecies: Bovinos, ovinos, caprinos, porcinos y equinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 178,
+  "name": "Fluvipen L.A.",
+  "image": "/products/fluvipen.png",
+  "laboratory": "Erma",
+  "description": [
+    "Antibiótico de larga acción indicado para el tratamiento de una amplia gama de infecciones bacterianas, incluyendo neumonías, bronquitis y septicemias.",
+    "\nEficaz contra gérmenes como Streptococcus sp, Staphylococcus sp y Clostridium sp, además de tratar infecciones en el tracto reproductor, urinario y meningitis."
+  ],
+  "presentations": "9 Millones U.I.",
+  "usage": [
+    "Dosis: 11.000 a 22.000 U.I. por kg de peso vivo.",
+    "\n\nEn la práctica: Aplicar 1.5 mL por cada 20 kg de peso vivo.",
+    "\n\nVía de Administración: Intramuscular.",
+    "\n\nEspecies: Bovinos, equinos, porcinos, ovinos, caprinos y caninos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 179,
+  "name": "Gluconato de Calcio",
+  "image": "/products/gluconato-calcio.png",
+  "laboratory": "Erma",
+  "description": [
+    "Suplemento indicado para el tratamiento de deficiencias de calcio y vitamina D (raquitismo) en caninos.",
+    "\nAyuda al fortalecimiento óseo y dental en etapas de crecimiento y mantenimiento."
+  ],
+  "presentations": "80 Tabletas",
+  "usage": [
+    "Perros Jóvenes: 2 tabletas diarias por kg de peso.",
+    "\n\nPerros Adultos: 1 tableta diaria por kg de peso.",
+    "\n\nVía de Administración: Oral.",
+    "\n\nNota: Las dosis pueden variar según el criterio del médico veterinario.",
+    "\n\nEspecies: Caninos."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 180,
+  "name": "Guayacolato",
+  "image": "/products/guayacolato.png",
+  "laboratory": "Erma",
+  "description": [
+    "Relajante muscular de acción central y agente bloqueador interneural.",
+    "\nCoadyuvante en anestesia para grandes especies; aumenta la potencia de agentes preanestésicos y barbitúricos."
+  ],
+  "presentations": "500 mL",
+  "usage": [
+    "Dosis: 110 mg/kg (equivalente a 2.2 mL por kg de peso vivo). Se recomienda dosificar a efecto bajo supervisión profesional.",
+    "\n\nVía de Administración: Intravenosa rápida.",
+    "\n\nNota: Se recomienda utilizar aguja No. 14 o 16 para su aplicación.",
+    "\n\nEspecies: Bovinos y equinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 181,
+  "name": "Hierro Dextran",
+  "image": "/products/hierro-dextran.png",
+  "laboratory": "Erma",
+  "description": [
+    "Indicado para el tratamiento y prevención de anemias ferropénicas (por deficiencia de hierro).",
+    "\nEspecialmente formulado para lechones neonatos y terneros jóvenes para asegurar niveles óptimos de hemoglobina."
+  ],
+  "presentations": "20 mL",
+  "usage": [
+    "Lechones (3 a 6 días de edad): 1 a 2 mL por animal vía intramuscular profunda.",
+    "\n\nTerneros (hasta 2 meses): 2 a 5 mL vía intramuscular profunda.",
+    "\n\nVía de Administración: Intramuscular profunda, preferiblemente en la parte posterior del muslo.",
+    "\n\nEspecies: Bovinos, equinos, porcinos y ovinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 182,
+  "name": "Ivermectina 1%",
+  "image": "/products/ivermectina-1.png",
+  "laboratory": "Erma",
+  "description": [
+    "Antiparasitario de amplio espectro para el control de endoparásitos y ectoparásitos.",
+    "\nEficaz contra nemátodos gastrointestinales y pulmonares, así como ácaros de la sarna, piojos, nuche y garrapatas."
+  ],
+  "presentations": "10 mL , 50 mL , 200 mL , 500 mL",
+  "usage": [
+    "Bovinos: 1 mL por cada 50 kg de peso vivo (200 mcg/kg).",
+    "\n\nPorcinos: 1 mL por cada 33 kg de peso vivo (300 mcg/kg).",
+    "\n\nVía de Administración: Subcutánea.",
+    "\n\nEspecies: Bovinos y porcinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 183,
+  "name": "Ivermectina TC",
+  "image": "/products/ivermectina-tc.png",
+  "laboratory": "Erma",
+  "description": [
+    "Antiparasitario de alta concentración indicado para el control y tratamiento de endoparásitos y ectoparásitos en bovinos.",
+    "\nActúa eficazmente contra nemátodos gastrointestinales y pulmonares, nuche, ácaros de la sarna, piojos y garrapatas."
+  ],
+  "presentations": "50 mL , 200 mL , 500 mL",
+  "usage": [
+    "Dosis: 630 mcg por kg de peso vivo (en la práctica, 1 mL por cada 50 kg).",
+    "\n\nVía de Administración: Subcutánea, utilizando aguja de 15 a 20 mm, calibre 16.",
+    "\n\nFrecuencia: Según criterio del Médico Veterinario.",
+    "\n\nEspecies: Bovinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 184,
+  "name": "Lactopart",
+  "image": "/products/lactopart.png",
+  "laboratory": "Erma",
+  "description": [
+    "Hormona oxitócica útil para promover las contracciones uterinas durante el parto y estimular el descenso de la leche.",
+    "\nCoadyuvante eficaz en casos de retención de placenta, metritis, agalactia y control de hemorragias post-parto."
+  ],
+  "presentations": "10 mL",
+  "usage": [
+    "Bovinos y Equinos: 3 a 10 mL.",
+    "\n\nPorcinos y Ovinos: 3 a 5 mL.",
+    "\n\nCaninos: 0.5 a 2 mL.",
+    "\n\nGatos: 0.3 a 0.5 mL.",
+    "\n\nVías de Administración: Intramuscular o subcutánea. Vía intravenosa lenta (usar la mitad de la dosis IM).",
+    "\n\nEspecies: Bovinos, equinos, porcinos, ovinos, caninos y felinos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 185,
+  "name": "Levamisol",
+  "image": "/products/levamisol.png",
+  "laboratory": "Erma",
+  "description": [
+    "Antiparasitario interno indicado para el tratamiento de infestaciones por parásitos gastrointestinales y pulmonares.",
+    "\nEficaz contra una amplia gama de nemátodos incluyendo Haemonchus, Ostertagia, Cooperia y Dictyocaulus."
+  ],
+  "presentations": "500 mL",
+  "usage": [
+    "Bovinos: Inyección intramuscular en el anca, o subcutánea en la tabla del cuello.",
+    "\n\nOvinos: Subcutánea detrás de la paleta o en la ingle.",
+    "\n\nPorcinos: Subcutánea detrás de la oreja o intramuscular en el jamón.",
+    "\n\nEspecies: Bovinos, porcinos, ovinos y caprinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 186,
+  "name": "Lidocaína",
+  "image": "/products/lidocaina.png",
+  "laboratory": "Erma",
+  "description": [
+    "Anestésico local indicado para anestesia por infiltración, regional intravenosa, bloqueos nerviosos y anestesia epidural.",
+    "\nUtilizado ampliamente en procedimientos quirúrgicos, diagnósticos y descorne en diversas especies."
+  ],
+  "presentations": "50 mL",
+  "usage": [
+    "Anestesia por Infiltración: Perros y Gatos (0.5 – 2 mL por área); Equinos (1 mL por cm de incisión superficial, hasta 250 mL en total).",
+    "\n\nAnestesia en L invertida (Bovinos): Inyectar hasta 100 mL en múltiples puntos en la zona lumbar (borde de la 13ª costilla).",
+    "\n\nDescorne (Bovinos): 5 – 10 mL S.C. entre el canto lateral del ojo y la base del cuerno.",
+    "\n\nVías de Administración: Subcutánea o epidural.",
+    "\n\nEspecies: Bovinos, equinos, ovinos, perros y gatos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 187,
+  "name": "Maropitant",
+  "image": "/products/maropitant.png",
+  "laboratory": "Erma",
+  "description": [
+    "Antiemético indicado para el tratamiento del vómito agudo en perros y gatos.",
+    "\nEficaz en la prevención del vómito provocado por quimioterapia en perros."
+  ],
+  "presentations": "10 mL , 20 mL",
+  "usage": [
+    "Dosis: 1 mg/kg (equivalente a 1 mL por cada 10 kg de peso corporal) una vez al día hasta por 5 días.",
+    "\n\nAdministración: Vía subcutánea o intravenosa (en bolo, sin mezclar con otros líquidos).",
+    "\n\nNota: Como preventivo en quimioterapia, administrar 1 hora antes. La aplicación en frío (refrigerado) reduce el dolor de la inyección.",
+    "\n\nEspecies: Perros y gatos."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 188,
+  "name": "Neobacteriol",
+  "image": "/products/neobacteriol.png",
+  "laboratory": "Erma",
+  "description": [
+    "Indicado para el tratamiento de bocio, pereza sexual y como coadyuvante en la normalización del celo por deficiencia de yodo.",
+    "\nEficaz en el tratamiento de actinomicosis y actinobacilosis, así como en estados generales de deficiencia de yodo."
+  ],
+  "presentations": "50 mL , 100 mL",
+  "usage": [
+    "Bovinos y equinos adultos: 10 a 15 mL diarios.",
+    "\n\nTerneros y potros: 5 mL diarios.",
+    "\n\nCaninos: Hasta 3 mL según el peso.",
+    "\n\nVía de Administración: Inyección intramuscular diaria por un periodo de 3 a 5 días consecutivos.",
+    "\n\nEspecies: Bovinos, equinos y caninos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 189,
+  "name": "Oxitetraciclina 50",
+  "image": "/products/oxitetraciclina-50.png",
+  "laboratory": "Erma",
+  "description": [
+    "Antibiótico de amplio espectro indicado para el tratamiento de enfermedades infecciosas causadas por gérmenes sensibles a la oxitetraciclina.",
+    "\nEficaz en el tratamiento de afecciones sistémicas, locales y anaplasmosis en diversas especies."
+  ],
+  "presentations": "10 mL ,50 mL , 100 mL , 250 mL , 500 mL",
+  "usage": [
+    "Dosis General: 5 mg por kg (10 mL por cada 100 kg de peso vivo).",
+    "\n\nAnaplasmosis: 10 mg/kg (20 mL por cada 100 kg de peso) cada 12 horas por 5 días.",
+    "\n\nLavados Uterinos: Diluir 40 mL (2 g) en 50-100 mL de agua destilada estéril.",
+    "\n\nVías de Administración: Intramuscular, intravenosa, subcutánea, intraperitoneal o intrauterina.",
+    "\n\nEspecies: Bovinos, equinos, porcinos, ovinos y caprinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 190,
+  "name": "Oxitetraciclina 200",
+  "image": "/products/oxitetraciclina-200.png",
+  "laboratory": "Erma",
+  "description": [
+    "Antibiótico de amplio espectro y larga acción indicado para el tratamiento de enfermedades ocasionadas por Anaplasma, Listeria, E. coli, Leptospira, Clostridium y Streptococcus.",
+    "\nFormulación de alta concentración que permite intervalos de dosificación más prolongados."
+  ],
+  "presentations": "50 mL , 250 mL , 500 mL",
+  "usage": [
+    "Dosis: 20 mg por kg de peso (1 mL por cada 10 kg de peso vivo).",
+    "\n\nFrecuencia: Aplicar cada 4 a 5 días.",
+    "\n\nDosis Máximas por sitio de aplicación: Bovinos 20 mL, Porcinos 10 mL, Ovinos y Caprinos 5 mL.",
+    "\n\nVía de Administración: Intramuscular profunda.",
+    "\n\nEspecies: Bovinos, porcinos, ovinos y caprinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 191,
+  "name": "Piojiderma",
+  "image": "/products/piojiderma.png",
+  "laboratory": "Erma",
+  "description": [
+    "Jabón antiparasitario formulado con permetrina para el tratamiento de ectoparásitos.",
+    "\nEficaz en el control de pulgas, piojos y garrapatas en mascotas, dejando el pelaje limpio y protegido."
+  ],
+  "presentations": "100 g",
+  "usage": [
+    "Modo de empleo: Humedecer la piel, frotar hasta formar abundante espuma y dejar actuar por 5 minutos antes de enjuagar.",
+    "\n\nFrecuencia: Repetir el tratamiento según sea necesario.",
+    "\n\nVía de Administración: Uso externo únicamente (tópico).",
+    "\n\nEspecies: Perros y gatos."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 192,
+  "name": "Progesterona",
+  "image": "/products/progesterona.png",
+  "laboratory": "Erma",
+  "description": [
+    "Hormona indicada para el control de la amenaza de aborto y aborto habitual por deficiencias lúteas.",
+    "\nAyuda al mantenimiento de la gestación en diversas especies mediante el soporte hormonal adecuado."
+  ],
+  "presentations": "20 mL",
+  "usage": [
+    "Grandes especies (Bovinos, equinos, porcinos y ovinos): 1 mg por kg (en la práctica 2 mL por cada 50 kg).",
+    "\n\nCaninos y Felinos: 2 a 5 mg (0.1 a 0.2 mL) por kg de peso vivo.",
+    "\n\nFrecuencia: Aplicar cada tercer día hasta completar 3 inyecciones, o según criterio veterinario.",
+    "\n\nVía de Administración: Intramuscular.",
+    "\n\nEspecies: Bovinos, equinos, porcinos, ovinos, caninos y felinos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 193,
+  "name": "Pulfen N Dos",
+  "image": "/products/pulfen-n-dos.png",
+  "laboratory": "Erma",
+  "description": [
+    "Antiparasitario externo indicado para el tratamiento y control de pulgas, garrapatas y piojos.",
+    "\nFormulación tópica de fácil aplicación para la protección prolongada de mascotas."
+  ],
+  "presentations": "Jeringa x 1 mL ,Jeringa x 3.2 mL",
+  "usage": [
+    "Dosis: Aplicar 0.8 mL por cada 10 kg de peso (7.5 mg/kg).",
+    "\n\nModo de empleo: Aplicación tópica (spot-on) en un solo punto del dorso, separando el pelo para aplicar directamente sobre la piel y evitar el lamido.",
+    "\n\nVía de Administración: Uso externo únicamente.",
+    "\n\nEspecies: Perros y gatos."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 194,
+  "name": "Singus",
+  "image": "/products/singus.png",
+  "laboratory": "Erma",
+  "description": [
+    "Crema dermatológica indicada para el control de miasis cutáneas producidas por el Nuche (Dermatobia hominis) en todos sus estados larvarios.",
+    "\nActúa localmente sobre la lesión para eliminar las larvas y favorecer la recuperación del tejido."
+  ],
+  "presentations": "300 g",
+  "usage": [
+    "Dosis: Aplicar 2 gramos sobre el forúnculo o cantidad suficiente para cubrir la lesión.",
+    "\n\nFrecuencia: 3 veces al día durante 3 días consecutivos.",
+    "\n\nModo de empleo: Se recomienda depilar o cortar el pelo en el área afectada antes de aplicar para mejorar la penetración.",
+    "\n\nVía de Administración: Tópica (uso externo).",
+    "\n\nEspecies: Perros."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 195,
+  "name": "Thanesia",
+  "image": "/products/thanesia.png",
+  "laboratory": "Erma",
+  "description": [
+    "Eutanásico indicado para perros y gatos.",
+    "\nActúa de manera rápida para asegurar un proceso humanitario bajo estricta supervisión profesional."
+  ],
+  "presentations": "50 mL",
+  "usage": [
+    "Caninos: 1 mL por cada 4.5 kg de peso.",
+    "\n\nGatos: 0.5 mL por cada 2.25 kg de peso.",
+    "\n\nVía de Administración: Intravenosa rápida. En cachorros se recomienda la vía intraperitoneal.",
+    "\n\nNota: Se puede usar la vía intracardiaca previa sedación si la intravenosa es impracticable.",
+    "\n\nEspecies: Perros y gatos."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 196,
+  "name": "Tiamina",
+  "image": "/products/tiamina.png",
+  "laboratory": "Erma",
+  "description": [
+    "Indicado para el tratamiento de deficiencias de vitamina B1 (Tiamina).",
+    "\nÚtil en el tratamiento de enfermedades musculares y trastornos metabólicos derivados de la carencia de esta vitamina."
+  ],
+  "presentations": "20 mL , 100 mL",
+  "usage": [
+    "Dosis: 300 mg por cada 100 kg de peso vivo.",
+    "\n\nFrecuencia: Aplicar diariamente durante 4 a 5 días o según criterio del médico veterinario.",
+    "\n\nVía de Administración: Intramuscular.",
+    "\n\nEspecies: Bovinos, equinos y porcinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 197,
+  "name": "Ungüento N°100",
+  "image": "/products/unguento-100.png",
+  "laboratory": "Erma",
+  "description": [
+    "Antiflogístico y desinflamatorio de uso tópico.",
+    "\nCoadyuvante en el tratamiento de mastitis e inflamaciones traumáticas producidas por golpes y contusiones."
+  ],
+  "presentations": " 50 g , 120 g , 300 g",
+  "usage": [
+    "Modo de empleo: Lavar la zona afectada (especialmente la ubre) con agua tibia y secar.",
+    "\n\nAplicación: Extender abundante ungüento realizando un masaje suave y prolongado.",
+    "\n\nFrecuencia: 2 a 3 veces al día.",
+    "\n\nVía de Administración: Tópica (uso externo).",
+    "\n\nEspecies: Bovinos y otras especies según necesidad."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 198,
+  "name": "Verdemint",
+  "image": "/products/verdemint.png",
+  "laboratory": "Erma",
+  "description": [
+    "Pomada antiséptica y cicatrizante indicada para infecciones externas post-traumáticas o post-operatorias.",
+    "\nEficaz en el tratamiento de quemaduras, escoriaciones, piodermas y grietas en los pezones causadas por bacterias sensibles."
+  ],
+  "presentations": "50 g , 300 g",
+  "usage": [
+    "Modo de empleo: Aplicar una capa fina sobre la herida previamente lavada y desinfectada.",
+    "\n\nFrecuencia: 2 a 3 veces al día o según criterio del médico veterinario.",
+    "\n\nNota: Eventualmente la herida puede cubrirse con un apósito estéril tras la aplicación.",
+    "\n\nVía de Administración: Tópica (uso externo).",
+    "\n\nEspecies: Bovinos, equinos, porcinos, ovinos y caninos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 199,
+  "name": "Verruex",
+  "image": "/products/verruex.png",
+  "laboratory": "Erma",
+  "description": [
+    "Indicado para el tratamiento y control de la papilomatosis (verrugas).",
+    "\nEficaz en la eliminación de verrugas cutáneas en rumiantes mediante estimulación de la respuesta terapéutica."
+  ],
+  "presentations": "50 mL , 250 mL",
+  "usage": [
+    "Dosis: 1 mL por cada 10 kg de peso corporal.",
+    "\n\nFrecuencia: Se recomienda una aplicación semanal por tres semanas consecutivas, según la gravedad del caso.",
+    "\n\nVía de Administración: Subcutánea.",
+    "\n\nEspecies: Bovinos, ovinos y caprinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 200,
+  "name": "Xilacina 2%",
+  "image": "/products/xilacina.png",
+  "laboratory": "Erma",
+  "description": [
+    "NOTA:\nProducto fiscalizado: Adquisición limitada a compradores con permiso especial y resolución del Estado.",
+    "\n\nSedante, analgésico y relajante muscular indicado para procedimientos que requieren desde una tranquilización ligera hasta una anestesia profunda.",
+    "\nIdeal para intervenciones menores, cirugías dolorosas, toma de radiografías y como preanestésico."
+  ],
+  "presentations": "20 mL",
+  "usage": [
+    "Bovinos: Vía intramuscular. Dosis según el grado de sedación requerido (desde intervenciones menores hasta cesáreas).",
+    "\n\nEquinos, Caninos y Felinos: Vía intramuscular o endovenosa.",
+    "\n\nEfecto: Inyección EV (5 min), Inyección IM (5 a 15 min). Se debe mantener al animal en un ambiente tranquilo para asegurar la efectividad.",
+    "\n\nEspecies: Bovinos, equinos, caninos y felinos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 201,
+  "name": "Ketavet",
+  "image": "/products/ketavet.png",
+  "laboratory": "Erma",
+  "description": [
+    "NOTA:\nProducto fiscalizado: Adquisición limitada a compradores con permiso especial y resolución del Estado.",
+    "\n\nAnestésico general de corta duración indicado para la inducción de la anestesia.",
+    "\nSuele combinarse con sedantes para mejorar la relajación muscular y el control del dolor durante procedimientos quirúrgicos."
+  ],
+  "presentations": "50mL",
+  "usage": [
+    "Uso: Inducción anestésica en combinación con otros sedantes (xilacina, detomidina).",
+    "\n\nAdministración: Vía intravenosa, intramuscular o subcutánea según protocolo médico.",
+    "\n\nContraindicaciones: No usar en animales con insuficiencia renal o hepática, glaucoma, hipertensión o convulsiones.",
+    "\n\nNota: Puede causar salivación excesiva; se recomienda premedicación con atropina. Venta bajo fórmula médica.",
+    "\n\nEspecies: Perros, gatos y caballos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 202,
+  "name": "Complex.55",
+  "image": "/products/complex.png",
+  "laboratory": "Pharvet",
+  "description": [
+    "Antianémico que estimula el metabolismo enzimático y la actividad muscular, permitiendo una mejor oxigenación.",
+    "\nAyuda a disminuir el cansancio y la fatiga en animales débiles o en procesos de recuperación."
+  ],
+  "presentations": " 20 mL , 50 mL , 100 mL , 250 mL , 500 mL",
+  "usage": [
+    "Bovinos: 1 mL por cada 100 kg de peso vivo.",
+    "\n\nVías de Administración: Intravenosa, intramuscular o subcutánea.",
+    "\n\nComposición: Contiene Cianocobalamina, Tiamina HCI, Niacinamida, Metionina y Aspartato de Potasio.",
+    "\n\nEspecies: Bovinos y otras especies según criterio del médico veterinario."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 203,
+  "name": "Cobrex",
+  "image": "/products/cobrex.png",
+  "laboratory": "Pharvet",
+  "description": [
+    "Suplemento mineral indicado para la prevención y tratamiento de la Hipocuprosis (deficiencia de cobre).",
+    "\nImpulsa el desarrollo óseo, mejora la ganancia diaria de peso, fortalece el sistema inmune y optimiza los tiempos de ceba."
+  ],
+  "presentations": "10 mL , 20 mL , 50 mL , 100 mL , 250 mL",
+  "usage": [
+    "Terneros destetos: 5 mL.",
+    "\n\nBovinos adultos: 10 mL.",
+    "\n\nVía de Administración: Subcutánea (se recomienda utilizar aguja de 16 x 1 1/2”).",
+    "\n\nFrecuencia: Repetir a los tres meses o según criterio del Médico Veterinario.",
+    "\n\nNota: No tiene tiempo de retiro en carne ni leche.",
+    "\n\nEspecies: Bovinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 204,
+  "name": "Supplementum-LaC Perros",
+  "image": "/products/supplementum-lac-perros.png",
+  "laboratory": "Weiss",
+  "description": [
+    "Alimento completo en polvo utilizado como sustituto lácteo para cachorros o complemento a la leche materna.",
+    "\nFormulado para cubrir las necesidades nutricionales desde el nacimiento hasta el día 35."
+  ],
+  "presentations": "200 g , 400 g",
+  "usage": [
+    "Dosis: Suministrar 1 mL de la dilución preparada por cada 50 gramos de peso vivo.",
+    "\n\nFrecuencia: Según la etapa de desarrollo (ver tabla de ración recomendada).",
+    "\n\nPreparación: Realizar la dilución, mezclar bien y administrar inmediatamente. Una vez preparada, se debe usar dentro de la siguiente hora o descartar sobrante.",
+    "\n\nConservación: La mezcla preparada puede refrigerarse (2-4°C) por un máximo de 24 horas.",
+    "\n\nEspecies: Perros (cachorros lactantes)."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 205,
+  "name": "Supplementum Lac Gatos",
+  "image": "/products/supplementum-lac-gatos.png",
+  "laboratory": "Weiss",
+  "description": [
+    "LactoReemplazador y alimento completo diseñado como sustituto o complemento de la leche materna para gatitos.",
+    "\nEnriquecido con Niacina, Ácido Graso Araquidónico, Taurina, Omegas 3, 6 y 9, e Inmunoglobulinas para un desarrollo óptimo."
+  ],
+  "presentations": "200 g , 400 g",
+  "usage": [
+    "Dosis: Suministrar 1 mL de la dilución preparada por cada 50 gramos de peso vivo.",
+    "\n\nEtapa: Recomendado desde el día 1 hasta el día 35 de nacido como alimento completo.",
+    "\n\nPreparación: Realizar la dilución y administrar inmediatamente. Si sobra, descartar después de una hora a temperatura ambiente.",
+    "\n\nConservación: La preparación puede refrigerarse (2-4°C) por un máximo de 24 horas.",
+    "\n\nEspecies: Gatos (gatitos lactantes)."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 206,
+  "name": "CondrOmeg",
+  "image": "/products/condromeg.png",
+  "laboratory": "Weiss",
+  "description": [
+    "Suplemento alimenticio condroprotector en polvo diseñado para favorecer la hidratación y nutrición del cartílago articular.",
+    "\nContiene una fórmula completa con Glucosamina, Condroitina, Ácido Hialurónico, MSM, Colágeno hidrolizado y Omega 3."
+  ],
+  "presentations": "200 g , 400 g",
+  "usage": [
+    "Dosis: 1 gramo de CondrOmeg por cada kilogramo de peso corporal.",
+    "\n\nModo de empleo: Administrar directamente o mezclado con el alimento. Incluye cuchara dosificadora.",
+    "\n\nRecomendación: Suministrar de forma continua por un periodo no inferior a 8 semanas.",
+    "\n\nEspecies: Perros y gatos."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 207,
+  "name": "Canilaner",
+  "image": "/products/canilaner.png",
+  "laboratory": "Provet",
+  "description": [
+    "Insecticida y acaricida sistémico de larga duración.",
+    "\nControla eficazmente pulgas, garrapatas y ácaros de la sarna con una protección persistente de hasta 12 semanas tras una única dosis."
+  ],
+  "presentations": "2-4.5 kg,4.5-10 kg,10-20 kg,20-40 kg,40-56 kg",
+  "usage": [
+    "Dosis: 1 tableta según el rango de peso (25 – 56 mg de fluralaner/kg).",
+    "\n\nTabla de peso: 2-4.5 kg (112.5 mg), 4.5-10 kg (250 mg), 10-20 kg (500 mg), 20-40 kg (1000 mg), 40-56 kg (1400 mg).",
+    "\n\nVía de Administración: Oral (tableta masticable).",
+    "\n\nFrecuencia: Una única administración protege hasta por 12 semanas.",
+    "\n\nEspecies: Perros."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 208,
+  "name": "Canisan F",
+  "image": "/products/canisan-f.png",
+  "laboratory": "Provet",
+  "description": [
+    "Antihelmíntico de amplio espectro para el control de parásitos gastrointestinales.",
+    "\nSu fórmula combina Albendazol y Praziquantel para una desparasitación total y segura con una sola dosis."
+  ],
+  "presentations": "Jeringa x 2.5 mL ,Jeringa x 5 mL, Jeringa x 10 mL",
+  "usage": [
+    "Dosis: 1 mL por cada 5 kg de peso corporal.",
+    "\n\nFrecuencia: Dosis única para una desparasitación total.",
+    "\n\nVía de Administración: Oral.",
+    "\n\nEspecies: Perros y gatos."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 209,
+  "name": "Pezosan N",
+  "image": "/products/pezosan-n.png",
+  "laboratory": "Provet",
+  "description": [
+    "Cicatrizante de uso tópico con propiedades anestésicas, bactericidas y regeneradoras de tejidos.",
+    "\nFormulado con Aceite de Kalaya, que actúa como transportador transdérmico para una mejor penetración de los activos."
+  ],
+  "presentations": "30 g , 100 g , 220 g",
+  "usage": [
+    "Modo de empleo: Realizar limpieza previa de la zona afectada y aplicar el producto.",
+    "\n\nFrecuencia: Aplicar 2 a 3 veces al día hasta obtener la curación total.",
+    "\n\nVía de Administración: Tópica (uso externo).",
+    "\n\nEspecies: Bovinos y otras especies según necesidad."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 210,
+  "name": "Coccigan Polvo",
+  "image": "/products/coccigan-polvo.png",
+  "laboratory": "Provet",
+  "description": [
+    "Anticoccidial en polvo soluble en agua indicado para el tratamiento de la coccidiosis.",
+    "\nEficaz contra la afección comúnmente conocida como 'diarrea negra' o 'curso negro' en bovinos."
+  ],
+  "presentations": "Caja x 50 Sobre 25 g",
+  "usage": [
+    "Dosis: 1 g por cada 20 kg de peso corporal.",
+    "\n\nFrecuencia: Administrar durante 5 días consecutivos.",
+    "\n\nModo de empleo: Puede mezclarse en la sal o disolverse en el agua de bebida.",
+    "\n\nVía de Administración: Oral.",
+    "\n\nEspecies: Bovinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 211,
+  "name": "Coccigan D",
+  "image": "/products/coccigan-d.png",
+  "laboratory": "Provet",
+  "description": [
+    "Anticoccidial oral de amplio espectro para el control y tratamiento de coccidiosis.",
+    "\nEficaz contra Eimeria y Cystoisospora en diversas especies, actuando rápidamente para detener la replicación del parásito."
+  ],
+  "presentations": "Jeringa x 20 mL",
+  "usage": [
+    "Bovinos y Ovinos: 1 mL por cada 20 kg de peso (Dosis única).",
+    "\n\nPorcinos: 3 mL por cada 20 kg de peso (Dosis única).",
+    "\n\nPerros: 7.5 mL por cada 10 kg de peso; repetir la dosis al día 7 y 14.",
+    "\n\nVía de Administración: Oral directa.",
+    "\n\nEspecies: Bovinos, porcinos, ovinos y perros (adultos y cachorros)."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 212,
+  "name": "Diurivet NF",
+  "image": "/products/diurivet-nf.png",
+  "laboratory": "Provet",
+  "description": [
+    "Diurético de asa indicado para el tratamiento de edemas y acumulación de líquidos en diversas condiciones clínicas.",
+    "\nAyuda a la eliminación rápida de líquidos sobrantes en el organismo de todas las especies animales."
+  ],
+  "presentations": "20 mL , 50 mL",
+  "usage": [
+    "Dosis: 1 mL por cada 20 kg de peso corporal.",
+    "\n\nFrecuencia: Cada 8 a 12 horas, dependiendo de la gravedad del caso.",
+    "\n\nVía de Administración: Intramuscular o intravenosa.",
+    "\n\nEspecies: Todas las especies (bovinos, equinos, caninos, felinos, etc.)."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 213,
+  "name": "Eritrovet",
+  "image": "/products/eritrovet.png",
+  "laboratory": "Provet",
+  "description": [
+    "Antibiótico en polvo soluble indicado para la prevención y tratamiento de enfermedades respiratorias.",
+    "\nEficaz contra la Enfermedad Respiratoria Crónica (CRD), Coriza Infecciosa y Peste Aviar."
+  ],
+  "presentations": "Caja x 50 Sobre 30 g",
+  "usage": [
+    "Dosis en aves: 1.2 g a 2.4 g por 1 litro de agua de bebida (equivalente a un sobre por cada 12.5 a 25 litros).",
+    "\n\nFrecuencia: Administrar durante 3 a 5 días consecutivos.",
+    "\n\nVía de Administración: Oral (disuelto en agua).",
+    "\n\nEspecies: Aves."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 214,
+  "name": "Ganador E",
+  "image": "/products/ganador-e.png",
+  "laboratory": "Provet",
+  "description": [
+    "Antiparasitario inyectable de liberación prolongada y actividad persistente.",
+    "\nEficaz contra una amplia gama de parásitos internos (nemátodos gastrointestinales y pulmonares) y externos en bovinos."
+  ],
+  "presentations": " 50 mL,250 mL, 500 mL",
+  "usage": [
+    "Indicación: Control y tratamiento de endo y ectoparásitos.",
+    "\n\nVía de Administración: Inyectable.",
+    "\n\nNota: Posee acción persistente para evitar reinfestaciones por periodos prolongados.",
+    "\n\nEspecies: Bovinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 215,
+  "name": "Metrivet",
+  "image": "/products/metrivet.png",
+  "laboratory": "Provet",
+  "description": [
+    "Óvulos uterinos espumantes indicados para la prevención y control de infecciones uterinas.",
+    "\nSu acción espumante permite una distribución uniforme del antibiótico en el tracto reproductivo de la vaca."
+  ],
+  "presentations": " Caja x 12 óvulos",
+  "usage": [
+    "Dosis: Aplicar de 1 a 2 óvulos por cada cuerno uterino.",
+    "\n\nFrecuencia: Administrar durante tres días consecutivos.",
+    "\n\nVía de Administración: Intrauterina (incluye mangas obstétricas para su aplicación).",
+    "\n\nEspecies: Bovinos (vacas)."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 216,
+  "name": "Metrivet C",
+  "image": "/products/metrivet-c.png",
+  "laboratory": "Provet",
+  "description": [
+    "Cefalosporina de amplio espectro indicada para el tratamiento de la endometritis posparto.",
+    "\nNo requiere tiempo de retiro en leche, lo que permite su uso en vacas en producción sin interrumpir el ordeño."
+  ],
+  "presentations": "Caja x 10 jeringas (jeringa x 19 g)",
+  "usage": [
+    "Dosis: Administrar el contenido total de una jeringa (19 g) por vaca.",
+    "\n\nFrecuencia: Una sola aplicación suele ser suficiente para el tratamiento.",
+    "\n\nVía de Administración: Intrauterina.",
+    "\n\nEspecies: Bovinos (vacas)."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 217,
+  "name": "Complejo B",
+  "image": "/products/complejo-b-all.png",
+  "laboratory": "All Vet",
+  "description": [
+    "Suplemento vitamínico y antianémico indicado para el tratamiento de enfermedades ocasionadas por deficiencias del complejo B.",
+    "\nAyuda en la recuperación de animales debilitados, mejora el metabolismo energético y favorece la formación de glóbulos rojos."
+  ],
+  "presentations": "Caja de 12 fco x 10 mL",
+  "usage": [
+    "Bovinos y Equinos: 1 mL por cada 50 kg de peso vivo.",
+    "\n\nOvinos, Caprinos y Porcinos: 2 mL por cada 50 kg de peso vivo.",
+    "\n\nPerros y Gatos: 1 mL por cada 10 kg de peso vivo.",
+    "\n\nVía de Administración: Intravenosa lenta o intramuscular profunda.",
+    "\n\nFrecuencia: Durante 3 a 5 días seguidos o según criterio del Médico Veterinario.",
+    "\n\nEspecies: Bovinos, equinos, ovinos, caprinos, porcinos, perros y gatos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 218,
+  "name": "Ivermectina 1%",
+  "image": "/products/ivermectina-1-all.png",
+  "laboratory": "All Vet",
+  "description": [
+    "Antiparasitario de amplio espectro para el tratamiento y control de parásitos internos (nematodos gastrointestinales y pulmonares) y externos (nuche, piojos y ácaros de la sarna).",
+    "\nActúa eficazmente contra larvas inhibidas de Ostertagia ostertagi y funciona como coadyuvante en el control de garrapatas."
+  ],
+  "presentations": "50 mL , 250 mL , 500 mL",
+  "usage": [
+    "Bovinos: 1 mL por cada 50 kg de peso vivo (200 mcg/kg).",
+    "\n\nPorcinos: 1 mL por cada 33 kg de peso vivo (300 mcg/kg).",
+    "\n\nVía de Administración: Subcutánea.",
+    "\n\nEspecies: Bovinos y Porcinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 219,
+  "name": "Levamisol 15%",
+  "image": "/products/levamisol-15-all.png",
+  "laboratory": "All Vet",
+  "description": [
+    "Antiparasitario interno indicado para el tratamiento y control de parásitos gastrointestinales y pulmonares en formas maduras e inmaduras.",
+    "\nEficaz contra una amplia gama de helmintos en bovinos, ovinos, caprinos y porcinos, incluyendo Dictyocaulus y Ascaris."
+  ],
+  "presentations": "Caja de 12 fco x 20 mL , 250 mL , 500 mL",
+  "usage": [
+    "Dosis: 1 mL por cada 30 kg de peso vivo (5 mg/kg).",
+    "\n\nDosis máxima: No exceder los 10 mL por animal.",
+    "\n\nVía de Administración: Intramuscular.",
+    "\n\nEspecies: Bovinos, ovinos, caprinos y porcinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 220,
+  "name": "Tilosina 20%",
+  "image": "/products/tilosina-20.png",
+  "laboratory": "All Vet",
+  "description": [
+    "Antibiótico macrólido indicado para el tratamiento de infecciones respiratorias, podales y sistémicas.",
+    "\nEficaz contra Pasteurella, Mycoplasma, Streptococcus y otros microorganismos sensibles en bovinos y porcinos."
+  ],
+  "presentations": "50 mL , 100 mL , 250 mL",
+  "usage": [
+    "Dosis: 1 mL por cada 20 kg de peso vivo (10 mg/kg).",
+    "\n\nFrecuencia: Administrar diariamente durante 5 días consecutivos.",
+    "\n\nVía de Administración: Intramuscular profunda.",
+    "\n\nRecomendación: No aplicar más de 10 mL por sitio de inyección en bovinos ni más de 5 mL en porcinos para evitar reacciones locales.",
+    "\n\nEspecies: Bovinos y Porcinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 221,
+  "name": "Nucherol",
+  "image": "/products/nucherol.png",
+  "laboratory": "Vicar",
+  "description": [
+    "Antiparasitario externo e interno a base de Metrifonato (Triclorfón).",
+    "\nEficaz en el control de nuche, moscas, piojos, ácaros de la sarna y diversos nematodos gastrointestinales."
+  ],
+  "presentations": "200 g ",
+  "usage": [
+    "Aplicación externa (aspersión): 1 sobre de 15 g en 10 litros de agua para piojos, sarna y moscas; o en 1.5 litros para larvas (nuche, miasis).",
+    "\n\nAplicación interna (oral): Disolver 1 sobre de 15 g en 150 mL de agua. En bovinos administrar 5 mL por cada 10 kg; en equinos 3.5 mL por cada 10 kg.",
+    "\n\nFrecuencia: Según criterio médico; en porcinos repetir al mes en caso de ectoparásitos.",
+    "\n\nEspecies: Bovinos, equinos, ovinos, caprinos, porcinos y aves."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 222,
+  "name": "Anaplasmol",
+  "image": "/products/anaplasmol.png",
+  "laboratory": "Vicar",
+  "description": [
+    "Reconstituyente ideal como coadyuvante en el tratamiento de anaplasmosis y babesiosis.",
+    "\nEstimula la formación de hemoglobina y de nuevas células, actuando además como estimulante del apetito."
+  ],
+  "presentations": "Caja x 3 ampolletas",
+  "usage": [
+    "Dosis: 1 ampolleta durante 3 días seguidos (mañana, mediodía y tarde).",
+    "\n\nEquivalencia: 6-7 mg por kilogramo de peso vivo.",
+    "\nVía de Administración: Subcutánea o intravenosa.",
+    "\nEspecies: Bovinos, equinos, porcinos y ovinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 223,
+  "name": "Cacodil B12",
+  "image": "/products/cacodil-b12.png",
+  "laboratory": "Vicar",
+  "description": [
+    "Reconstituyente tónico y antianémico indicado para el tratamiento de anemias causadas por deficiencia de vitamina B12 o complejo B.",
+    "\nFunciona como coadyuvante eficaz en el tratamiento de enfermedades como la anaplasmosis."
+  ],
+  "presentations": "Caja x 12 fco de 10 mL, 25 mL ,50 mL ,100 mL ,250 mL , 500 mL",
+  "usage": [
+    "Dosis Adultos (Bovinos/Equinos): 10 mL.",
+    "\nDosis Jóvenes (Terneros/Potros/Porcinos/Ovinos): 5 a 8 mL.",
+    "\nDosis Caninos: 1 a 3 mL.",
+    "\n\nFrecuencia: Una dosis cada dos días hasta completar 5, o dosis diaria por 5 días en casos graves.",
+    "\n\nVía de Administración: Intravenosa o intramuscular.",
+    "\nEspecies: Todas las especies."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 224,
+  "name": "Cacodil B15",
+  "image": "/products/cacodil-b15.png",
+  "laboratory": "Vicar",
+  "description": [
+    "Tónico reconstituyente, generador de energía y protector hepático indicado para todas las especies domésticas.",
+    "\nFunciona como antioxidante y desintoxicante, mejorando la recuperación ante la fatiga, el metabolismo muscular y la producción."
+  ],
+  "presentations":"Caja x 12 fco de 10 mL, 25 mL ,50 mL ,100 mL ,250 mL , 500 mL",
+  "usage": [
+    "Perros y gatos: 0.25 mL/kg de peso vivo.",
+    "\nPotros y terneros: 1 mL/30 kg de peso vivo.",
+    "\nEquinos y Bovinos adultos: 10 a 15 mL.",
+    "\nGanado lechero: 1 mL/70 kg.",
+    "\nOtras especies: Camelidos y Ovinos (2-6 mL), Cerdos (4 mL), Lechones (1-2 mL).",
+    "\nVía de Administración: Intramuscular o subcutánea.",
+    "\nEspecies: Todas las especies domésticas."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 225,
+  "name": "Fadyne A4",
+  "image": "/products/fadyne-a4.png",
+  "laboratory": "Vicar",
+  "description": [
+    "Analgésico, antiinflamatorio y antipirético potente indicado para el control del dolor, la fiebre y la inflamación.",
+    "\nEficaz en trastornos musculoesqueléticos, cólicos en equinos y como coadyuvante en el tratamiento de mastitis y metritis en bovinos y porcinos."
+  ],
+  "presentations": "10 mL, 30 mL , 50 mL",
+  "usage": [
+    "Equinos: 1 mL por cada 45 kg (IV o IM). En cólicos se recomienda vía IV para una respuesta más rápida.",
+    "\n\nBovinos: 2 mL por cada 45 kg (IV o IM) cada 12 a 24 horas según el caso (mastitis aguda, dolor).",
+    "\n\nPorcinos: 2 mL por cada 45 kg vía IM profunda (tratamiento de MMA y cojeras).",
+    "\n\nVía de Administración: Intravenosa o intramuscular.",
+    "\n\nEspecies: Bovinos, Equinos y Porcinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 226,
+  "name": "Sulfametazina",
+  "image": "/products/sulfametazina.png",
+  "laboratory": "Vicar",
+  "description": [
+    "Fármaco de primera elección para el tratamiento de infecciones producidas por microorganismos susceptibles a las sulfonamidas.",
+    "\nEficaz contra Haemophillus sp., Pasteurella sp., Escherichia coli, Streptococcus sp. y Staphylococcus sp., entre otros."
+  ],
+  "presentations": "50 mL , 100 mL ",
+  "usage": [
+    "Dosis inicial (Bovinos, Equinos, Porcinos, Ovinos): Administrar según el peso, por ejemplo, 40 mL para 50 kg o 400 mL para 500 kg.",
+    "\n\nDosis de mantenimiento: Administrar la mitad de la dosis inicial durante los 3 días siguientes.",
+    "\n\nDosis en aves: Vía oral en el agua de bebida a una concentración del 0.1% a 0.2%.",
+    "\n\nVía de Administración: Preferiblemente intravenosa; las vías I.M. o S.C. pueden producir irritaciones.",
+    "\n\nEspecies: Bovinos, Equinos, Porcinos, Ovinos y Aves."
+  ],
+  "category": ["ganaderia"]
+},{
+  "id": 227,
+  "name": "Bovipur 25-Co",
+  "image": "/products/bovipur.png",
+  "laboratory": "Vicar",
+  "description": [
+    "Antiparasitario interno de amplio espectro indicado para el tratamiento y control de parasitosis gastrointestinales, pulmonares y hepáticas.",
+    "\nEficaz contra formas maduras e inmaduras de nematodos, tenias (Moniezia sp.) y Fasciola hepática en bovinos y ovinos."
+  ],
+  "presentations": "Jeringa 12 mL,Jeringa 20 mL ,120 mL , 500 mL , 1000 mL , 2000 mL , 4000 mL",
+  "usage": [
+    "Parásitos gastrointestinales, pulmonares y tenias: 1 mL por cada 50 kg de peso vivo.",
+    "\n\nFasciola hepática: 2 mL por cada 50 kg de peso vivo.",
+    "\n\nVía de Administración: Oral o intrarruminal.",
+    "\n\nEspecies: Bovinos y Ovinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 228,
+  "name": "Estrongol",
+  "image": "/products/estrongol.png",
+  "laboratory": "Vicar",
+  "description": [
+    "Antiparasitario pulmonar que actúa paralizando los nematodos al interferir con su función nerviosa.",
+    "\nEfectivo contra formas adultas e inmaduras de Dictyocaulus viviparus y Metastrongylus sp., eliminándolas antes de que causen daño pulmonar."
+  ],
+  "presentations": "10 mL, 50 mL , 100 mL",
+  "usage": [
+    "Vía Intramuscular: Bovinos (10 mL/100 kg), Ovinos y Porcinos (2 mL/20 kg).",
+    "\n\nVía Oral: Bovinos (15 mL/100 kg), Ovinos (2 mL/20 kg), Porcinos (3 mL/20 kg).",
+    "\n\nIndicaciones: Tratamiento de parasitismo pulmonar (Bronquitis verminosa).",
+    "\n\nEspecies: Bovinos, Ovinos y Porcinos."
+  ],
+  "category": ["ganaderia"]
+},{
+  "id": 229,
+  "name": "Melovet 2.0",
+  "image": "/products/melovet.png",
+  "laboratory": "Vicar",
+  "description": [
+    "Antiinflamatorio no esteroideo (AINE) con acción analgésica y antipirética a base de meloxicam.",
+    "\nIndicado para el alivio del dolor e inflamación en trastornos musculoesqueléticos agudos o crónicos, cirugías y traumatismos."
+  ],
+  "presentations": "Tabletas 2.0 mg",
+  "usage": [
+    "Perros (Día 1): 0.2 mg/kg (2 tabletas por cada 20 kg de peso vivo).",
+    "\n\nPerros (Mantenimiento): 0.1 mg/kg (1 tableta por cada 20 kg de peso vivo) cada 24 horas.",
+    "\n\nGatos (Día 1): 0.3 mg/kg.",
+    "\n\nGatos (Mantenimiento): 0.05 mg/kg cada 24 horas, hasta por 4 días.",
+    "\n\nVía de Administración: Oral.",
+    "\n\nEspecies: Perros y Gatos."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 230,
+  "name": "Ampromax Polvo",
+  "image": "/products/ampromax.png",
+  "laboratory": "Icofarma",
+  "description": [
+    "Coccidicida y antibacteriano de doble acción (Amprolio + Sulfaquinoxalina) para el control y tratamiento de la coccidiosis y diarreas bacterianas.",
+    "\nActúa inhibiendo la diferenciación de merozoítos y la esporulación de oocistos, además de detener el crecimiento de bacterias Gram positivas y Gram negativas."
+  ],
+  "presentations": "Caja x 30 sobres de 20 g",
+  "usage": [
+    "Bovinos y Ovinos: 1 g por cada 25 kg de peso vivo (1 sobre de 20 g por cada 500 kg).",
+    "\n\nPollos de engorde y Pollas de reemplazo: 1 g por litro de agua de bebida.",
+    "\n\nFrecuencia: Cada 24 horas por un mínimo de 7 días.",
+    "\n\nVía de Administración: Oral.",
+    "\n\nTiempo de Retiro: Carne 10 días, Leche 10 días.",
+    "\n\nEspecies: Bovinos, Ovinos y Aves (Pollos y Pollas)."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 231,
+  "name": "Fenbecur Co",
+  "image": "/products/fenbecur.png",
+  "laboratory": "Icofarma",
+  "description": [
+    "Antiparasitario de amplio espectro (Fenbendazol 25%) con efecto ovicida, larvicida y adulticida.",
+    "\nIncluye sulfato de cobalto para mejorar la absorción intestinal y estimular la síntesis de vitamina B12 en el rumen.",
+    "\nActúa inhibiendo la proteína tubulina y la enzima fumarato reductasa en los parásitos."
+  ],
+  "presentations": "120 mL ,500 mL",
+  "usage": [
+    "Bovinos, Equinos, Ovinos, Caprinos y Porcinos: 1 mL por cada 50 kg de peso vivo (5 mg/kg).",
+    "\n\nFrecuencia: Se recomienda repetir a los 21 días para romper el ciclo parasitario y luego cada 3 meses.",
+    "\n\nVía de Administración: Oral e intrarruminal.",
+    "\n\nSeguridad: Producto seguro para uso en hembras preñadas.",
+    "\n\nTiempo de Retiro: Carne 11 días, Leche 4 días.",
+    "\n\nEspecies: Bovinos, Equinos, Ovinos, Caprinos y Porcinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 232,
+  "name": "Icofasiol",
+  "image": "/products/icofasiol.png",
+  "laboratory": "Icofarma",
+  "description": [
+    "Antiparasitario interno de amplio espectro (Fenbendazol + Triclabendazol) con potente acción contra parásitos gastrointestinales, pulmonares y hepáticos.",
+    "\nControla todos los estadios de la Fasciola hepática (potente acción sobre todas sus etapas).",
+    "\nActúa inhibiendo la proteína tubulina y la enzima fumarato reductasa en los parásitos."
+  ],
+  "presentations": "Jeringa x 30 mL",
+  "usage": [
+    "Bovinos, Ovinos y Caprinos: 1 mL por cada 10 kg de peso vivo (equivalente a 10 mL por cada 100 kg).",
+    "\n\nFrecuencia: Se recomienda repetir a los 21 días para romper el ciclo parasitario y luego cada 3 meses.",
+    "\n\nVía de Administración: Oral e intrarruminal.",
+    "\n\nTiempo de Retiro: Carne 28 días, Leche 28 días.",
+    "\n\nEspecies: Bovinos, Ovinos y Caprinos."
+  ],
+  "category": ["ganaderia"]
+},{
+  "id": 233,
+  "name": "Garrapathion",
+  "image": "/products/garrapathion.png",
+  "laboratory": "Icofarma",
+  "description": [
+    "Antiparasitario externo a base de Amitraz (20.8%) que actúa como antagonista de los receptores de octopamina, provocando parálisis y muerte de los parásitos.",
+    "\nEficaz contra garrapatas resistentes a organofosforados y piretroides; posee efecto repelente y evita que los parásitos se fijen al hospedador.",
+    "\nFórmula estable en aguas con pH ácidos y alcalinos gracias a su contenido de estabilizantes y Nonil Fenol."
+  ],
+  "presentations": "20 mL ,100 mL ,500 mL , 1000 mL",
+  "usage": [
+    "Bovinos: Diluir 1 mL por cada litro de agua. Aplicar 1 litro de la dilución por cada 100 kg de peso vivo.",
+    "\n\nIntervalo: Se sugiere aplicar cada 21 días.",
+    "\n\nOtros usos: Control y tratamiento de sarnas como Demodex canis y Sarcoptes scabiei.",
+    "\n\nVía de Administración: Externa exclusivamente (tópica/dérmica).",
+    "\n\nTiempo de Retiro: Carne 14 días, Leche 24 horas.",
+    "\n\nEspecies: Bovinos y Caninos."
+  ],
+  "category": ["ganaderia", "mascotas","insecticidas"]
+},
+{
+  "id": 234,
+  "name": "BAÑAMAX",
+  "image": "/products/banamax.png",
+  "laboratory": "Icofarma",
+  "description": [
+    "Antiparasitario externo a base de Cipermetrina potenciado con Butóxido de Piperonilo, lo que aumenta su eficacia hasta 12 veces.",
+    "\nActúa bloqueando los impulsos nerviosos en los parásitos y detiene su ciclo reproductivo al inhibir la ovoposición y la eclosión de larvas.",
+    "\nFormulación innovadora que incluye excipientes como Nonil Fenol para mejorar la adherencia y combatir mecanismos de resistencia."
+  ],
+  "presentations": "20 mL ,120 mL",
+  "usage": [
+    "Aspersión (Bovinos): Diluir 1 mL por cada litro de agua. Aplicar 1 litro de la mezcla por cada 100 kg de peso vivo.",
+    "\n\nUso en instalaciones: Tratamiento y control de moscas y garrapatas en áreas pecuarias.",
+    "\n\nMétodo alternativo (Pour on): Diluir 1 mL de producto en 10 mL de aceite mineral para aplicación con brocha.",
+    "\n\nFrecuencia: Intervalo sugerido de 21 días entre baños.",
+    "\n\nTiempo de Retiro: Carne 48 horas, Leche 24 horas.",
+    "\n\nVía de Administración: Externa exclusivamente (tópica/dérmica).",
+    "\n\nEspecies: Bovinos."
+  ],  
+  "category": ["ganaderia","insecticidas"]
+},
+{
+  "id": 235,
+  "name": "Ektomex D",
+  "image": "/products/ektomex-d.png",
+  "laboratory": "Icofarma",
+  "description": [
+    "Antiparasitario de amplio espectro a base de Doramectina con biodisponibilidad cercana al 100% tras su aplicación.",
+    "\nActúa estimulando la liberación de GABA, provocando parálisis flácida, muerte del parásito y afectando la producción de huevecillos.",
+    "\nSu lenta liberación desde el tejido graso permite una prolongada permanencia en la circulación sistémica."
+  ],
+  "presentations": "50 mL , 100 mL , 250 mL , 500 mL",
+  "usage": [
+    "Bovinos, Ovinos y Caprinos: 1 mL por cada 50 kg de peso vivo (200 mcg/kg).",
+    "\n\nPorcinos: 1 mL por cada 33 kg de peso vivo (300 mcg/kg).",
+    "\n\nFrecuencia: Se recomienda repetir cada 3 meses o según criterio veterinario.",
+    "\n\nVía de Administración: Subcutánea.",
+    "\n\nTiempo de Retiro: Carne 35 días (bovinos/ovinos) y 28 días (porcinos). No usar en hembras lactantes.",
+    "\n\nEspecies: Bovinos, Ovinos, Caprinos y Porcinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 236,
+  "name": "Calplus",
+  "image": "/products/calplus.png",
+  "laboratory": "Icofarma",
+  "description": [
+    "Suplemento vitamínico y mineral con agradable sabor a caramelo que estimula el apetito y actúa como protector hepático.",
+    "\nContiene fósforo y calcio esenciales para la coagulación, la función cardíaca, la excitabilidad neuromuscular y la activación enzimática.",
+    "\nIndicado para el tratamiento de carencias minerales, raquitismo, osteoporosis, retraso en el crecimiento y desnutrición."
+  ],
+  "presentations": "Jeringa x 30 mL ,120 mL , 500 mL , 1000 mL",
+  "usage": [
+    "Terneros y Potros: 150 mL por cada 45 kg de peso vivo al día.",
+    "\n\nLechones: 120 mL por cada 30 kg de peso vivo al día.",
+    "\n\nVía de Administración: Oral (directo o mezclado con el alimento).",
+    "\n\nTiempo de Retiro: No posee.",
+    "\n\nEspecies: Bovinos (terneros), Equinos (potros) y Porcinos (lechones)."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 237,
+  "name": "Icornol",
+  "image": "/products/icornol.png",
+  "laboratory": "Icofarma",
+  "description": [
+    "Descornador químico a base de Hidróxido de Potasio, una sustancia fuertemente alcalina y corrosiva.",
+    "\nActúa produciendo deshidratación celular, coagulación y destrucción de las proteínas en el área aplicada.",
+    "\nIndicado para evitar el nacimiento de los cuernos en animales jóvenes de forma no traumática y de fácil aplicación."
+  ],
+  "presentations": "50 g",
+  "usage": [
+    "Bovinos y Caprinos jóvenes: Aplicar hasta las 8 semanas de edad.",
+    "\n\nAplicación: Cortar el pelo y aplicar una pequeña cantidad de gel en el brote del cuerno, friccionando circularmente hasta desprender la epidermis.",
+    "\n\nVía de Administración: Vía externa exclusivamente (tópica/dérmica).",
+    "\n\nTiempo de Retiro: No presenta tiempo de retiro.",
+    "\n\nEspecies: Bovinos y Caprinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 238,
+  "name": "Bistop",
+  "image": "/products/bistop.png",
+  "laboratory": "Icofarma",
+  "description": [
+    "Antidiarréico y antiácido que recubre la mucosa gástrica, defendiéndola de la actividad digestiva del ácido y la pepsina.",
+    "\nPosee un efecto bactericida que inhibe la síntesis de la pared bacteriana y normaliza el movimiento de líquidos intestinales sin barrer la flora.",
+    "\nEstimula la generación de prostaglandinas citoprotectoras y cuenta con un agradable sabor gracias al sorbitol y la sacarina."
+  ],
+  "presentations": "60 mL , 120 mL",
+  "usage": [
+    "Bovinos y Equinos: 100 mL por cada 88 kg de peso vivo.",
+    "\n\nOvinos y Caprinos: 3.5 a 8.5 mL por cada 10 kg de peso vivo.",
+    "\n\nPorcinos: 40 mL por cada 35 kg de peso vivo.",
+    "\n\nFrecuencia: Administrar 3 veces al día, durante 3 a 5 días.",
+    "\n\nVía de Administración: Oral.",
+    "\n\nTiempo de Retiro: No posee tiempo de retiro.",
+    "\n\nEspecies: Bovinos, Equinos, Ovinos, Caprinos y Porcinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 239,
+  "name": "Ubrevet",
+  "image": "/products/ubrevet.png",
+  "laboratory": "Icofarma",
+  "description": [
+    "Ungüento dermatológico de acción local inmediata con propiedades cicatrizantes, bactericidas y regeneradoras celulares.",
+    "\nContiene Óxido de Zinc como antiséptico, Lidocaína para la pérdida temporal de sensibilidad, Alantoína como cicatrizante natural y Neomicina como antibiótico bactericida.",
+    "\nIndicado para el tratamiento de heridas, laceraciones, quemaduras y lesiones en la ubre, así como en procesos postquirúrgicos en animales de compañía."
+  ],
+  "presentations": "30 g , 100 g , 220 g",
+  "usage": [
+    "Aplicación: Cubrir el área afectada dos o tres veces al día hasta la curación total.",
+    "\n\nVía de Administración: Vía externa (tópica/dérmica).",
+    "\n\nTiempo de Retiro: No presenta tiempo de retiro.",
+    "\n\nEspecies: Bovinos, ovinos, caprinos, porcinos y animales de compañía."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 240,
+  "name": "Meloxican",
+  "image": "/products/splend-meloxican.png",
+  "laboratory": "Icofarma",
+  "description": [
+    "Analgésico, antiinflamatorio y antipirético de elección para cuadros febriles, dolor posquirúrgico y afecciones musculoesqueléticas.",
+    "\nPosee un bajo potencial ulcerogénico y un agradable sabor a frambuesa que facilita la administración en mascotas."
+  ],
+  "presentations": "10 mL , 30 mL",
+  "usage": [
+    "Perros (Día 1): 0.2 mg/kg (2 gotas por kg de peso).",
+    "\n\nGatos (Día 1): 0.3 mg/kg (3 gotas por kg de peso).",
+    "\n\nMantenimiento (Día 2 en adelante): 0.1 mg/kg (1 gota por kg de peso) en ambas especies.",
+    "\n\nFrecuencia: Cada 24 horas, durante 5 a 7 días.",
+    "\n\nVía de Administración: Oral.",
+    "\n\nEspecies: Perros y Gatos."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 241,
+  "name": "Splend colirio",
+  "image": "/products/splend-colirio.png",
+  "laboratory": "Icofarma",
+  "description": [
+    "Solución oftálmica y ótica de acción polivalente: bactericida, antiinflamatoria, antipruriginosa y anestésica.",
+    "\nContiene Gentamicina para combatir infecciones, Dexametasona para reducir la inflamación y Lidocaína para brindar alivio local del dolor.",
+    "\nIndicado para el tratamiento de afecciones como blefaritis, conjuntivitis, queratitis y otitis externas o medias causadas por infecciones o agentes irritantes."
+  ],
+  "presentations": "10 mL",
+  "usage": [
+    "Uso Ocular (Perros y Gatos): Aplicar 2 a 3 gotas, 2 a 3 veces al día, en el ojo afectado.",
+    "\n\nUso Ótico (Perros y Gatos): Aplicar 4 a 5 gotas, 2 a 3 veces al día, en el pabellón auricular durante 3 a 5 días.",
+    "\n\nVía de Administración: Ótica y ocular.",
+    "\n\nEspecies: Perros y Gatos."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 242,
+  "name": "Espolon",
+  "image": "/products/espolon.png",
+  "laboratory": "Pharmavet",
+  "description": [
+    "Suplemento multivitamínico y mineral diseñado para el entrenamiento de animales de competencia y bienestar general.",
+    "\nMejora la piel, el plumaje, fortalece el pico y los espolones, y favorece la contextura ósea.",
+    "\nEstimula la producción de hormonas, ayuda a la conversión energética y fortalece el sistema inmune."
+  ],
+  "presentations": "Caja x 20 Tabletas",
+  "usage": [
+    "Gallos de pelea y Aves en general: 1 a 2 tabletas al día, suministradas antes del alimento.",
+    "\n\nPerros y Gatos: Una tableta 3 veces al día.",
+    "\n\nVía de Administración: Oral.",
+    "\n\nEspecies: Aves (Gallos de pelea, reproductores, pollas de reemplazo), Perros y Gatos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 243,
+  "name": "Zymorex",
+  "image": "/products/zymorex.png",
+  "laboratory": "Pharmavet",
+  "description": [
+    "Antiinflamatorio y fibrinolítico de origen natural a base de enzimas proteolíticas (Tripsina y Quimotripsina).",
+    "\n\nIndicado para el tratamiento de procesos inflamatorios, fibrosis (mastitis, metritis), y como coadyuvante en infecciones al facilitar la acción de antibióticos.",
+    "\n\nAyuda a prevenir la adhesión de tejidos en cirugías, acelera la recuperación de hematomas y elimina restos celulares muertos en necrosis."
+  ],
+  "presentations": "10 mL",
+  "usage": [
+    "Dosis General: 1 mL por cada 40 a 60 kg de peso vivo.",
+    "\n\nFrecuencia: Cada 12 a 24 horas por un periodo de 3 a 5 días.",
+    "\n\nVía de Administración: Inyección intramuscular profunda únicamente.",
+    "\n\nRestricciones: No usar en equinos.",
+    "\n\nTiempo de Retiro: No tiene tiempo de retiro en carne ni en leche.",
+    "\n\nEspecies: Todas las especies (excepto equinos)."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 244,
+  "name": "Tusivet",
+  "image": "/products/tusivet.png",
+  "laboratory": "Pharmavet",
+  "description": [
+    "Jarabe antitusivo y expectorante diseñado para suprimir la tos y favorecer la expulsión de flemas en mascotas.",
+    "\nIndicado para el tratamiento de la tos asociada a enfermedades respiratorias y la tos de las perreras.",
+    "\nMejora el bienestar general del animal al disminuir la frecuencia de la tos."
+  ],
+  "presentations": "120 mL",
+  "usage": [
+    "Perros y Gatos: 0.5 a 1 mL por kg de peso vivo.",
+    "\n\nFrecuencia: 2 a 4 veces al día por 5 días o hasta la desaparición total de los síntomas.",
+    "\n\nVía de Administración: Oral.",
+    "\n\nEspecies: Perros y Gatos."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 245,
+  "name": "Artripet",
+  "image": "/products/artripet.png",
+  "laboratory": "Pharmavet",
+  "description": [
+    "Medicamento homeopático de origen natural diseñado para el manejo integral de patologías articulares.",
+    "\nIndicado para diversas especies, principalmente perros y gatos."
+  ],
+  "presentations": "Fco x 30 tabletas",
+  "usage": [
+    "Menos de 15 kg: 1 tableta, 2 veces al día.",
+    "\n\nMás de 15 kg: 2 tabletas, 2 veces al día.",
+    "\n\nVía de Administración: Oral.",
+    "\n\nEspecies: Perros y Gatos."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 246,
+  "name": "Creolina cooper",
+  "image": "/products/creolina-cooper.png",
+  "laboratory": "Otros",
+  "description": [
+    "Desinfectante fenólico de uso especializado diseñado para higiene profunda en entornos pecuarios, industriales y domésticos.",
+    "\nEmulsión concentrada con un mínimo de 15% de fenoles, altamente eficaz contra bacterias, hongos y moho.",
+    "\nIdeal para la desinfección de superficies que requieren una limpieza rigurosa."
+  ],
+  "presentations": "60 mL , 120 mL , 470 mL",
+  "usage": [
+    "Preparación: Mezclar 120 mL de producto en 1 litro de agua para obtener una solución al 12%.",
+    "\n\nAplicación: Aplicar sobre la superficie deseada y dejar actuar entre 10 y 15 minutos.",
+    "\n\nFinalización: Enjuagar con abundante agua tras el tiempo de acción.",
+    "\n\nVía de Administración: Uso externo exclusivamente para superficies."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 247,
+  "name": "Azufre",
+  "image": "/products/azufre.png",
+  "laboratory": "Otros",
+  "description": [
+    "Mineral esencial con propiedades queratolíticas, antifúngicas y antiparasitarias.",
+    "\nActúa como repelente natural contra garrapatas y moscas al ser eliminado por la piel tras su ingesta.",
+    "\nContribuye a la formación de tejidos, mejora la digestión de forrajes y favorece un pelaje brillante y sano."
+  ],
+  "presentations": " 1 libra",
+  "usage": [
+    "Ganadería Bovina: Suplementación de 5 a 12 gramos diarios por animal para control de parásitos y mejora de producción.",
+    "\n\nMascotas (MSM): Apoyo a la función articular y del tejido conectivo en perros y gatos.",
+    "\n\nVía de Administración: Oral (suplementación alimenticia) o tópica según la necesidad.",
+    "\n\nEspecies: Bovinos, Perros y Gatos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 248,
+  "name": "Aceite mineral",
+  "image": "/products/aceite-mineral.png",
+  "laboratory": "Otros",
+  "description": [
+    "Laxante y lubricante intestinal líquido, incoloro e inodoro, que actúa ablandando el bolo fecal sin irritar la mucosa.",
+    "\nUtilizado para el alivio del estreñimiento, tratamiento de cólicos e impactaciones en equinos y bovinos.",
+    "\nTambién se emplea para dar brillo al pelaje en animales de exhibición y para reducir el polvo en suplementos vitamínicos."
+  ],
+  "presentations": "500 mL",
+  "usage": [
+    "Equinos: 250 mL a 1000 mL.",
+    "\n\nBovinos: 250 mL a 960 mL.",
+    "\n\nCerdos, Ovejas y Cabras: 25 mL a 300 mL.",
+    "\n\nPerros: 5 mL a 30 mL (aprox. 1 cucharadita por cada 5 kg mezclada en la comida).",
+    "\n\nGatos: 2 mL a 6 mL.",
+    "\n\nVía de Administración: Oral.",
+    "\n\nEspecies: Equinos, Bovinos, Porcinos, Ovinos, Caprinos, Perros y Gatos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 249,
+  "name": "Sulfato de magnesio",
+  "image": "/products/sulfato-magnesio.png",
+  "laboratory": "Otros",
+  "description": [
+    "Compuesto versátil conocido como sales de Epsom que actúa como laxante osmótico, suplemento mineral y agente antiinflamatorio tópico.",
+    "\nPor vía oral, facilita el tránsito intestinal al atraer agua al intestino, siendo eficaz contra el estreñimiento e impactaciones.",
+    "\nSe utiliza para corregir la hipomagnesemia (tetania de los pastos) y como coadyuvante en el tratamiento de convulsiones y arritmias.",
+    "\nEn uso tópico, alivia dolores musculares, esguinces leves e inflamaciones en los cascos."
+  ],
+  "presentations": "1 libra",
+  "usage": [
+    "Bovinos (Adultos): 250 a 500 g por vía oral.",
+    "\n\nEquinos: 50 a 100 g (puede repetirse cada 8-12h).",
+    "\n\nOvejas y Cabras: 15 a 30 g.",
+    "\n\nPerros: 5 a 25 g.",
+    "\n\nGatos: 2 a 5 g.",
+    "\n\nVía de Administración: Oral (laxante), Inyectable (deficiencias) o Tópica (inflamaciones).",
+    "\n\nEspecies: Bovinos, Equinos, Ovinos, Caprinos, Perros y Gatos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 250,
+  "name": "Nexgard",
+  "image": "/products/nexgard.png",
+  "laboratory": "Boehringer",
+  "description": [
+    "Antiparasitario externo en tabletas masticables con sabor a carne que elimina pulgas, garrapatas y ácaros.",
+    "\nAcción rápida que comienza a eliminar pulgas en 30 minutos, alcanzando el 100% de eficacia a las 8 horas.",
+    "\nMecanismo de acción que sobreestimula el sistema nervioso de los parásitos, causándoles la muerte antes de que pongan huevos.",
+    "\nProtección continua durante 30 días sin perder eficacia por baños o natación."
+  ],
+  "presentations": " 2 - 4 kg , 4.1 - 10 kg , 10.1 - 25 kg , 25.1 - 50 kg",
+  "usage": [
+    "Dosis: Una tableta masticable mensual según el rango de peso del perro.",
+    "\n\nXS (2 a 4 kg): Para perros muy pequeños.",
+    "\n\nS (4.1 a 10 kg): Para perros pequeños.",
+    "\n\nM (10.1 a 25 kg): Para perros medianos.",
+    "\n\nL (25.1 a 50 kg): Para perros grandes.",
+    "\n\nVía de Administración: Oral.",
+    "\n\nEspecies: Perros."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 251,
+  "name": "Calmadex",
+  "image": "/products/calmadex.png",
+  "laboratory": "Vecol",
+  "description": [
+    "Solución estéril para uso parenteral a base de gluconato de calcio, cloruro de magnesio, hipofosfito de calcio y dextrosa anhidra.",
+    "\nIndicado para el tratamiento de deficiencias de Calcio, Fósforo y Magnesio, así como en casos de hipoglicemia y fiebre de leche.",
+    "\nActúa como coadyuvante en el tratamiento del Síndrome de la vaca caída, eclampsia puerperal y cetosis bovina."
+  ],
+  "presentations": "500 mL",
+  "usage": [
+    "Dosis General: 120 mL por cada 100 kg de peso vivo.",
+    "\n\nEjemplos de dosificación: 10kg (12mL), 50kg (60mL), 100kg (120mL), 400kg (480mL).",
+    "\n\nVía de Administración: Intravenosa o intraperitoneal (incluye equipo de venoclisis).",
+    "\n\nEspecies: Bovinos, Equinos, Porcinos, Ovinos y Caprinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 252,
+  "name": "Gestavec",
+  "image": "/products/gestavec.png",
+  "laboratory": "Vecol",
+  "description": [
+    "Hormona luteínica en solución inyectable diseñada para el mantenimiento de la preñez.",
+    "\nIndicado específicamente para casos de amenaza de aborto causados por insuficiencia en la producción de progesterona.",
+    "\nActúa proporcionando el soporte hormonal necesario para asegurar la estabilidad de la gestación en diversas especies."
+  ],
+  "presentations": "10 mL",
+  "usage": [
+    "Bovinos y Equinos: Aplicar 2 a 4 mL.",
+    "\nOvinos y Porcinos: Aplicar 0.6 a 1 mL.",
+    "\nVía de Administración: Intramuscular profunda.",
+    "\nEspecies: Bovinos, Equinos, Porcinos y Ovinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 253,
+  "name": "Gestavec d",
+  "image": "/products/gestavec-d.png",
+  "laboratory": "Vecol",
+  "description": [
+    "Dispositivo intravaginal indicado para la sincronización del celo en vacas y vaquillonas.",
+    "\nEspecialmente diseñado para programas de inseminación artificial a tiempo fijo (IATF).",
+    "\nPermite un control preciso del ciclo estral mediante la liberación hormonal controlada."
+  ],
+  "presentations": " 0.6 , 1.2",
+  "usage": [
+    "Dosis: Utilizar un dispositivo por animal mediante aplicador desinfectado.",
+    "\n\nSincronización básica: Día 0 colocar dispositivo; Día 8 retirar y aplicar D+cloprostenol; IA 12h después de detección de celo.",
+    "\n\nProtocolo IATF: Día 0 colocar dispositivo; Día 8 retirar y aplicar D+cloprostenol; Día 9 Benzoato de Estradiol; IATF a las 54h del retiro.",
+    "\n\nVía de Administración: Intravaginal.",
+    "\n\nEspecies: Bovinos (Vacas y vaquillonas)."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 254,
+  "name": "Alervec",
+  "image": "/products/alervec.png",
+  "laboratory": "Vecol",
+  "description": [
+    "Antihistamínico y antialérgico inyectable a base de Clorhidrato de Difenhidramina.",
+    "\nIndicado para el tratamiento de reacciones alérgicas, shock anafiláctico, dermatitis, urticaria y conjuntivitis.",
+    "\nActúa como coadyuvante eficaz en procesos inflamatorios de origen alérgico en diversas especies."
+  ],
+  "presentations": "10 mL , 50 mL",
+  "usage": [
+    "Bovinos y Equinos: 1 mL por cada 25 kg de peso vivo.",
+    "\nCaninos y Felinos: 0.2 mL por cada 10 kg de peso vivo.",
+    "\nVía de Administración: Intramuscular o intravenosa.",
+    "\nFrecuencia: Según criterio del Médico Veterinario.",
+    "\n\nEspecies: Bovinos, Equinos, Caninos y Felinos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 255,
+  "name": "Sulfallidol",
+  "image": "/products/sulfallidol.png",
+  "laboratory": "Vecol",
+  "description": [
+    "Ungüento tópico cicatrizante y epitelizante de uso externo para el tratamiento de lesiones de la piel.",
+    "\nActúa como regenerador de epitelios en quemaduras, excoriaciones, heridas, grietas en los pezones, eczemas infectados y fístulas superficiales."
+  ],
+  "presentations": "100 g",
+  "usage": [
+    "Aplicación: Previa limpieza del área afectada, aplicar externamente frotando bien.",
+    "\nFrecuencia: 2 a 3 veces al día.",
+    "\nVía de Administración: Tópica (uso externo).",
+    "\n\nEspecies: Bovinos, Equinos, Porcinos, Ovinos, Caprinos y Caninos."
+  ],
+  "category": ["ganaderia", "mascotas"]
+},
+{
+  "id": 256,
+  "name": "Rabican",
+  "image": "/products/rabican.png",
+  "laboratory": "Vecol",
+  "description": [
+    "Vacuna elaborada con virus rábico inactivado para la inmunización activa contra el virus de la rabia.",
+    "\nIndicada para la prevención y control de la rabia en mascotas.",
+    "\nProporciona una respuesta inmunológica segura y efectiva."
+  ],
+  "presentations": "Fco x 10 dosis",
+  "usage": [
+    "Dosis: 1 mL por animal.",
+    "\nVía de Administración: Subcutánea.",
+    "\nEspecies: Perros y Gatos."
+  ],
+  "category": ["mascotas"]
+},
+{
+  "id": 257,
+  "name": "Estomatitis",
+  "image": "/products/estomatitis.png",
+  "laboratory": "Vecol",
+  "description": [
+    "Vacuna inactivada en suspensión oleosa bivalente contra el virus de la estomatitis vesicular (serotipos Indiana y New Jersey).",
+    "\nIndicada para la inmunización activa de bovinos y porcinos sanos.",
+    "\nProducida bajo estrictas normas internacionales de bioseguridad en plantas de alta tecnología."
+  ],
+  "presentations": "25 mL , 50 mL , 100 mL , 200 mL , 250 mL",
+  "usage": [
+    "Bovinos: 5 mL por vía intramuscular o subcutánea. Revacunar cada 6 meses.",
+    "\n\nPorcinos (Dosis general): 2.5 mL por vía intramuscular en la tabla del cuello.",
+    "\n\nPorcinos (Esquema): Lechones (post-destete), Hembras (inicio de ciclo reproductivo) y Machos (anual).",
+    "\n\nVía de Administración: Intramuscular o Subcutánea (Bovinos) / Intramuscular (Porcinos).",
+    "\n\nEspecies: Bovinos y Porcinos."
+  ],
+  "category": ["ganaderia"]
+},
+{
+  "id": 258,
+  "name": "Rayo vacuna",
+  "image": "/products/rayo-vacuna.png",
+  "laboratory": "Vecol",
+  "description": [
+    "Suspensión de esporos vivos atenuados de Bacillus anthracis, Cepa Sterne F-34, cultivada por fermentación.",
+    "\nVacuna para la inmunización activa contra el carbón bacteridiano, ántrax o “Peste Rayo”.",
+    "\nIndicada para animales sanos de 6 meses en adelante."
+  ],
+  "presentations": "Fco x 25 dosis , Fco x 50 dosis",
+  "usage": [
+    "Bovinos: Aplicar 2 mL por vía subcutánea en la tabla del cuello.",
+    "\nEquinos y Ovinos: Aplicar 1 mL en la tabla del cuello.",
+    "\nPorcinos: Aplicar 1 mL en la parte posterior o base de la oreja.",
+    "\nFrecuencia: Revacunación anual.",
+    "\nVía de Administración: Subcutánea.",
+    "\nEspecies: Bovinos, Equinos, Ovinos y Porcinos."
+  ],
+  "category": ["ganaderia"]
+}
+
+]
